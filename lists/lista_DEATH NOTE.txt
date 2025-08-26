@@ -1,0 +1,96 @@
+Nombre: Series de Anime
+
+Nombre: Death Note
+
+genero: Animación, Misterio, Sci-Fi & Fantasy
+
+descripción: Light Yagami es un as estudiante con grandes perspectivas, y está aburrido de su mente. Pero todo eso cambia cuando encuentra la Nota de la Muerte, un cuaderno caído por un malvado dios Shinigami. Todo ser humano cuyo nombre está escrito en el cuaderno muere, y Luz ha prometido usar el poder de la Nota de la Muerte para librar al mundo del mal. ¿Pero la Luz tendrá éxito en su noble meta, o la Nota de la Muerte lo convertirá en la misma cosa contra la que lucha?
+
+anio: 2006
+
+iconPng: https://image.tmdb.org/t/p/original/tdmqbFnG79NFRoQkI2HrrfAWRQv.png
+
+icono: https://image.tmdb.org/t/p/original/u878Dny3e6ajNGLeJJcYq9c60SP.jpg
+
+logohorizontal: https://image.tmdb.org/t/p/original/brO0acsI82ikvp7S0yszhbUupiF.jpg
+
+temporadas
+nombre: temporada 1
+
+tmbdid: 13916
+
+
+01 Renacimiento
+https://drive.usercontent.google.com/download?id=13ANR5HcryWK_EUrMCT2fNf8QAWgTfXcH&export=download&authuser=0&confirm=t.mkv
+02 Duelo
+https://drive.usercontent.google.com/download?id=1XhUjr4uHYiiHDlV2Ylwj4SclWzmR3mJF&export=download&authuser=0&confirm=t.mkv
+03 Negociaciones
+https://drive.usercontent.google.com/download?id=1RCjjpOrB7hZZws9dtGbkB2BXWphuS4aq&export=download&authuser=0&confirm=t.mkv
+04 Persecución
+https://drive.usercontent.google.com/download?id=1dEP3v49aomnx_19EFVTUZYfWEbkunp6E&export=download&authuser=0&confirm=t.mkv
+05 Estrategia
+https://drive.usercontent.google.com/download?id=17zcu1xG5Mo5Wa0-9kYJ5gEpdjqyggHMr&export=download&authuser=0&confirm=t.mkv
+06 Florecer
+https://drive.usercontent.google.com/download?id=123a74zK9nF9V150SFljCclBHPhw-ttTl&export=download&authuser=0&confirm=t.mkv
+07 Nublado
+https://drive.usercontent.google.com/download?id=11PYAKsgv8cxsR6wJIBeXEay1k5IxMY1z&export=download&authuser=0&confirm=t.mkv
+08 Mirada
+https://drive.usercontent.google.com/download?id=1_-EM6VLlwBEVCf05NJT4oF4QyoQTjRKL&export=download&authuser=0&confirm=t.mkv
+09 Contacto
+https://drive.usercontent.google.com/download?id=1pwaVYuk4PFP0SqCLJS-lDkgSx3YFiIao&export=download&authuser=0&confirm=t.mkv
+10 Sospechas
+https://drive.usercontent.google.com/download?id=1IiW_cDC5fK02k5LRJ8S-FZZ82BrPBQ2B&export=download&authuser=0&confirm=t.mkv
+11 Asalto
+https://drive.usercontent.google.com/download?id=1AI9ysjQdO72Cl-pGyxPiyAUEXn9EC2y4&export=download&authuser=0&confirm=t.mkv
+12 Enamoramiento
+https://drive.usercontent.google.com/download?id=1vmG6MP-pqNvwHnMSPtW3d6lEm0retFEn&export=download&authuser=0&confirm=t.mkv
+13 Confesión
+https://drive.usercontent.google.com/download?id=1WdaIiJftGYuc3BREHaiEV_RUbpech0J9&export=download&authuser=0&confirm=t.mkv
+14 Amigos
+https://drive.usercontent.google.com/download?id=11gV2DvOH-9hPuLGCg0vV92Nx0mj0gr4T&export=download&authuser=0&confirm=t.mkv
+15 Apuesta
+https://drive.usercontent.google.com/download?id=1OgS9dVRtNMhSuCW7y7MfjWSLCe-Bpb6Z&export=download&authuser=0&confirm=t.mkv
+16 Decisión
+https://drive.usercontent.google.com/download?id=16g65yRtwQHTiddx1rn89uZRNsTt7K6Em&export=download&authuser=0&confirm=t.mkv
+17 Ejecución
+https://drive.usercontent.google.com/download?id=1j9BmT5rzdrycXFzzfdF9ht-g-1ZBlehF&export=download&authuser=0&confirm=t.mkv
+18 Compañeros
+https://drive.usercontent.google.com/download?id=1I5taxUfqIDgJeQVjRZ5i5QoF2HSjlOO_&export=download&authuser=0&confirm=t.mkv
+19 Matsuda
+https://drive.usercontent.google.com/download?id=1hs4MW4_J9X9-KdsdoxsgRQe-1qZIKRH4&export=download&authuser=0&confirm=t.mkv
+20 Improvisación
+https://drive.usercontent.google.com/download?id=1kNFOURW9Dymu0cjo49YhAh1TAJ9dTwbr&export=download&authuser=0&confirm=t.mkv
+21 Actividad
+https://drive.usercontent.google.com/download?id=1Ve43TlBIeekrWM43rLYSzO_dfCqddBJx&export=download&authuser=0&confirm=t.mkv
+22 Inducción
+https://drive.usercontent.google.com/download?id=1OR9YMYMMkMlLRdzYpZtTtxYLpGKEyvv9&export=download&authuser=0&confirm=t.mkv
+23 Frenesí
+https://drive.usercontent.google.com/download?id=1iZfr0xTfGChhJzU-tEc8ll4NHtCdn_G4&export=download&authuser=0&confirm=t.mkv
+24 Resurrección
+https://drive.usercontent.google.com/download?id=1HZMcAD_EsoUkaFjUuVuCiASF8GzGl-iK&export=download&authuser=0&confirm=t.mkv
+25 Silencio
+https://drive.usercontent.google.com/download?id=1Aa3Yn1FiNCF9yPpsmnvkSTSQMTLIldTv&export=download&authuser=0&confirm=t.mkv
+26 Regeneración
+https://drive.usercontent.google.com/download?id=1OkGyKY4mstfIW7xm7eQR9QI7tz_BVMng&export=download&authuser=0&confirm=t.mkv
+27 Secuestro
+https://drive.usercontent.google.com/download?id=1VumAMEKJofh4BDyfpCB7s9Libe-NqYW4&export=download&authuser=0&confirm=t.mkv
+28 Impaciencia
+https://drive.usercontent.google.com/download?id=1cJ4Wqss_k1jb6Xj8nPm4jycQ5mSTcDnX&export=download&authuser=0&confirm=t.mkv
+29 Padre
+https://drive.usercontent.google.com/download?id=1l8gpE7kb76v3pRqxDfP_GEdMRLP4jEuZ&export=download&authuser=0&confirm=t.mkv
+30 Justicia
+https://drive.usercontent.google.com/download?id=1kOiVArNZRo_oPSMfIidcajqfr1X9yU6r&export=download&authuser=0&confirm=t.mkv
+31 Traspaso
+https://drive.usercontent.google.com/download?id=1-Ax2vf6RhEk1AQc8MAcsLxe7t4TxJ8I2&export=download&authuser=0&confirm=t.mkv
+32 Selección
+https://drive.usercontent.google.com/download?id=19WfSaM2Hl6k6iqwP8bVpOljvOQk_8LuN&export=download&authuser=0&confirm=t.mkv
+33 Desprecio
+https://drive.usercontent.google.com/download?id=1KmcEIgHNMgcXp66iEfXR8PgpZSOjhZfw&export=download&authuser=0&confirm=t.mkv
+34 Acecho
+https://drive.usercontent.google.com/download?id=1DYhBh5h5SPyTFHt3e3bEz8XY8TtmfyS_&export=download&authuser=0&confirm=t.mkv
+35 Malicia
+https://drive.usercontent.google.com/download?id=1uXjjmcr2Hmvw6KVneHqcuwzXvmS5YF4-&export=download&authuser=0&confirm=t.mkv
+36 28 De Enero
+https://drive.usercontent.google.com/download?id=1enmW01fmZRWN-85e9LBSXLyipitRf8J-&export=download&authuser=0&confirm=t.mkv
+37 Nuevo Mundo
+https://drive.usercontent.google.com/download?id=1-j9LVvAQ7puykyUuKdhC_EWeT6WDCXE1&export=download&authuser=0&confirm=t.mkv

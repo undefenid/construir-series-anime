@@ -1,0 +1,150 @@
+Nombre: Series de Anime
+
+Nombre: Dragon Ball GT 
+
+genero:Animación, Action & Adventure, Sci-Fi & Fantasy
+
+descripción: Dragon Ball GT es una serie de anime que continúa la historia de Dragon Ball Z, siguiendo a Goku, que se convierte en niño, su nieta Pan y sus asociados en una búsqueda para recolectar las Esferas del Dragón Estrella Negra y, posteriormente, enfrentarse a nuevos enemigos y desafíos. 
+
+anio: 1996
+
+iconPng:https://image.tmdb.org/t/p/original/7vFLmvmktsOvlKtOgE97eYxD1AI.png
+
+icono: https://image.tmdb.org/t/p/original/5CrpF8eg9gPxmvpOAVLOrnaC8pD.jpg
+
+logohorizontal: https://image.tmdb.org/t/p/original/4XfjLB6mGUx9z42oFJ8IaDmkdv3.jpg
+
+temporadas
+nombre: temporada 1
+
+tmbdid: 12697
+
+
+01 El misterio de las esferas de dragon
+https://drive.usercontent.google.com/download?id=1ivkBgsNSFDCf082qEuKRqlwLRosPkEPi&export=download&authuser=0&confirm=t.mkv
+02 Goku, Trunks y Pan viajan al espacio
+https://drive.usercontent.google.com/download?id=1DLTqPK3kud9GxDtGTYdp8wFJprg0AvW_&export=download&authuser=0&confirm=t.mkv
+03 Los comerciantes del planeta Imegga
+https://drive.usercontent.google.com/download?id=120STVsEe74IaVBNVyppIwMvlIfIPGcgo&export=download&authuser=0&confirm=t.mkv
+04 Los criminales mas buscados
+https://drive.usercontent.google.com/download?id=1ePLawe-GXh4t92ELC46c2tFqvbRT0Sng&export=download&authuser=0&confirm=t.mkv
+05 Redic, un tipo duro
+https://drive.usercontent.google.com/download?id=1psyhlsO5XBi0lm8E2-gfzvfQT6vcUcG4&export=download&authuser=0&confirm=t.mkv
+06 El segundo planeta
+https://drive.usercontent.google.com/download?id=1h-0b8sh-1GPhK_e4_0BbhjAmvotkNwjZ&export=download&authuser=0&confirm=t.mkv
+07 La boda de Trunks
+https://drive.usercontent.google.com/download?id=1IneU4E4cj47yaLkl-VgUZ3zgTMmUvHlC&export=download&authuser=0&confirm=t.mkv
+08 El terrible poder de Zunaber
+https://drive.usercontent.google.com/download?id=1HYtvvnDRu_29xno42B3b_NkjNvdqXjxZ&export=download&authuser=0&confirm=t.mkv
+09 La prueba de los Murmaxs
+https://drive.usercontent.google.com/download?id=1bLlFY47ZzM1YCfFbl0tBLZi-qctHt7oZ&export=download&authuser=0&confirm=t.mkv
+10 El ataque del baile
+https://drive.usercontent.google.com/download?id=1CbY1NRoRygJU3uaRDUc0e7TgemXahbQN&export=download&authuser=0&confirm=t.mkv
+11 La maldicion de Lord
+https://drive.usercontent.google.com/download?id=1yQJMNfWvP-6Efd3ESQSgHAORxc_oGo5I&export=download&authuser=0&confirm=t.mkv
+12 El dios va a despertar
+https://drive.usercontent.google.com/download?id=1EhJ2He8UpXYxziH0a2X5Eymxly3JHYJZ&export=download&authuser=0&confirm=t.mkv
+13 El misterio de Myuu
+https://drive.usercontent.google.com/download?id=1jWgRG1ttLK7Y2FojENvMQ58Ob_E9V3EB&export=download&authuser=0&confirm=t.mkv
+14 La derrota de Lord
+https://drive.usercontent.google.com/download?id=1_sh7106ABaryt0RiGhyKWqV3BgEqOBRG&export=download&authuser=0&confirm=t.mkv
+15 La fuga de Pan
+https://drive.usercontent.google.com/download?id=1mNRjp-sq9LWWjFiVF1VCFlM839CZgMXP&export=download&authuser=0&confirm=t.mkv
+16 La traicion de Giru
+https://drive.usercontent.google.com/download?id=16zScOtBHnRHDqiNhTOMFrMhYUpSnL8a_&export=download&authuser=0&confirm=t.mkv
+17 Los planes de Ryuu
+https://drive.usercontent.google.com/download?id=1W6mh1FIx6gwKL2vFZTRsa_06WWcC9k4-&export=download&authuser=0&confirm=t.mkv
+18 Comienza la lucha
+https://drive.usercontent.google.com/download?id=1AB61lpIrCXwnFEWMtX1BaDDoxEE7Uwg4&export=download&authuser=0&confirm=t.mkv
+19 El amo de los androides
+https://drive.usercontent.google.com/download?id=1BttNdUWOMty4IMmBuESWLC9OCNRElhBQ&export=download&authuser=0&confirm=t.mkv
+20 El ataque de Ryuu
+https://drive.usercontent.google.com/download?id=10gY1789fssm88LZvIvRDgRA3zGlRADaQ&export=download&authuser=0&confirm=t.mkv
+21 Goku es derrotado
+https://drive.usercontent.google.com/download?id=1w5qO5nj4NZB202GHQeVdCZxxP6-QVUkS&export=download&authuser=0&confirm=t.mkv
+22 El despertar de Baby
+https://drive.usercontent.google.com/download?id=1Yr5rSEv5rbn7KogHZHmNFURUoh4BxuJP&export=download&authuser=0&confirm=t.mkv
+23 Un invitado misterioso
+https://drive.usercontent.google.com/download?id=1PT6X7SpBf-QBdOZU-8hy3jaVEXFnwFwx&export=download&authuser=0&confirm=t.mkv
+24 El contraataque de Baby
+https://drive.usercontent.google.com/download?id=1Ek7onmvupm2TF4OAFDDfL0PIybdQXUNe&export=download&authuser=0&confirm=t.mkv
+25 Baby llega a la Tierra
+https://drive.usercontent.google.com/download?id=1Ok5ccHybgdzTrjpRBYsDa8AaIm0axjk5&export=download&authuser=0&confirm=t.mkv
+26 Son Gohan y Goten, la hermandad diabolica
+https://drive.usercontent.google.com/download?id=15_c9VYCbXo4QOLGSkqlg4F--h4lIFrg8&export=download&authuser=0&confirm=t.mkv
+27 Vegeta es poseido
+https://drive.usercontent.google.com/download?id=1ZWPQtyBVmSDDcPrddz0YeqiY_N9y_FDZ&export=download&authuser=0&confirm=t.mkv
+28 La vuelta de Goku
+https://drive.usercontent.google.com/download?id=1WIToRK92H7P_cf7yF66B4A77mUpz_knK&export=download&authuser=0&confirm=t.mkv
+29 La gran derrota
+https://drive.usercontent.google.com/download?id=1QI_uKtg_6wDE-4kMBvREppjxxjxWU5d9&export=download&authuser=0&confirm=t.mkv
+30 Donde esta Goku
+https://drive.usercontent.google.com/download?id=1YRL3God86ZPkilHEz7k7YhW2Vj0cVlUG&export=download&authuser=0&confirm=t.mkv
+31 Que sorpresa. Sugoroku, el gran hundimiento del espacio
+https://drive.usercontent.google.com/download?id=1MiGGakjrTgZxluWXLgyd2s3kKNjSKpHw&export=download&authuser=0&confirm=t.mkv
+32 El regreso de Goku. La ira del guerrero Oob
+https://drive.usercontent.google.com/download?id=1NaK8jSZW02xOiibOx_Kn7eZxOhMC1Qu0&export=download&authuser=0&confirm=t.mkv
+33 Atento Baby. El nuevo Oob ataca con su rayo de luz
+https://drive.usercontent.google.com/download?id=1sTB0L4b1U1q7nOjiGgmgtFwCaYQ9JcSn&export=download&authuser=0&confirm=t.mkv
+34 ¿Fracasa la transformacion?. Goku, el Super Saiyan esta descontrolado
+https://drive.usercontent.google.com/download?id=1avgmnkXRFZj6NkayVp0H32MueWYWXQMN&export=download&authuser=0&confirm=t.mkv
+35 Lo definitivo, Goku en Super Saiyan 4
+https://drive.usercontent.google.com/download?id=1l0vvBu4IEMt_SJnAq3pr3MTYaE5U_LyR&export=download&authuser=0&confirm=t.mkv
+36 Un nuevo monstruo, el malvado Super Saiyan Baby
+https://drive.usercontent.google.com/download?id=1AbuuCJdycpEtWKRiDtGkU4U-xD-k6LYb&export=download&authuser=0&confirm=t.mkv
+37 Increible! El ko doble de Goku y Vegeta
+https://drive.usercontent.google.com/download?id=1S10ucUELfDNhOgA3ynOiyCH3CnSwvGnQ&export=download&authuser=0&confirm=t.mkv
+38 Con el poder de todos revive el super sayajin 4
+https://drive.usercontent.google.com/download?id=1sKSLRqiQ8UAfXUyjHpU79Lryif_o0Ous&export=download&authuser=0&confirm=t.mkv
+39 Esto es el fin. Al final Baby ha sido derrotado
+https://drive.usercontent.google.com/download?id=1h9upfXW7ZHOe2bABfsYvBhhTuLPe4ryJ&export=download&authuser=0&confirm=t.mkv
+40 La Tierra explota! La decision final de Picolo
+https://drive.usercontent.google.com/download?id=1Pq2rWo7xC8fyK44P3cMuBZDIZyc_m-k6&export=download&authuser=0&confirm=t.mkv
+41 Quien sera el sucesor de Satan
+https://drive.usercontent.google.com/download?id=1mGE8TCja72muE8YXzZ-uRnl8oY6N3ZGx&export=download&authuser=0&confirm=t.mkv
+42 Muere Goku. La resurreccion de los enemigos en el infierno
+https://drive.usercontent.google.com/download?id=16xUDESz39Fov6HFlve-xhHwhsY5UEZd5&export=download&authuser=0&confirm=t.mkv
+43 Luchadores del infierno. La resurreccion de celula y freezer
+https://drive.usercontent.google.com/download?id=1_-Kk_fl37oCR5GCVFMZn2eZeJA-8MNki&export=download&authuser=0&confirm=t.mkv
+44 El androide definitivo. La fusion de los dos C-17
+https://drive.usercontent.google.com/download?id=1zh1Jiu1K94w8QrUnbX76VLXGEYxvIPiT&export=download&authuser=0&confirm=t.mkv
+45 Animo Goku. El plan para escapar del infierno
+https://drive.usercontent.google.com/download?id=1hiSXQ_UxuU3AHkppFoJaZNlmrOeBUkYa&export=download&authuser=0&confirm=t.mkv
+46 Impacto. Super saiyan 4 contra super C-17
+https://drive.usercontent.google.com/download?id=19rzy8W0D87wvQ-Z4XUrDFiSBSNQyzEm9&export=download&authuser=0&confirm=t.mkv
+47 La gran alianza. El ataque convinado de Goku y C-18
+https://drive.usercontent.google.com/download?id=1iAbDtOe3J-yjFQBKnwprNJ0_3cOOctpA&export=download&authuser=0&confirm=t.mkv
+48 Vaya sorpresa. El enemigo es Sheron
+https://drive.usercontent.google.com/download?id=1Ufcp9DA0xz8l3RilX4uClWrhrCqRO9d1&export=download&authuser=0&confirm=t.mkv
+49 El enemigo definitivo. Terror ante la trampa del dragon
+https://drive.usercontent.google.com/download?id=1u7MTnA29Rcw9QvFMN0LaC9Jm0Fk6XLFO&export=download&authuser=0&confirm=t.mkv
+50 El poder saiyan derrotado. El enemigo electrico Uh Shin Rong
+https://drive.usercontent.google.com/download?id=1pLogL2DGT_AlMxGqYc6lHByGopLL2oRv&export=download&authuser=0&confirm=t.mkv
+51 Ryu Shirong. El punto debil es el ataque del tornado gigante
+https://drive.usercontent.google.com/download?id=1Y-okB4-rFkpb6aOSYsFOHGw2M7KntPgk&export=download&authuser=0&confirm=t.mkv
+52 Pan, cuidado, vas a ser poseida por Chihi Shin Rong
+https://drive.usercontent.google.com/download?id=1jvBjYPrl0aaL5SapahUJkHzbkPYXo-Gn&export=download&authuser=0&confirm=t.mkv
+53 Pan, ¿sera asesinada?
+https://drive.usercontent.google.com/download?id=1kK4N7M1eUopM-u1hyzNQlOFOHt7d5gBC&export=download&authuser=0&confirm=t.mkv
+54 6000 º de poder. El guerrero del sol
+https://drive.usercontent.google.com/download?id=1Motiw26Sg_tEhqMNgPaI3aRvWtOkTyiS&export=download&authuser=0&confirm=t.mkv
+55 Bulma actua. El plan de Vegeta
+https://drive.usercontent.google.com/download?id=1FmSlIgYRhdAOT4ZmQFH3a3r9R9m21oEI&export=download&authuser=0&confirm=t.mkv
+56 Los hermanos del calor y el frio
+https://drive.usercontent.google.com/download?id=1EIcH89ua0mKyyI7F5uUsYfQ7PQxecD1P&export=download&authuser=0&confirm=t.mkv
+57 Al final aparece Ih Shin Rong
+https://drive.usercontent.google.com/download?id=14BmNVEMgyygM78Kz3Lobd-cDGTB85-OZ&export=download&authuser=0&confirm=t.mkv
+58 El contraataque ha sido devuelto. El super saiyan 4 superado
+https://drive.usercontent.google.com/download?id=1JhJk3V7DAI7D4qpIQq_5x2tYrbZuzE_y&export=download&authuser=0&confirm=t.mkv
+59 Enemigo, aliado, el super saiyajin Vegeta enfurecido
+https://drive.usercontent.google.com/download?id=1sUcfUZ-jveWI6hqa5xPNqzu7DWpxVR0B&export=download&authuser=0&confirm=t.mkv
+60 Fusion. El super Gogeta definitivo
+https://drive.usercontent.google.com/download?id=1z2Zu_RYG_6Y193s8f_FoU-MrCyUn6e5P&export=download&authuser=0&confirm=t.mkv
+61 Voy a ganar. Goku engulle la Shu Shin Chu
+https://drive.usercontent.google.com/download?id=1ZpCeliQGdIUuJHgRQOBIGNXlF5Ph0aBL&export=download&authuser=0&confirm=t.mkv
+62 Al rescate de Goku. Aparece el ultimo aliado
+https://drive.usercontent.google.com/download?id=15YeRxZevRrCxJ7nLNEM6IGCXA5xmZLOr&export=download&authuser=0&confirm=t.mkv
+63 Victoria gracias al milagroso contraataque. Goku pide ayuda al universo
+https://drive.usercontent.google.com/download?id=1RHKwDAlZoLsKTI11Dv4FhJAct9nRu6eN&export=download&authuser=0&confirm=t.mkv
+64 Adios Goku. Hasta que nos volvamos a encontrar
+https://drive.usercontent.google.com/download?id=14j5hXVoKqOIuaQ51HEWBDmWl2p76N1fD&export=download&authuser=0&confirm=t.mkv

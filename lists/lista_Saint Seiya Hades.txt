@@ -1,0 +1,84 @@
+Nombre: Series de Anime
+
+Nombre: Los Caballeros del Zodiaco: Saga de Hades
+
+genero: Action & Adventure, Animación
+
+descripción: Después de 243 años, finalmente se ha roto el sello de Athena que mantenía prisionero a Hades, dios del Inframundo y a sus 108 Espectros. Pandora, juntos con los Jueces del Inframundo, han enviando a los Espectros a matar a Athena y destruir el Santuario. Una nueva Guerra Santa está por comenzar.
+
+anio: 2002
+
+iconPng: https://image.tmdb.org/t/p/original/6YHKJgCv4yj9EYPH1vUWJFM9yvr.png
+
+icono: https://image.tmdb.org/t/p/original/9Py98FNQ2ZfEFTwh0CDs1WJCylK.jpg
+
+logohorizontal: https://image.tmdb.org/t/p/original/v7v89HBEx80JWFRdsWhj9Iukp4T.jpg
+
+temporadas
+nombre: temporada 1
+
+tmbdid: 67199
+
+
+01 El comienzo de una nueva guerra santa
+https://drive.usercontent.google.com/download?id=1DUDx8EwdOHxG-dIQiOlMjEmlTq7yfzQ-&export=download&authuser=0&confirm=t.mkv
+02 Los tres que se lamentan
+https://drive.usercontent.google.com/download?id=1tLJpRvmgJ6OrkvcDkCKKIskghGkv1CZJ&export=download&authuser=0&confirm=t.mkv
+03 La sombra de aquellos que se arrastran
+https://drive.usercontent.google.com/download?id=15hTAMpBcKAME6dNDTXNaPeJcJ7HighYw&export=download&authuser=0&confirm=t.mkv
+04 La redención del semidiós
+https://drive.usercontent.google.com/download?id=1n7xpLDicywQhmgfOy7_OrJPVLFeomroT&export=download&authuser=0&confirm=t.mkv
+05 Reunión transitoria
+https://drive.usercontent.google.com/download?id=1uqOG_fN5GirRGFIrWk3-2irHMRrvv_Cg&export=download&authuser=0&confirm=t.mkv
+06 El viejo guerrero
+https://drive.usercontent.google.com/download?id=1hIdgICNMIe-YRHuUxubE6HbGxmtZ0sOf&export=download&authuser=0&confirm=t.mkv
+07 La horda de hábitos negros
+https://drive.usercontent.google.com/download?id=1F68J4heo3ZajI1l5N7m3nULGvNa7nvlM&export=download&authuser=0&confirm=t.mkv
+08 Instante de vacilación
+https://drive.usercontent.google.com/download?id=1bpgPUTladjbNR7_8Bqg17OxUFoG1XoGe&export=download&authuser=0&confirm=t.mkv
+09 Saint Seiya Hades Santuario - El fin del orgullo
+https://drive.usercontent.google.com/download?id=1ENfTyj9qnJarZ9lIaj5t0ahhyug28Xri&export=download&authuser=0&confirm=t.mkv
+10 Saint Seiya Hades Santuario - Choque dorado
+https://drive.usercontent.google.com/download?id=1EXy5UoAkTePMsFkyl_FR9rXy30vRrC-b&export=download&authuser=0&confirm=t.mkv
+11 Saint Seiya Hades Santuario - Tiembla el Santuario
+https://drive.usercontent.google.com/download?id=1jrT6aQpVJ8t8-XwxvTl7jqAhAFFrfI2L&export=download&authuser=0&confirm=t.mkv
+12 Saint Seiya Hades Santuario - La armadura de Atenea
+https://drive.usercontent.google.com/download?id=1WuexYRzQLC7Gb8OGiI8Uj_fmDZRWsB_3&export=download&authuser=0&confirm=t.mkv
+13 Saint Seiya Hades Santuario - La mañana de la determinación
+https://drive.usercontent.google.com/download?id=17OwYCdWmA0L4sUPM8PDM0WSP2ZFL4ahl&export=download&authuser=0&confirm=t.mkv
+14 ¡Orfeo! El caballero legendario
+https://drive.usercontent.google.com/download?id=1FUa7QjSKKm2S4jGP1pNPWA89Wm_897ZH&export=download&authuser=0&confirm=t.mkv
+15 ¡Orfeo! El caballero legendario
+https://drive.usercontent.google.com/download?id=1S4Gt3KePJJkrK9_5LZPOMAiFeVQY6lzh&export=download&authuser=0&confirm=t.mkv
+16 ¡Orfeo! El caballero legendario
+https://drive.usercontent.google.com/download?id=1wKGBx86jJW-YBVigbdXa2nsW3MI53dsV&export=download&authuser=0&confirm=t.mkv
+17 Orfeo, el réquiem trágico
+https://drive.usercontent.google.com/download?id=1Y7eixfGc8fSh8oT7i7pGSJqp_5LDvFya&export=download&authuser=0&confirm=t.mkv
+18 ¡Hades! La posesión sorprendente
+https://drive.usercontent.google.com/download?id=18nUqEg01rFRizo6WaByW2-tEbubUGbVs&export=download&authuser=0&confirm=t.mkv
+19 ¡Combate encarnizado! Camino de Giudecca
+https://drive.usercontent.google.com/download?id=1dhb_iq0Drk4PhFW76mqupy9V4zR11W5K&export=download&authuser=0&confirm=t.mkv
+20 ¡Castigo divino! El último eclipse
+https://drive.usercontent.google.com/download?id=1XzqJPNvX6SmLq94syykwH49t4jVXllTb&export=download&authuser=0&confirm=t.mkv
+21 ¡Ikki! El puño de la lamentación
+https://drive.usercontent.google.com/download?id=1jp41qHsKRS29-lPTSCEpp54B5nmKTkgA&export=download&authuser=0&confirm=t.mkv
+22 ¡Atenea! Arriesga su propia Vida
+https://drive.usercontent.google.com/download?id=1AsWnbm-s0Xs5A0IZRDhXSekVH-Z2jzGi&export=download&authuser=0&confirm=t.mkv
+23 ¡Reunión! Las Armaduras de Oro
+https://drive.usercontent.google.com/download?id=10prmqSGQPo1yzJoxQxqr4J0EtdcbO49J&export=download&authuser=0&confirm=t.mkv
+24 ¡Reunión! Las Armaduras de Oro
+https://drive.usercontent.google.com/download?id=1vDoD1HO1JMneEl87O0Tz_9UmlWnQ9TfE&export=download&authuser=0&confirm=t.mkv
+25 ¡Adiós! Caballeros de Oro
+https://drive.usercontent.google.com/download?id=1Rseh5efKkm7iNm1cZyN1x2tYkPr6TQuU&export=download&authuser=0&confirm=t.mkv
+26 Lucha a muerte hacia los Eliseos
+https://drive.usercontent.google.com/download?id=14RbSDxyRki4r882gK2o0n1xlqqBOBQdG&export=download&authuser=0&confirm=t.mkv
+27 Los Dioses de la Muerte y el Sueño
+https://drive.usercontent.google.com/download?id=1-2IbISpuTBZpTORabCf2JJzRcb2DHU4m&export=download&authuser=0&confirm=t.mkv
+28 Refuerzos de Oro
+https://drive.usercontent.google.com/download?id=1ANcTmjVuk68ECmZvFTxVCYE0D4FTp_EF&export=download&authuser=0&confirm=t.mkv
+29 Las Legendarias Armaduras Divinas
+https://drive.usercontent.google.com/download?id=1BWMnbgEkyYaZvxUI6qxYLnKdAJpoQbrk&export=download&authuser=0&confirm=t.mkv
+30 El Despertar de la Mitología
+https://drive.usercontent.google.com/download?id=1Qax55B3hI58O67ixT8FWzS6nIFfcwH6g&export=download&authuser=0&confirm=t.mkv
+31 Hacia un Mundo Radiante de Luz
+https://drive.usercontent.google.com/download?id=1xZPvJXtNGb7ojNrvlSEaocXE6Dr7E8ED&export=download&authuser=0&confirm=t.mkv

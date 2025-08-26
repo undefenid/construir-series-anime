@@ -1,0 +1,412 @@
+Nombre: Series de Anime
+
+Nombre: Lum, la chica invasora
+
+genero: Animación, Comedia, Sci-Fi & Fantasy, Drama
+
+descripción: "Lum, la chica invasora" (Urusei Yatsura) es una serie de manga y anime que narra las aventuras de Ataru Moroboshi, un estudiante japonés, y Lum, una princesa extraterrestre. Tras un encuentro azaroso, Lum llega a la Tierra y se instala en la vida de Ataru, interpretando erróneamente su deseo de casarse con ella y volviéndose su "esposa".
+
+anio:1981
+
+iconPng: https://image.tmdb.org/t/p/original/w5FE6irtA0PrIhn03lWC0i1Dgkb.png
+
+icono: https://image.tmdb.org/t/p/original/bs0Q5TMYVUTNXCPbuPBNylzqrxk.jpg
+
+logohorizontal:https://image.tmdb.org/t/p/original/v9ODt8XqxhdlGsImgVi7NBKeMDX.jpg
+
+temporadas
+nombre: temporada 1
+
+tmbdid:34163
+
+
+01 ¡Qué extraterrestres más pesados!, Ojalá que llueva petróleo
+https://drive.usercontent.google.com/download?id=1-zKEXd1VX9UA7nJfuUQFb-R4q9Deo_k-&export=download&authuser=0&confirm=t.mkv
+02 La llegada de Ten, La Golondrina y el Pingüino
+https://drive.usercontent.google.com/download?id=1uAIfuRM6BEAdjjpFVdqx4jKXAs1Ragh8&export=download&authuser=0&confirm=t.mkv
+03 ¡Viene Rei, el bello cambiante!, Vete a la porra casanova
+https://drive.usercontent.google.com/download?id=11MnhLkz4IXFMfOCt_hDP38IXkNAOaLdW&export=download&authuser=0&confirm=t.mkv
+04 Kintaro del cielo de Otoño, Vive enérgicamente
+https://drive.usercontent.google.com/download?id=1AeERU-qrnvzHzvCZZCo11MBCthYMaTsX&export=download&authuser=0&confirm=t.mkv
+05 La misteriosa Sakura, Los virus sufridores
+https://drive.usercontent.google.com/download?id=1YEqqgOq6TVsbFxG2hDkuzDVpuZshxCRd&export=download&authuser=0&confirm=t.mkv
+06 El agujero negro de un triángulo amoroso, Es un diablillo encantador!
+https://drive.usercontent.google.com/download?id=1jtItd-NsAuRzF29E80djLJllHyb-Mdk0&export=download&authuser=0&confirm=t.mkv
+07 Adiós a las descargas, La muñeca maldita
+https://drive.usercontent.google.com/download?id=16lUvGL1VDW9NFqA88hMmCZc8ozH39d5P&export=download&authuser=0&confirm=t.mkv
+08 Neptuno al otro lado del armario, Perdidos en la época de los dinosaurios
+https://drive.usercontent.google.com/download?id=10mmBMVRF9CqrxtkmgvW_DFd9nmAzCz_N&export=download&authuser=0&confirm=t.mkv
+09 Princesa Kurama, la bella durmiente, El infernal gimnasio femenino
+https://drive.usercontent.google.com/download?id=1LpzhBE71_ix31Nb-pihNCrB3AmiUEFmv&export=download&authuser=0&confirm=t.mkv
+10 Una nochebuena emocionante
+https://drive.usercontent.google.com/download?id=1G_Gloj61uXYuuavGvMRnUZDsd5PzH8fc&export=download&authuser=0&confirm=t.mkv
+11 Ataru en la era Heian
+https://drive.usercontent.google.com/download?id=11wAms_FuT2sw8m1tPzcFCy-JolvaUCxZ&export=download&authuser=0&confirm=t.mkv
+12 El todo contra el todo del amor, Tú si que eres fuerte papá
+https://drive.usercontent.google.com/download?id=1Io0IBJripxnsV_-3_m-QjZ5Y2s9LfLif&export=download&authuser=0&confirm=t.mkv
+13 El ladrón de bikinis, El menú infernal
+https://drive.usercontent.google.com/download?id=1Q10ADn7y81VMudpqsbotUOv6L4gutUP0&export=download&authuser=0&confirm=t.mkv
+14 Shuutaro Mendo, un chico conflictivo, El horóscopo del amor
+https://drive.usercontent.google.com/download?id=1Osa20TooMwHugNRROlzzYUZ_Weg2DXsh&export=download&authuser=0&confirm=t.mkv
+15 Los ogros contra los dioses, La diosa vengadora
+https://drive.usercontent.google.com/download?id=1bd6OEkz4DfPdjK2KK6GkeeyIQkuajPqY&export=download&authuser=0&confirm=t.mkv
+16 La lección particular, Guerra en la reunión de padres de alumnos
+https://drive.usercontent.google.com/download?id=1-M7Tn6xISIBacAWT5MLJ9yZNEV9DbAKO&export=download&authuser=0&confirm=t.mkv
+17 La cámara mágica, ¿Qué representa la v?
+https://drive.usercontent.google.com/download?id=1VEG4mxdJgtS7Cbk9KvaBQBJ663znE26-&export=download&authuser=0&confirm=t.mkv
+18 El festival del día de las muñecas, La invitación de Ran
+https://drive.usercontent.google.com/download?id=1iPNuilHGo97_ZR1Eh5dwn5qfRWmVOED3&export=download&authuser=0&confirm=t.mkv
+19 Un diario del futuro, ¿Un bebé extraterrestre?
+https://drive.usercontent.google.com/download?id=1bHlNLaP8yh3SaItWvicQteRoNzu_52Og&export=download&authuser=0&confirm=t.mkv
+20 Los alumnos se han vuelto locos, El concurso de poesía
+https://drive.usercontent.google.com/download?id=1wJsPYwpCG1KfCtcIpbTUOkR9LaKVkjuw&export=download&authuser=0&confirm=t.mkv
+21 El hermano gemelo de Ataru, La pesadilla
+https://drive.usercontent.google.com/download?id=1QVU6VqPszdHPx_yVblzmkGfn-Dxvz-bq&export=download&authuser=0&confirm=t.mkv
+22 El prometido de Lum
+https://drive.usercontent.google.com/download?id=1b1PkwG2F7WDQVjHs-pAjKoTd_HcrZGwm&export=download&authuser=0&confirm=t.mkv
+23 El picnic desastroso
+https://drive.usercontent.google.com/download?id=1g0BwISi1FBSkqPxxD7VF8JL-LJTqn1zA&export=download&authuser=0&confirm=t.mkv
+24 El misterio de las orejeras
+https://drive.usercontent.google.com/download?id=1GndZL188-n1nW1wHDNbKzJTT1aWZqDxN&export=download&authuser=0&confirm=t.mkv
+25 Vuela oruga
+https://drive.usercontent.google.com/download?id=1CPcCWl3bk0fjNIYtA67mgPkNOBZS_TYr&export=download&authuser=0&confirm=t.mkv
+26 El amor de Ten
+https://drive.usercontent.google.com/download?id=1MhucBivl3o3cseY2fEPL8Jhmx7lePCtD&export=download&authuser=0&confirm=t.mkv
+27 Drácula volador
+https://drive.usercontent.google.com/download?id=1YJt0NWd34V3xJKR1hFWYUqQdausqQeuu&export=download&authuser=0&confirm=t.mkv
+28 El curso de educación del chico de Lum
+https://drive.usercontent.google.com/download?id=12sRwSibrarBcAvLBUl6-IZMtfPC8SgY6&export=download&authuser=0&confirm=t.mkv
+29 De una gardenia con amor
+https://drive.usercontent.google.com/download?id=1xKZQHpYj3pP8gIjkT8Ku_11WMlebyIyZ&export=download&authuser=0&confirm=t.mkv
+30 Una belleza bajo la lluvia
+https://drive.usercontent.google.com/download?id=1UOlKEk8sCHWUrpsmlC8M6OtGCiMcsQgv&export=download&authuser=0&confirm=t.mkv
+31 Devuélveme mi cuerno
+https://drive.usercontent.google.com/download?id=1nQK2Q5NYAT5OHHdnRxf_8D2Eg6RnMM8e&export=download&authuser=0&confirm=t.mkv
+32 Silencio en la biblioteca
+https://drive.usercontent.google.com/download?id=1BsAjzgQKuV3fcNTgBAyub53BfPoZPgrz&export=download&authuser=0&confirm=t.mkv
+33 La llegada del Sr. Hanawa. Esto es juventud
+https://drive.usercontent.google.com/download?id=1oxnnfCWHwgKoHzN3kv3jZXYfYmrySQKc&export=download&authuser=0&confirm=t.mkv
+34 Un monstruo muy triste
+https://drive.usercontent.google.com/download?id=1RlN25O2GymIGtTEIpcgreGGPMoNplsFv&export=download&authuser=0&confirm=t.mkv
+35 Mi tesoro entre la espada y la pared
+https://drive.usercontent.google.com/download?id=1h1cZ8rjGLQPk6VCWUu0Y12HNa7hkqWQg&export=download&authuser=0&confirm=t.mkv
+36 La vuelta de Rei, gran lío en la hora de estudio
+https://drive.usercontent.google.com/download?id=1rV1zLKKT55lun_JPYzsjb9Vq6G8nFKMs&export=download&authuser=0&confirm=t.mkv
+37 Aparece el terrible capa roja
+https://drive.usercontent.google.com/download?id=1kFNBQE-N34mLxWF2FPmqZPJN53PluvSe&export=download&authuser=0&confirm=t.mkv
+38 Robándome a mi tesoro. Operación copia
+https://drive.usercontent.google.com/download?id=1VCAw4S3WRiJZDvy5_QX_anPDnd9pCYev&export=download&authuser=0&confirm=t.mkv
+39 Emocionante cita de verano
+https://drive.usercontent.google.com/download?id=1VxgBMC8lJoGw4GbRBj2l6mzcJ5eZijqU&export=download&authuser=0&confirm=t.mkv
+40 Adiós, días de verano
+https://drive.usercontent.google.com/download?id=1_h4gI-HNQi0c976fDKYIC3MxBT3u4qAb&export=download&authuser=0&confirm=t.mkv
+41 Pánico en el tifón
+https://drive.usercontent.google.com/download?id=1yrpTcdt-Ai6Ch_p8XoPyNoxj319zTXS9&export=download&authuser=0&confirm=t.mkv
+42 El lío de la borrachera
+https://drive.usercontent.google.com/download?id=1KsNewu00bU7gp3l3xHl_hcR56tnuzFt0&export=download&authuser=0&confirm=t.mkv
+43 La terrible maldición felina
+https://drive.usercontent.google.com/download?id=1-IhlaYbfhD1AyHBuDVh8mecuOsSULGrm&export=download&authuser=0&confirm=t.mkv
+44 Después de que te has ido
+https://drive.usercontent.google.com/download?id=1diQg2-mXrLDb7RZBL0WKkfqGMgzwYff0&export=download&authuser=0&confirm=t.mkv
+45 La reunión de clase de Lum
+https://drive.usercontent.google.com/download?id=1xo6e475nhSXQGpMOL8eBlQrIJTN0Eqn9&export=download&authuser=0&confirm=t.mkv
+46 Libertad para picar
+https://drive.usercontent.google.com/download?id=1AllID2zst9uxVyHnycsObOuUPSpJf86B&export=download&authuser=0&confirm=t.mkv
+47 Pánico. El misterio del fósil
+https://drive.usercontent.google.com/download?id=1ujMPxBFPkOtjCfFOohqqzt0H_t08nFxd&export=download&authuser=0&confirm=t.mkv
+48 El nuevo desafío de la princesa Kurama
+https://drive.usercontent.google.com/download?id=18PS_6Yxx6hXhxUcYMWEPFtqGzRZmitSi&export=download&authuser=0&confirm=t.mkv
+49 La terrorífica guerra de las caries
+https://drive.usercontent.google.com/download?id=1cqEH-zm0o5za2Adm9NC7xC6OALCzfZyh&export=download&authuser=0&confirm=t.mkv
+50 Los hermanos Mendo
+https://drive.usercontent.google.com/download?id=1yIdvxRrnA5o0kQH4qcjmlU3_lPeZyKGI&export=download&authuser=0&confirm=t.mkv
+51 El gato gigante en la escalera
+https://drive.usercontent.google.com/download?id=1D_Whe_-AOSRzfmYRRN5KeXyPpBSJ7w-b&export=download&authuser=0&confirm=t.mkv
+52 ¿Puede un mapache ser agradecido?
+https://drive.usercontent.google.com/download?id=1Um5hpOd0T3vFO7Mg6fMyvq1gHR49wpQ4&export=download&authuser=0&confirm=t.mkv
+53 Un trabajo por horas muy peligroso
+https://drive.usercontent.google.com/download?id=1mCyF901gxE9GuVhW6Qsf8i5SR73AIOCd&export=download&authuser=0&confirm=t.mkv
+54 Lum organiza la fiesta de fin de año
+https://drive.usercontent.google.com/download?id=1lvFpJ7j4D-VG41yjBcSvA3z4xReRuZg1&export=download&authuser=0&confirm=t.mkv
+55 La verdadera historia del terrible Busashi
+https://drive.usercontent.google.com/download?id=1l0qaArB1ZKTBhJ3-zf8sALhYNZv6PdoT&export=download&authuser=0&confirm=t.mkv
+56 Jugándose la vida en clase
+https://drive.usercontent.google.com/download?id=18880NjT3Hr7C1bSEL3h5r381UD44m02i&export=download&authuser=0&confirm=t.mkv
+57 Las peleas de matrimonio son una cosa muy seria
+https://drive.usercontent.google.com/download?id=1yDM7Qj1ejEV47cP30YiYgeTwt7U1Ij7z&export=download&authuser=0&confirm=t.mkv
+58 Róbale un beso a Miss Reina de la nieve
+https://drive.usercontent.google.com/download?id=1Ktsm8HeosUf5mR9Gb6klhHs1MXRy9bbH&export=download&authuser=0&confirm=t.mkv
+59 El terrible día de San Valentin
+https://drive.usercontent.google.com/download?id=1GKVvb3zkua8ScoSRVR0JwtO6c7d5L0Th&export=download&authuser=0&confirm=t.mkv
+60 Las bolas mágicas del amor
+https://drive.usercontent.google.com/download?id=1fclQNqF8oilOl2hLcpw1MGXKp3BK8XUO&export=download&authuser=0&confirm=t.mkv
+61 El baile de disfraces
+https://drive.usercontent.google.com/download?id=19pfI6327VzBwOY0pwGYiDWq2l24BQgMO&export=download&authuser=0&confirm=t.mkv
+62 La gripe espacial
+https://drive.usercontent.google.com/download?id=1Z2gekrBeE2IlNNYi3FAD0EDLLL3nK0y4&export=download&authuser=0&confirm=t.mkv
+63 Ryuno, el viejo y el mar
+https://drive.usercontent.google.com/download?id=1p8mfBWDxMqCniAyW6m_bkTxgVrhEnXvX&export=download&authuser=0&confirm=t.mkv
+64 El sucesor
+https://drive.usercontent.google.com/download?id=1Q_cXPZjp-7R6yUeXy5SoYd7fomkLWpkH&export=download&authuser=0&confirm=t.mkv
+65 La primera cita de Ryuno
+https://drive.usercontent.google.com/download?id=1qKik0q9hBjFGUV27w9gLBsk-YV9o4L9Y&export=download&authuser=0&confirm=t.mkv
+66 Feliz cumpleaños, tesoro
+https://drive.usercontent.google.com/download?id=1eg1sbZzb3effPvSMkohjXaNUyPJfVEwM&export=download&authuser=0&confirm=t.mkv
+67 Un paraíso en el infierno
+https://drive.usercontent.google.com/download?id=1L7ZtKoWzM4FYf8iom4oCMjKQ5GZ4dtJK&export=download&authuser=0&confirm=t.mkv
+68 Mi novio Ryuno
+https://drive.usercontent.google.com/download?id=1KH19-BaGUTGo_oFdVKaVwRIryozoBmkt&export=download&authuser=0&confirm=t.mkv
+69 El mensaje en la botella
+https://drive.usercontent.google.com/download?id=1U1CkKroTa49FIJ516OGe2VBSeJFXWnMp&export=download&authuser=0&confirm=t.mkv
+70 Mendo contra Mizuno
+https://drive.usercontent.google.com/download?id=1wZZT7qeRevOTdG6VVOaGZnwzWOCntm3Q&export=download&authuser=0&confirm=t.mkv
+71 El cuento de cenicienta
+https://drive.usercontent.google.com/download?id=1o_GomrgRoZXN7Y2txlfQlLCq-H0ijukV&export=download&authuser=0&confirm=t.mkv
+72 Lum, rebelde sin causa
+https://drive.usercontent.google.com/download?id=1s_IMhON7va89WKX80-7ZeFlzU6v9RzCN&export=download&authuser=0&confirm=t.mkv
+73 El duelo de Cherry y Sakura
+https://drive.usercontent.google.com/download?id=1rPiTNr8umAXidortcgr8PokIakAzDYad&export=download&authuser=0&confirm=t.mkv
+74 El fantasma del viejo sauce
+https://drive.usercontent.google.com/download?id=1QruqDYgK1GUnCqroUXjZwCqx0oYKlh9K&export=download&authuser=0&confirm=t.mkv
+75 Muerte en el paraíso
+https://drive.usercontent.google.com/download?id=1OtdryI_BlIUy6ESubyDqmORpvSp4inR6&export=download&authuser=0&confirm=t.mkv
+76 La madre de Ten odia el fuego
+https://drive.usercontent.google.com/download?id=1fgErJSGi4Z5lRT97n2fBkYDWZyawg3L9&export=download&authuser=0&confirm=t.mkv
+77 ¿Mi tesoro se muere?
+https://drive.usercontent.google.com/download?id=1Q03SQ65om0onR1QgHBqpAdT7SaQmFx3U&export=download&authuser=0&confirm=t.mkv
+78 Una madre entre el amor y la pena
+https://drive.usercontent.google.com/download?id=1xzGh1iE8hKOS8q2uIIsdck1oj48n1UVj&export=download&authuser=0&confirm=t.mkv
+79 Las navidades en verano de la familia Mendo
+https://drive.usercontent.google.com/download?id=1U9ug347fITspqkFcOgs7lqhZ5GsOx7-H&export=download&authuser=0&confirm=t.mkv
+80 Pánico en la posada del fantasma
+https://drive.usercontent.google.com/download?id=1CuZkohu8Amocm15d7eGIuzTw-iqY3KW8&export=download&authuser=0&confirm=t.mkv
+81 Los recuerdos de una madre
+https://drive.usercontent.google.com/download?id=10UPRjYm10jngQ5lnQ9qms3Hdp_zTyMcS&export=download&authuser=0&confirm=t.mkv
+82 Mucho sol y muchos celos
+https://drive.usercontent.google.com/download?id=1Vq6cWl-Pzx9ba-BqDZC9A--lgt0L4Dgc&export=download&authuser=0&confirm=t.mkv
+83 Gran combate. Ten contra Ataru
+https://drive.usercontent.google.com/download?id=1lYV79lLg4xM2FS14rE3wOaEbdxf5J143&export=download&authuser=0&confirm=t.mkv
+84 Terror. Los boniatos nos ataca
+https://drive.usercontent.google.com/download?id=1rIEV6MIDil6tFQ_lERw2ueyvZIku_Ybl&export=download&authuser=0&confirm=t.mkv
+85 La venganza del profesor espacial
+https://drive.usercontent.google.com/download?id=12xLG87zF5hNXuwCyDhB8t8AD7cpX8xlc&export=download&authuser=0&confirm=t.mkv
+86 Perdiendo la cabeza con el pobrecito Mendo
+https://drive.usercontent.google.com/download?id=1M3d_iDYEZWhdQn6NWOBz2mnJkK3dCanI&export=download&authuser=0&confirm=t.mkv
+87 Impresionante. El misterioso matsutake a la cazuela
+https://drive.usercontent.google.com/download?id=1b_pC2v8WGRDqzDJMR63_P3aYT6ZMeaRK&export=download&authuser=0&confirm=t.mkv
+88 El enfado de Lum
+https://drive.usercontent.google.com/download?id=1qAiLL9h6Zt_UWdDIxoSmCRHw-VBtIhSi&export=download&authuser=0&confirm=t.mkv
+89 Una noche solo para Lum y Ataru
+https://drive.usercontent.google.com/download?id=17Ak4jzWL_eR4jL0Vyxm4WtRs0nu1Oz4N&export=download&authuser=0&confirm=t.mkv
+90 Lady Ryuno
+https://drive.usercontent.google.com/download?id=1hGEc0EnK24IYxbwuRwJpQcH7lxOEKMkJ&export=download&authuser=0&confirm=t.mkv
+91 Informe especial. ¿Quién será Miss Tomobiki?
+https://drive.usercontent.google.com/download?id=1fcycEF6PapUtVwl6kOIp2FRAxSkdAp7h&export=download&authuser=0&confirm=t.mkv
+92 La misteriosa pocima del nirvana
+https://drive.usercontent.google.com/download?id=1-pXG3Xc7WdC1nY_rkG_aiu7De3et1i73&export=download&authuser=0&confirm=t.mkv
+93 La terrible mañana de Mendo
+https://drive.usercontent.google.com/download?id=1snWKa8ej1m8_Oy3DoTe0ZM5nLrV02B-1&export=download&authuser=0&confirm=t.mkv
+94 La ilusion del muñeco de nieve viajero
+https://drive.usercontent.google.com/download?id=1nwTtpevD6k8kePkMhYGAYO4b_gfQla4s&export=download&authuser=0&confirm=t.mkv
+95 Los cuentos de Lum
+https://drive.usercontent.google.com/download?id=1yYg7vL5n5tKUMsLzxk64_ixRtgqzHKTc&export=download&authuser=0&confirm=t.mkv
+96 Brilla, mi adorado sujetador
+https://drive.usercontent.google.com/download?id=1kQyh7JiEeuXyj66xQcZ8_mMfsC5E5iKJ&export=download&authuser=0&confirm=t.mkv
+97 Duelo. Benten contra 3 chicas
+https://drive.usercontent.google.com/download?id=1ys3-_HEE4NXK8QF4TIglgZluP4fkZwwh&export=download&authuser=0&confirm=t.mkv
+98 Demasiadas Lums
+https://drive.usercontent.google.com/download?id=1qBJ3-8M3mUwbMpKwjndgTMqYC2rO9P2g&export=download&authuser=0&confirm=t.mkv
+99 La gran guerra de los comedores de pie
+https://drive.usercontent.google.com/download?id=1xg8xOBP4WZ0H2FowbE-AVm4eGiBVwLot&export=download&authuser=0&confirm=t.mkv
+100 Intentando sobrevivir en la gran caja fuerte
+https://drive.usercontent.google.com/download?id=1vgr0rNcr--m-WP5BA8uRj6_sF3Oc4Yu1&export=download&authuser=0&confirm=t.mkv
+101 Operacion secreta. Espiando el baño de las chicas
+https://drive.usercontent.google.com/download?id=1egIhqfyMNg2kk__ePoAlUT2Vwuiw--U4&export=download&authuser=0&confirm=t.mkv
+102 Sakura. La triste infancia
+https://drive.usercontent.google.com/download?id=1H1BykK5HrIyitQzsvwOu8TGvLd-ZJZsP&export=download&authuser=0&confirm=t.mkv
+103 Arde Ran. El video de la ira
+https://drive.usercontent.google.com/download?id=1akfqVbgugB_p2iU9NmyEAKhr9sk5Z3mg&export=download&authuser=0&confirm=t.mkv
+104 Sakura de mi juventud
+https://drive.usercontent.google.com/download?id=1TvM6pH9dx89yXc0gfmgRfTRp7FFk7PU4&export=download&authuser=0&confirm=t.mkv
+105 Pelea. Rescatemos a Lum
+https://drive.usercontent.google.com/download?id=130BqL4TfgkMvefceI7HRHROth8hcaCRq&export=download&authuser=0&confirm=t.mkv
+106 Lucha a muerte. Ataru contra el ejercito privado de Mendo
+https://drive.usercontent.google.com/download?id=1QH0oP--M_ACaW-bFL-tlsVRown1HMaMt&export=download&authuser=0&confirm=t.mkv
+107 La extraña dimension. ¿Donde esta mi tesoro
+https://drive.usercontent.google.com/download?id=1MhCdBUfPLhBZwkvYFnHmLD0MHJyjSIwV&export=download&authuser=0&confirm=t.mkv
+108 Choque. Su Majestad la Reina y el partido de rugby del amor
+https://drive.usercontent.google.com/download?id=1NLNYUdQTFUESGAa4ssbYIlfx9mxIvMMP&export=download&authuser=0&confirm=t.mkv
+109 El primer beso de Ran
+https://drive.usercontent.google.com/download?id=1nkRSuT1Vz1F7hSUHQwJW05buC031b8IM&export=download&authuser=0&confirm=t.mkv
+110 El imborrable lapiz de labios magico
+https://drive.usercontent.google.com/download?id=1s3i-IhyXoKd5jNQCbLCP8GPgyCTiEkja&export=download&authuser=0&confirm=t.mkv
+111 Lucha a muerte en la mansion Mendo para ver las flores
+https://drive.usercontent.google.com/download?id=1rsV9Sa001DTsGie6ffeCQhTYdv_rWi48&export=download&authuser=0&confirm=t.mkv
+112 Benten y Ryuno corriendo hacia el mañana
+https://drive.usercontent.google.com/download?id=1A_vKC76NQUTB8EY7dq8PG78dEUgwHnZ2&export=download&authuser=0&confirm=t.mkv
+113 Horror. Yuki esta enfadada
+https://drive.usercontent.google.com/download?id=1BKEYGW1n6CdttRizAMLjWC-0wBw7sKRZ&export=download&authuser=0&confirm=t.mkv
+114 La misteriosa historia de amor de Ten
+https://drive.usercontent.google.com/download?id=1Eu4isSa8N6j8G3MNyaBdIuNotZFP321X&export=download&authuser=0&confirm=t.mkv
+115 Un sitio terrorifico. Buscad el tesoro familiar de los Mendo
+https://drive.usercontent.google.com/download?id=1Ah65qsp0w98QbNJVk98Xo4e1glrx6mwp&export=download&authuser=0&confirm=t.mkv
+116 Amor y espiritu de lucha. Gran combate. Guantes contra pantalones
+https://drive.usercontent.google.com/download?id=1ejT2u7k_TIBYTZerTrhHu_MRF389nMUh&export=download&authuser=0&confirm=t.mkv
+117 ¿Lum se convierte en vaca?
+https://drive.usercontent.google.com/download?id=1ACloIpWlyUHSf2fVY5ZP0ODXvtzQHnA7&export=download&authuser=0&confirm=t.mkv
+118 Acabado perfecto. Esta es la pelicula de la juventud de Lum
+https://drive.usercontent.google.com/download?id=1GJMcvoXGGd0_9WHKQBHsEe90LNIyBo0t&export=download&authuser=0&confirm=t.mkv
+119 Fantasmas, marchaos. El exorcismo de Sakura
+https://drive.usercontent.google.com/download?id=1jkd_D0vpKgCjhhoJD-Xr8Kl_6oHqQNR2&export=download&authuser=0&confirm=t.mkv
+120 El contraataque de los protozoos. Gran jaleo en la piscina
+https://drive.usercontent.google.com/download?id=1gANWCYwbUj33oq5q4u66oXTK2kL7M05_&export=download&authuser=0&confirm=t.mkv
+121 Vuelve a aparecer la princesa Kurama, la cazadora del amor
+https://drive.usercontent.google.com/download?id=162ga3BaH1AazQoxq0ix3P7n1oDUp8S2o&export=download&authuser=0&confirm=t.mkv
+122 Los sentimientos no correspondidos de un zorro. El amor es tan doloroso…
+https://drive.usercontent.google.com/download?id=1DwHA0eoKp_hWF8OjlCIGLG3wvTi52a70&export=download&authuser=0&confirm=t.mkv
+123 Ryuno esta atonita. Mi querida madre de roca
+https://drive.usercontent.google.com/download?id=11Ude01WBmkAuPjTerGsCcsbgFfkeMcEc&export=download&authuser=0&confirm=t.mkv
+124 Historia de fantasmas. Ruidos extraños. Residencia de chicas
+https://drive.usercontent.google.com/download?id=17a8GCYZyrNxp11NByoBWEIVMbBLfL2Kv&export=download&authuser=0&confirm=t.mkv
+125 El monstruo de la piscina arde con un amor no consentido
+https://drive.usercontent.google.com/download?id=1aSNrIkpXbwSPyZsQnOUTVA-7IruT51tE&export=download&authuser=0&confirm=t.mkv
+126 El panico de Ran. No hay mañana para el barrio de Tomobiki
+https://drive.usercontent.google.com/download?id=1eoRDewdVOB_CAWI4HKSg3AXPv8LTQ1ZC&export=download&authuser=0&confirm=t.mkv
+127 ¿No hay un nido de amor para Kuriko y Choyuro?
+https://drive.usercontent.google.com/download?id=1MDN8NByXj-WEbYx5ZCpta5oOc5uZOGjF&export=download&authuser=0&confirm=t.mkv
+128 ¿Es un pajaro. ¿Es un avion. ¡Es un impresionante heroe justiciero!
+https://drive.usercontent.google.com/download?id=16UsCOwJzUtmIwlnP2ZIh0jKnM9aff0X3&export=download&authuser=0&confirm=t.mkv
+129 Machaquemos a las senpais. El contrataque de las 3 chicas
+https://drive.usercontent.google.com/download?id=1dMkwPYD0mSIWqDx-oY8Tjt4czjw2c8OX&export=download&authuser=0&confirm=t.mkv
+130 Arde, talento escondido. Este camino es muy duro
+https://drive.usercontent.google.com/download?id=1Jhpn1JDY7F7L7z1TKc4ZBX77EcjtH6Fz&export=download&authuser=0&confirm=t.mkv
+131 No puedes morir. La especial muñeca de paja de Ryoko
+https://drive.usercontent.google.com/download?id=17MT-rcMW4cggzrXRWT5pEKccGv982AO8&export=download&authuser=0&confirm=t.mkv
+132 Una entrevista infernal. La chica de la armadura, ¿es una belleza o una pesadilla
+https://drive.usercontent.google.com/download?id=1W-rokYqo8lGlv-_IKg59o-bMoWP6AIoE&export=download&authuser=0&confirm=t.mkv
+133 El amor de la chica de la armadura. Los sentimientos vacilantes de una muchacha
+https://drive.usercontent.google.com/download?id=1Sw1_ZfS157FLX94tPQ265hK8rXlvgNG5&export=download&authuser=0&confirm=t.mkv
+134 Quiero verte pase lo que pase. La vuelta del zorro inocente
+https://drive.usercontent.google.com/download?id=1qC5u8B6J1Ih2g7WybCH4N6OvTMma5du1&export=download&authuser=0&confirm=t.mkv
+135 Odio las flores parlanchinas
+https://drive.usercontent.google.com/download?id=1DUwgjxiIFA6-gwa0b49bmBYwZLML9bcL&export=download&authuser=0&confirm=t.mkv
+136 ¿El nacimiento del hijo de Ten?. Yo no se nada
+https://drive.usercontent.google.com/download?id=1JqRTKRpd_KMmjOrGaKSH-UPn1Qu9DkXc&export=download&authuser=0&confirm=t.mkv
+137 El valiente duelo de Lum. La victoria esta en mis manos
+https://drive.usercontent.google.com/download?id=10qvF9V705rA5bMFQmTQHrOuj6EBoZGbB&export=download&authuser=0&confirm=t.mkv
+138 La gran esperanza de cambiar de empleo. Vuelve Kaede, la chica ninja
+https://drive.usercontent.google.com/download?id=1ZikOj4WZwFhtRmEaW_VnEzQDtK60_iFR&export=download&authuser=0&confirm=t.mkv
+139 Supervivencia en el instituto Tomobiki. ¿Quien sobrevivira?
+https://drive.usercontent.google.com/download?id=1_727oonu7ck7gYaY49Caxc8tNwdZdvPv&export=download&authuser=0&confirm=t.mkv
+140 El misterioso pastel gigante. Panico por una fuga de amor
+https://drive.usercontent.google.com/download?id=1Wi0hOQazer4QA0oeI3IOjNwT4HsPhqSM&export=download&authuser=0&confirm=t.mkv
+141 Sueños envenenados
+https://drive.usercontent.google.com/download?id=1RNth79NzWw97-3P-QyKmptyRNIo8-vOw&export=download&authuser=0&confirm=t.mkv
+142 La fiesta en el invernadero de Mendo
+https://drive.usercontent.google.com/download?id=18ShHVZ92tAf22f0oJJamDeLsyC81e1UW&export=download&authuser=0&confirm=t.mkv
+143 La leyenda del hada del invierno
+https://drive.usercontent.google.com/download?id=1rOYWCC8CTlq4afwAuYMig1lYaEsI6Efb&export=download&authuser=0&confirm=t.mkv
+144 ¿Quien se mete en mis sueños
+https://drive.usercontent.google.com/download?id=1KNHLQARFMM6JL5L_h1ahSlP7RvR_p86v&export=download&authuser=0&confirm=t.mkv
+145 Armas de mujer
+https://drive.usercontent.google.com/download?id=1rrg4vdRmgkhcNnl8XRWYwzzNr76oZycQ&export=download&authuser=0&confirm=t.mkv
+146 La leyenda del arcoiris y el gato mesa camilla
+https://drive.usercontent.google.com/download?id=1KhXy9RR7W_gdFvOe_nSZ77jHFMq-o0b5&export=download&authuser=0&confirm=t.mkv
+147 Un amor como los de antes
+https://drive.usercontent.google.com/download?id=1eeLjU1OKPDZ5jr3ALA3fGuIi2KXR0gyO&export=download&authuser=0&confirm=t.mkv
+148 Muerta de frio. La venganza de Yuki
+https://drive.usercontent.google.com/download?id=1TXwSohdl64mRFbFHRUei-JVSL0UOZsX8&export=download&authuser=0&confirm=t.mkv
+149 Signo de amistad
+https://drive.usercontent.google.com/download?id=1dEGAfX7WZhu6bHtRib3oM-1JvTRAIiA4&export=download&authuser=0&confirm=t.mkv
+150 Mis queridos hermanos
+https://drive.usercontent.google.com/download?id=1MYZwiMY8jt5nnmMFtLVXB5WvlVolGO0h&export=download&authuser=0&confirm=t.mkv
+151 Sindrome del aburrimiento
+https://drive.usercontent.google.com/download?id=1StWh7PJKB_1daA8nq3l499ZiuCWZs9XF&export=download&authuser=0&confirm=t.mkv
+152 El gato mesa camilla se enamora. El primer amor del gato mesa camilla
+https://drive.usercontent.google.com/download?id=1ynt3LcGrW9neLiDZHnJPSYsisFT5R-RB&export=download&authuser=0&confirm=t.mkv
+153 Campanadas de guerra
+https://drive.usercontent.google.com/download?id=1IeJiYeAmTmEBXBjUEqvrplHO76r4yG8a&export=download&authuser=0&confirm=t.mkv
+154 Una cita peligrosa
+https://drive.usercontent.google.com/download?id=1rhy2Dge-3F0CMkRzZ1pRjcgkflv0n_l-&export=download&authuser=0&confirm=t.mkv
+155 Rei, el primer amor de Lum
+https://drive.usercontent.google.com/download?id=1twBEDhnNhnnXjcSRsQLILZLtKDZGisXa&export=download&authuser=0&confirm=t.mkv
+156 El cafe del soñador
+https://drive.usercontent.google.com/download?id=1H9-1Ihp_hIbhYVud5MtyrAFDPsbrSzMm&export=download&authuser=0&confirm=t.mkv
+157 Cita con un fantasma
+https://drive.usercontent.google.com/download?id=1ZUdGecImPXV52tBMQuZXyZ7RLyqO8fAY&export=download&authuser=0&confirm=t.mkv
+158 El zorro que se enamoro de Shinobu
+https://drive.usercontent.google.com/download?id=1pJSx8q2y2ccczYxbKo1C60tnSHUIaIMa&export=download&authuser=0&confirm=t.mkv
+159 Mi hogar junto al mar
+https://drive.usercontent.google.com/download?id=1HQFgPrVlOpoQbyHo3b6WH92J7si4XFjZ&export=download&authuser=0&confirm=t.mkv
+160 Combate de mujeres
+https://drive.usercontent.google.com/download?id=1JiRWMohEa7L06_Rlu5RJYC3akpymCsUe&export=download&authuser=0&confirm=t.mkv
+161 Cuidado con la botella magica
+https://drive.usercontent.google.com/download?id=1dbMfKH8-0K9fXZwVFysGgvYHnu0J2tUy&export=download&authuser=0&confirm=t.mkv
+162 La rebelion de los estudiantes
+https://drive.usercontent.google.com/download?id=1j4tytrgcyWrDCw98LtZnsq96oFv250Te&export=download&authuser=0&confirm=t.mkv
+163 Lum no sabe hablar nuestro idioma
+https://drive.usercontent.google.com/download?id=1L1obiAevy7Euiu6Pn1SwZa6osu-2Ekko&export=download&authuser=0&confirm=t.mkv
+164 La peor pesadilla del verano
+https://drive.usercontent.google.com/download?id=1tMF3D5KWzdDfGmSNv4hYRsFc8ia4zWtP&export=download&authuser=0&confirm=t.mkv
+165 La peor gripe de Ran
+https://drive.usercontent.google.com/download?id=10Qv1I0QJbgizrRI00vA6RhgG-1N4-uHb&export=download&authuser=0&confirm=t.mkv
+166 La maldicion de mendo
+https://drive.usercontent.google.com/download?id=1bY4tHSg5p1bCVvC0yEFGHqvgEXc9A9vR&export=download&authuser=0&confirm=t.mkv
+167 Alguien quiere robar los labios de Lum
+https://drive.usercontent.google.com/download?id=1ZdW7ftoH31XOZXV99OpYHVyhk7mDNjU3&export=download&authuser=0&confirm=t.mkv
+168 La olla caida del cielo
+https://drive.usercontent.google.com/download?id=1YckTY9xe1Qv65vLenzwa7_BatHKmmUD2&export=download&authuser=0&confirm=t.mkv
+169 Los enfriadores de Lum
+https://drive.usercontent.google.com/download?id=1X90nQ4zd2yHwNJn_jXsCIhjf9XbeTsHJ&export=download&authuser=0&confirm=t.mkv
+170 Un ataque de amor
+https://drive.usercontent.google.com/download?id=1VnjLDdVuJmS19JkPq8j6FGX_xNkjTZbF&export=download&authuser=0&confirm=t.mkv
+171 Una bombera en apuros
+https://drive.usercontent.google.com/download?id=1mNDan9ad0uJ3aGC5bQBK0hvfKW9kiglm&export=download&authuser=0&confirm=t.mkv
+172 Un pajaro desafortunado
+https://drive.usercontent.google.com/download?id=1YEWUxXCDeiw2dp-W-HcgFm6pCp87DRbJ&export=download&authuser=0&confirm=t.mkv
+173 Un duelo a muerte
+https://drive.usercontent.google.com/download?id=1n9nb-hYj0OHYvzujvL7G00tnEiSdZ9VP&export=download&authuser=0&confirm=t.mkv
+174 El pequeño zorro busca una novia para casarse
+https://drive.usercontent.google.com/download?id=1bAJtr_lhiig8QiJs0FUaOH5Bxt9kD4PU&export=download&authuser=0&confirm=t.mkv
+175 La panda de chicas malas vuelven al ataque
+https://drive.usercontent.google.com/download?id=11rlDwge7D5wp1vY-pDxkg-smpnOtMohu&export=download&authuser=0&confirm=t.mkv
+176 De vacaciones con Mendo
+https://drive.usercontent.google.com/download?id=1NxT5A5U6zh4QruUVfQMb9mP89e3wBEJI&export=download&authuser=0&confirm=t.mkv
+177 La familia de Ataru esta en apuros
+https://drive.usercontent.google.com/download?id=1Hb8gtNgp3VFdD_KUKtahcMUWD7e4nWWI&export=download&authuser=0&confirm=t.mkv
+178 Ataru es un chico muy celoso
+https://drive.usercontent.google.com/download?id=1NIl-ax5_SC7ORVLett8Ol-Sj6YhSHlrs&export=download&authuser=0&confirm=t.mkv
+179 Sakura y el espiritu del alcohol
+https://drive.usercontent.google.com/download?id=1WEaJ84uWQh7-cvc8OPsi2nAVTxsUXSsO&export=download&authuser=0&confirm=t.mkv
+180 Bienvenidos a la clase de yoga
+https://drive.usercontent.google.com/download?id=1Vddy98rb0Al1xJv-E55PlSQ0npDyqSFr&export=download&authuser=0&confirm=t.mkv
+181 Adios, Sr. Aguas Termales
+https://drive.usercontent.google.com/download?id=1ASda5bcB0PzDnk85qFnrTVa3lrVz15DD&export=download&authuser=0&confirm=t.mkv
+182 El amor imposible de Sakura. La maldicion de 2 amantes
+https://drive.usercontent.google.com/download?id=1NuvwAQ-zZsSqlYDEaE1Al_LVvMNSRdEI&export=download&authuser=0&confirm=t.mkv
+183 Hermano y hermana
+https://drive.usercontent.google.com/download?id=1xeiamQN2dVJmPwm-mBYQjcuRMAdcnEvl&export=download&authuser=0&confirm=t.mkv
+184 La mejor y peor suerte
+https://drive.usercontent.google.com/download?id=1MjWQ-KhZt0S4g7DtZdcUeSelXv7fJ7Zl&export=download&authuser=0&confirm=t.mkv
+185 La fiesta de fin de año
+https://drive.usercontent.google.com/download?id=1FilalXwtkDFBbjeTkaD889AGhxeJ1TBn&export=download&authuser=0&confirm=t.mkv
+186 El sueño de Ten
+https://drive.usercontent.google.com/download?id=1UOj4iGYgLhNniCv9w1c-ONCXsSJdMiRu&export=download&authuser=0&confirm=t.mkv
+187 El chantaje de Ataru a Mendo
+https://drive.usercontent.google.com/download?id=1LQ0N6agSitK0r24GxmvWgDatIAxkesSx&export=download&authuser=0&confirm=t.mkv
+188 La pocion magica no funciona
+https://drive.usercontent.google.com/download?id=1dVVlaxFZZqdo5LL-O1OmydM8LpenSHD0&export=download&authuser=0&confirm=t.mkv
+189 El trabajo de un profesor es peligroso
+https://drive.usercontent.google.com/download?id=1pFPzERk8rqwuIMY69tX9KnAkRdO1y-0x&export=download&authuser=0&confirm=t.mkv
+190 La muñeca gigante de Ran
+https://drive.usercontent.google.com/download?id=1t6c5GI1kbUYm0rknmnWWABQlDcsEGKHw&export=download&authuser=0&confirm=t.mkv
+191 El zorro esta locamente enamorado de Shinobu
+https://drive.usercontent.google.com/download?id=1lgGOXMzAG6WtjUhdSz_ixAX4KFZhnjVW&export=download&authuser=0&confirm=t.mkv
+192 Lum encuentra novio
+https://drive.usercontent.google.com/download?id=1MgfcnUckO_X8GJn3EQ3umXjyNt1yvQSe&export=download&authuser=0&confirm=t.mkv
+193 La peor venganza de Ran
+https://drive.usercontent.google.com/download?id=1-ID83rJZRs7KmvEmtxZhPt768zN5L4Ho&export=download&authuser=0&confirm=t.mkv
+194 Votacion especial. Top-Ten de Urusei Yatsura
+https://drive.usercontent.google.com/download?id=1nj_jB_vOtTXKT4LOEHiOai0qS_jEeclO&export=download&authuser=0&confirm=t.mkv
+195 La gran fiesta teatro
+https://drive.usercontent.google.com/download?id=1vmVeLFu7iHX4tPABVQUBh7j0a4tv3m6n&export=download&authuser=0&confirm=t.mkv

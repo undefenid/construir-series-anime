@@ -1,0 +1,462 @@
+Nombre: Series de Anime
+
+Nombre: Naruto
+
+genero:Animación, Action & Adventure, Sci-Fi & Fantasy
+
+descripción: Naruto es una serie de manga japonesa creada por Masashi Kishimoto que cuenta la historia de Naruto Uzumaki, un joven ninja que sueña con convertirse en el Hokage, el líder de su aldea, Konoha. 
+
+anio:2002
+
+iconPng:https://image.tmdb.org/t/p/original/tVLgr88tLIWteXfqcTMuJUpDrfb.png
+
+icono: https://image.tmdb.org/t/p/original/oOkvQ1anSMvdYbUGGf7NAnfwHUt.jpg
+
+logohorizontal:https://image.tmdb.org/t/p/original/vIlgB85n3ACnovXTVMZu9bOwEy2.jpg
+
+temporadas
+nombre: temporada 1
+
+tmbdid:46260
+
+
+01 ¡Entra! ¡Naruto Uzumaki!
+https://drive.usercontent.google.com/download?id=1HaiHjZ2PvT-ut_HvKWk8AxQo0lQBtcKO&export=download&authuser=0&confirm=t.mkv
+02 ¡Soy Konohamaru!
+https://drive.usercontent.google.com/download?id=1d4pjj4xBdGVHlXQ-fKGpn8L0MajRJqZI&export=download&authuser=0&confirm=t.mkv
+03 ¡Enemigos declarados! Sasuke y Sakura
+https://drive.usercontent.google.com/download?id=1ry37-Xje34PfenJM4YmkY__BO3C1fujn&export=download&authuser=0&confirm=t.mkv
+04 ¡Pruebas! Ejercicio de supervivencia
+https://drive.usercontent.google.com/download?id=1c0QsYZEnRGHskZ3X5P15qye4K4J24IBn&export=download&authuser=0&confirm=t.mkv
+05 Reprobamos La conclusión de Kakashi
+https://drive.usercontent.google.com/download?id=138Fb9Zzgfnmugxk-vAlU_F5ZQr9YhwLP&export=download&authuser=0&confirm=t.mkv
+06 ¡Misión importante! ¡Súper salida a la Tierra de las Olas!
+https://drive.usercontent.google.com/download?id=1Iu1mpezCQRiujGOdK75ek8YqnBAwgHqU&export=download&authuser=0&confirm=t.mkv
+07 ¡El asesino de la niebla!
+https://drive.usercontent.google.com/download?id=1L4Oqs5aqPYKVUvLL4f6NVk2IXTT_WbdC&export=download&authuser=0&confirm=t.mkv
+08 Un compromiso con el dolor
+https://drive.usercontent.google.com/download?id=1EmGBDO7kVb_GzcQBcx4RLxPsVAXi-LxL&export=download&authuser=0&confirm=t.mkv
+09 Kakashi, el del Sharingan
+https://drive.usercontent.google.com/download?id=1yIDqij1dfhVi9grQkCRhEdYBTwlbMGCh&export=download&authuser=0&confirm=t.mkv
+10 El bosque de chakra
+https://drive.usercontent.google.com/download?id=197tYFjr9kcZRmo1_huAiVaYVuaZ-Flp6&export=download&authuser=0&confirm=t.mkv
+11 Una tierra de héroes
+https://drive.usercontent.google.com/download?id=1a2bmdr_vK6j9GUGBC3P6WKlFak5Voezf&export=download&authuser=0&confirm=t.mkv
+12 ¡Batalla en el puente! ¡Otra vez Zabuza!
+https://drive.usercontent.google.com/download?id=1nFg9jkJMJamaLbtNneyPBp91nSk9aN-P&export=download&authuser=0&confirm=t.mkv
+13 La técnica de Haku - Espejo Mágico Cristal de Hielo
+https://drive.usercontent.google.com/download?id=1txCdgWcOzkAedaEK_EHCmcMO7fLTudE5&export=download&authuser=0&confirm=t.mkv
+14 Inesperado número 1, ¡la entrada de Naruto!
+https://drive.usercontent.google.com/download?id=1lckYuIJdfrZGPNVKLC_ntjapBymUec4x&export=download&authuser=0&confirm=t.mkv
+15 Batalla de visibilidad cero - Sharingan acorralado
+https://drive.usercontent.google.com/download?id=1C72eyaOlzFdMhsZuTB-DFqkYOa7IydKt&export=download&authuser=0&confirm=t.mkv
+16 El sello liberado
+https://drive.usercontent.google.com/download?id=1qJvGjensVaeQPgON88E0R9n6NPJff5bO&export=download&authuser=0&confirm=t.mkv
+17 Pasado blanco, pensamientos secretos
+https://drive.usercontent.google.com/download?id=1Y6QYmONJw_A2snQ5PcVT7OooqiXWXnH5&export=download&authuser=0&confirm=t.mkv
+18 Una herramienta llamada shinobi
+https://drive.usercontent.google.com/download?id=1dya1z4mAvD7sEjnGU4tJVzM4Hu9xbd9k&export=download&authuser=0&confirm=t.mkv
+19 Zabuza, disperso en la nieve...
+https://drive.usercontent.google.com/download?id=1lXPXYHjg20SxORRdwlQ_ZqnSwo0nCC3B&export=download&authuser=0&confirm=t.mkv
+20 Un nuevo capítulo. ¡El examen Chunin!
+https://drive.usercontent.google.com/download?id=1M1S7eje4nxH7FZInLg6UM8A3qhza26ap&export=download&authuser=0&confirm=t.mkv
+21 ¡Identifícate! ¡Los poderosos enemigos que han aparecido!
+https://drive.usercontent.google.com/download?id=1RduFeRStVW1_-KztXGpVNWbJKH_6ENKO&export=download&authuser=0&confirm=t.mkv
+22 120% de entusiasmo ¡Un reto de rock 'n' roll!
+https://drive.usercontent.google.com/download?id=1BgvktOtiMyd-uELZnN_cW5NrJ4x-linY&export=download&authuser=0&confirm=t.mkv
+23 ¡Expulsar a los rivales! Los nueve novatos se reúnen
+https://drive.usercontent.google.com/download?id=1xWdB909Ki4VUR0g0d5DbJV28upJVcBfz&export=download&authuser=0&confirm=t.mkv
+24 Descalificación repentina El primer examen es muy difícil
+https://drive.usercontent.google.com/download?id=1PawTwHudKyUsDfEMBTrdvjc_4HZuf9S0&export=download&authuser=0&confirm=t.mkv
+25 ¡Un juego de azar! La décima pregunta del día
+https://drive.usercontent.google.com/download?id=1FCFiRUeSwXg5Q9R6jfy62meB-thSvEuz&export=download&authuser=0&confirm=t.mkv
+26 ¡Una visita obligada! ¡Un informe justo antes del Bosque de la Muerte! ¡Este es el periódico de la clase de Konoha!
+https://drive.usercontent.google.com/download?id=1Zjahkr866LBSJjkPFn41ZGp0P2qgGUpL&export=download&authuser=0&confirm=t.mkv
+27 ¡Comienza la segunda prueba! ¡Todos los que te rodean son enemigos
+https://drive.usercontent.google.com/download?id=1TL3TBxiKLvOc2p4ifC-Qtayb7XQV5lE2&export=download&authuser=0&confirm=t.mkv
+28 ¡Comer o ser comido! Naruto se convierte en comida
+https://drive.usercontent.google.com/download?id=1FxxT3a-IL4kV-M9ZRA4KuNrUpBVZQYGd&export=download&authuser=0&confirm=t.mkv
+29 ¡Naruto contraataca! ¡No voy a huir!
+https://drive.usercontent.google.com/download?id=1s_YNCiovNEQxbYQfIu_HLtQXS2oV1mtt&export=download&authuser=0&confirm=t.mkv
+30 ¡El Sharingan revivido! ¡El Jutsu Flama de Dragón!
+https://drive.usercontent.google.com/download?id=1ROt_0lQ-LRpMZ8JBjuIeDGDv-a7iGSI9&export=download&authuser=0&confirm=t.mkv
+31 ¡El amor platónico del cejudo! ¡Te protegeré hasta el día de mi muerte!
+https://drive.usercontent.google.com/download?id=1UT7-e-JgHd44cR1fwL1J4cBOJEpSQPhW&export=download&authuser=0&confirm=t.mkv
+32 ¡Sakura florece! Decidida a volver
+https://drive.usercontent.google.com/download?id=1EbeOS1NRWPSq9xiGExsJwnUxfd5Ja17X&export=download&authuser=0&confirm=t.mkv
+33 ¡Formación invencible! ¡Inoshikachou!
+https://drive.usercontent.google.com/download?id=1qfjWsAu8VWgeSjYrkYE614r-HK_FJmuj&export=download&authuser=0&confirm=t.mkv
+34 ¡Akamaru se conmociona! La asombrosa fuerza de Gaara
+https://drive.usercontent.google.com/download?id=1RYip_TLaAr6U7ZuAY1U6j8HHYehgg8fz&export=download&authuser=0&confirm=t.mkv
+35 ¡No se permite espiar! El secreto de los pergaminos
+https://drive.usercontent.google.com/download?id=1Pkm0dkxQEEx5Bdwc7JAnzISggJo7L8DH&export=download&authuser=0&confirm=t.mkv
+36 ¡El enfrentamiento de los clones! ¡Soy la estrella del espectáculo!
+https://drive.usercontent.google.com/download?id=1Zis_fV8eoqvCSf7r2FUE4iT5zCGg7D4L&export=download&authuser=0&confirm=t.mkv
+37 ¡Segunda prueba superada! ¡Los nueve novatos están presentes!
+https://drive.usercontent.google.com/download?id=1FXtkSGRXEXvX7vkUombHm_n4ty7jhcTv&export=download&authuser=0&confirm=t.mkv
+38 ¡La mitad de los aprobados! ¡Un combate de muerte súbita!
+https://drive.usercontent.google.com/download?id=1ah8f7wRL4YwOu-vzmcZJeWSE8WlfrcJy&export=download&authuser=0&confirm=t.mkv
+39 ¡La envidia del cejudo! ¡El nacimiento de la rafaga de leones!
+https://drive.usercontent.google.com/download?id=1tjJFb_jZ8DXreGxzKLxDDfUx3OxoyaRq&export=download&authuser=0&confirm=t.mkv
+40 ¡Situación crítica! Kakashi contra Orochimaru
+https://drive.usercontent.google.com/download?id=1XDA7c0jqTnDIieCMaYxgyZywtO9Rip_o&export=download&authuser=0&confirm=t.mkv
+41 ¡Choque de rivales! El corazón de una mujer está en modo serio
+https://drive.usercontent.google.com/download?id=1krDET8E1O0HfuQ3oftXSatbW77ZMkXXz&export=download&authuser=0&confirm=t.mkv
+42 ¡Las mejores batallas son las que no se pueden ganar!
+https://drive.usercontent.google.com/download?id=1WCrCMOhJ-ipYyKyzRd2Xw7cVPbNpQuUh&export=download&authuser=0&confirm=t.mkv
+43 ¡Shikamaru está abrumado! La apasionante batalla de las Kunoichi
+https://drive.usercontent.google.com/download?id=1tNCzjJ4-TxTyQn6UVP1dbohkNTFhl_vv&export=download&authuser=0&confirm=t.mkv
+44 ¡Akamaru está dentro! Quién de ustedes es el perdedor
+https://drive.usercontent.google.com/download?id=1_qA00h0_840JyKgQjxYK3BRJw3Y8ZpGY&export=download&authuser=0&confirm=t.mkv
+45 ¡Hinata se sonroja! El asombro del público, el movimiento más profundo de Naruto
+https://drive.usercontent.google.com/download?id=1gennlJNF-cu-XvzzNWvWpUyAngRZAY1R&export=download&authuser=0&confirm=t.mkv
+46 ¡Despierta el Byakugan! ¡Hinata, la chica tímida, ha tomado una decisión audaz!
+https://drive.usercontent.google.com/download?id=1UiLUFyMNKZ8JgZjrME8JKMUYXUa9Z48N&export=download&authuser=0&confirm=t.mkv
+47 ¡Justo delante de la persona de tus sueños!
+https://drive.usercontent.google.com/download?id=1Wy8Xz22lcXpRqLnm8RZYR3KKjlEGnDnK&export=download&authuser=0&confirm=t.mkv
+48 ¡Gaara aplastado! ¡Juventud! ¡Poder! ¡Explosión!
+https://drive.usercontent.google.com/download?id=14W7sskmiFlo4rmLLJMeZhJhcVAy6RFA6&export=download&authuser=0&confirm=t.mkv
+49 ¡Descargas de sangre caliente! Por fin irrumpen las profundidades prohibidas.
+https://drive.usercontent.google.com/download?id=1Fj1UdBvWKGaLuK2tzQlZqWkOJOLBb6IP&export=download&authuser=0&confirm=t.mkv
+50 ¡Oh, Rock Lee! ¡Así es como vive un hombre!
+https://drive.usercontent.google.com/download?id=154zgIrWPOL-ACYFCQfI-WsdGZ0rEUrzg&export=download&authuser=0&confirm=t.mkv
+51 Sombras que acechan en la oscuridad, ¡una crisis que se cierne sobre Sasuke!
+https://drive.usercontent.google.com/download?id=10wUvFI7-gAVjkc9kb6yRf9ICZiShUYXC&export=download&authuser=0&confirm=t.mkv
+52 ¡Ebisu de nuevo! ¡No dejaré que te salgas con la tuya!
+https://drive.usercontent.google.com/download?id=15w6111ukNQZtUnJYFYPjY3kDwy58TH9e&export=download&authuser=0&confirm=t.mkv
+53 ¡Cuánto tiempo! ¡La llegada del Ermitaño Erótico!
+https://drive.usercontent.google.com/download?id=1qYEJEUsTOgjV1zE3oMMvlU9KW6CLRbSf&export=download&authuser=0&confirm=t.mkv
+54 ¡El arte de la seducción, directamente de un ermitaño erótico!
+https://drive.usercontent.google.com/download?id=1iEsBfk-ogNUdCdXZoIAq2GqJKX0VPl9O&export=download&authuser=0&confirm=t.mkv
+55 Pensamientos tristes, una flor con un deseo
+https://drive.usercontent.google.com/download?id=1RVdgSaw8o1OmoHSUtcxmOCNBQrw-4O91&export=download&authuser=0&confirm=t.mkv
+56 ¡Vida o muerte! ¡Dominar un arte es peligroso!
+https://drive.usercontent.google.com/download?id=1w9EWcQrdcuR9JkOzsAHw7oZOmD-w3vx6&export=download&authuser=0&confirm=t.mkv
+57 ¡Vuela! ¡Salta! ¡Bucea! ¡El maestro sapo está aquí!
+https://drive.usercontent.google.com/download?id=1cSCMy3P5p9xGXspsCA7DGiNxdxrH0ccc&export=download&authuser=0&confirm=t.mkv
+58 ¡La maldad acecha! Su objetivo es el hospital
+https://drive.usercontent.google.com/download?id=1yXbaQp_Y2bcWHAapisTQrQTAvfSy4Wls&export=download&authuser=0&confirm=t.mkv
+59 Una persecución muuuuy intensa. ¡Empieza la prueba final!
+https://drive.usercontent.google.com/download?id=1d2iVoka__o19tqSD1_0mf-7spI6romJ0&export=download&authuser=0&confirm=t.mkv
+60 ¡Byakugan contra Kage Bunshin! ¡Ganaré pase lo que pase!
+https://drive.usercontent.google.com/download?id=1QelbGv4US_7y6jtTZy9Ut0PCnw7uIUSk&export=download&authuser=0&confirm=t.mkv
+61 ¡Cero puntos ciegos! ¡Otra defensa absoluta!
+https://drive.usercontent.google.com/download?id=1oJWvXflRg9OqD9pnDZCLkOa2XAXxKlTE&export=download&authuser=0&confirm=t.mkv
+62 El potencial de los inútiles
+https://drive.usercontent.google.com/download?id=1JNr6m-kg1SnmV_ZCfxARJ73i69Z3GDPu&export=download&authuser=0&confirm=t.mkv
+63 Peligro de ser descalificado ¡Caos en los combates de la prueba final!
+https://drive.usercontent.google.com/download?id=1cerp7VaipDKCsCjay9XVqSMyPkf5lc0C&export=download&authuser=0&confirm=t.mkv
+64 Envidio a las nubes… El hombre sin motivación
+https://drive.usercontent.google.com/download?id=1e1mXsQOT_PRHlgKj-C-RVjiKPq-NnCw0&export=download&authuser=0&confirm=t.mkv
+65 ¡Choque! La danza de las hojas y la convulsión de la arena
+https://drive.usercontent.google.com/download?id=1HLoESu_BupQmLYpTOQfHh_k3ELlZBwFM&export=download&authuser=0&confirm=t.mkv
+66 ¡El portador de tormentas! ¡Sasuke usa el estilo de taijutsu del cejudo!
+https://drive.usercontent.google.com/download?id=1O0BbsAIZcP3L2GgxK7itrcLhyLq-8wa3&export=download&authuser=0&confirm=t.mkv
+67 ¡No es un retraso atrevido! Las últimas profundidades ¡el nacimiento de Chidori!
+https://drive.usercontent.google.com/download?id=1mSVXfhJ2KrZxInn2sM4Yt_BtVGwPi0m5&export=download&authuser=0&confirm=t.mkv
+68 ¡Comienza la Destrucción de Konoha!
+https://drive.usercontent.google.com/download?id=1xsECW-ThBCYqBMIZcym5J2tElc9dmv9B&export=download&authuser=0&confirm=t.mkv
+69 ¡Lo estaba esperando! ¡Una misión de rango A!
+https://drive.usercontent.google.com/download?id=1q-3487GtkSQTMbug7ryepSLU-CZUdQMO&export=download&authuser=0&confirm=t.mkv
+70 El que siempre huye. ¡Es un fastidio, pero debo hacerlo!
+https://drive.usercontent.google.com/download?id=1krm_ppYd8g1nor8-iD40ExI-Q-zcmAKh&export=download&authuser=0&confirm=t.mkv
+71 ¡Sin precedentes! Un combate al nivel de un Hokage
+https://drive.usercontent.google.com/download?id=1hIhfgTI0M7EQ_9HiPtN0l9jYd_jvylwo&export=download&authuser=0&confirm=t.mkv
+72 Los errores del Hokage. El rostro bajo la máscara
+https://drive.usercontent.google.com/download?id=1pZum7-nxLw6p3TEoIZJaZNYC5McxVSkJ&export=download&authuser=0&confirm=t.mkv
+73 ¡Técnica prohibida! Shiki Fuujin
+https://drive.usercontent.google.com/download?id=1UaOoeh6WtI-ym9FALu6imA2X11OsXRfo&export=download&authuser=0&confirm=t.mkv
+74 La sorprendente identidad de Gaara
+https://drive.usercontent.google.com/download?id=137jyVmcsHSKy_Tfb_67xNmVpSioMgtNh&export=download&authuser=0&confirm=t.mkv
+75 Superando límites… ¡La decisión de Sasuke!
+https://drive.usercontent.google.com/download?id=1DPtmQ2pLTVmK2zjVBGkIQGLhRYJcnC_X&export=download&authuser=0&confirm=t.mkv
+76 El asesino a la luz de la luna
+https://drive.usercontent.google.com/download?id=1-Lhxu_yQ_QnbQn9BsVIler4vd_zXRmQY&export=download&authuser=0&confirm=t.mkv
+77 Luz y oscuridad. El nombre de Gaara
+https://drive.usercontent.google.com/download?id=1NHggRLF-EV5oRMTwapwyvzvZOinnhYhs&export=download&authuser=0&confirm=t.mkv
+78 ¡Explosión! ¡El libro de artes ninja de Naruto!
+https://drive.usercontent.google.com/download?id=15uOoqHYQARardRgnHxs7YvKLl10hLGND&export=download&authuser=0&confirm=t.mkv
+79 ¡Más allá del límite! Luz y oscuridad
+https://drive.usercontent.google.com/download?id=1F6iN7TLQt26TOOYQdhliYnCSHbHnimyu&export=download&authuser=0&confirm=t.mkv
+80 Descansa en paz, Tercero
+https://drive.usercontent.google.com/download?id=1cGQwEcz6Cx_oDc-c11DA7g1Ou6jdiR5j&export=download&authuser=0&confirm=t.mkv
+81 Regreso a casa entre la niebla matutina
+https://drive.usercontent.google.com/download?id=1fpM_oVM0wtoTpvobCubD76nZypvKmZin&export=download&authuser=0&confirm=t.mkv
+82 ¡Sharingan contra Sharingan!
+https://drive.usercontent.google.com/download?id=1AseRzERvuVGqyH2CBBvwLRLD65EQ36uG&export=download&authuser=0&confirm=t.mkv
+83 ¡Oh, no! Problemas mujeriegos de Jiraiya y el infortunio de Naruto
+https://drive.usercontent.google.com/download?id=1N-oBf6T_2bY4Qnm2czjNNwmcucYeP4gH&export=download&authuser=0&confirm=t.mkv
+84 Aúlla, Chidori. ¡Ruge, Sasuke!
+https://drive.usercontent.google.com/download?id=1oXbwacE6-8yPFSWVozRGTOOqdpUdnekW&export=download&authuser=0&confirm=t.mkv
+85 Estúpido hermano, ¡ódiame, despréciame!
+https://drive.usercontent.google.com/download?id=1kEpDQmYyGZvHBp8DsHGqPR82CEqphsgd&export=download&authuser=0&confirm=t.mkv
+86 A entrenar. ¡Juro que me haré más fuerte!
+https://drive.usercontent.google.com/download?id=1mzBbQl84UWVWAFA6KQA9EYpCjUTx_YCk&export=download&authuser=0&confirm=t.mkv
+87 ¡Agallas! ¡Explota, globo de agua!
+https://drive.usercontent.google.com/download?id=1klgIcLR-Tu82OZZfUj3tik-TCF8ckg6i&export=download&authuser=0&confirm=t.mkv
+88 La bandana y la marca de Konoha
+https://drive.usercontent.google.com/download?id=1KexAijLFfy_oVF7jUo9KQGtltoIGqY12&export=download&authuser=0&confirm=t.mkv
+89 Repercusiones
+https://drive.usercontent.google.com/download?id=1HBVFxvNAEMyoNILPKIiNq8UnHtURztbx&export=download&authuser=0&confirm=t.mkv
+90 ¡Explosión de ira! ¡No te perdonaré!
+https://drive.usercontent.google.com/download?id=1_Ibg3itxf5DTMm7UhxZVKHoR9AOLz2U9&export=download&authuser=0&confirm=t.mkv
+91 El legado del Primer Hokage. Un colgante que atrae la muerte
+https://drive.usercontent.google.com/download?id=1IgvLb4K1MQlg3pZ157dltUDjbgfMIoSC&export=download&authuser=0&confirm=t.mkv
+92 Sí o no La respuesta de Tsunade
+https://drive.usercontent.google.com/download?id=1JiD-zXeJ8zD0wBGO5bN-FjJCBt6ecVLZ&export=download&authuser=0&confirm=t.mkv
+93 ¡Trato roto!
+https://drive.usercontent.google.com/download?id=1ZEXkoaZV2ABxvIjyQWKhWU2UFNaAbEqE&export=download&authuser=0&confirm=t.mkv
+94 ¡Toma esto! Un furioso Rasengan
+https://drive.usercontent.google.com/download?id=19vyqxqrTyoPylwcuXGbkpMmW0LhxNM71&export=download&authuser=0&confirm=t.mkv
+95 La Quinta Hokage. ¡Una batalla donde apuesta su vida!
+https://drive.usercontent.google.com/download?id=1LUsVun4Az__gr7-KXjdgXNy2aHyL79q9&export=download&authuser=0&confirm=t.mkv
+96 Combate a tres bandas
+https://drive.usercontent.google.com/download?id=1YESZpYO9zhcXu7B0umUQDVMJaBVlHAvv&export=download&authuser=0&confirm=t.mkv
+97 El accidentado viaje de Naruto a los baños termale
+https://drive.usercontent.google.com/download?id=1YxfJmXbDxvW9ywb9yWVi-qnm1VIeVkWP&export=download&authuser=0&confirm=t.mkv
+98 ¡Olvídate de ser ninja! La advertencia de Tsunade
+https://drive.usercontent.google.com/download?id=1j9Q1x5u_kj_WlMVCwfH14zWyxnbL7Akg&export=download&authuser=0&confirm=t.mkv
+99 Los herederos de la voluntad de fuego
+https://drive.usercontent.google.com/download?id=1oGiJd-jO4XGb3l2pYhssYG1uEf4wo9A7&export=download&authuser=0&confirm=t.mkv
+100 Los lazos de los ninjas. Cuando un hombre sigue su camino del ninja
+https://drive.usercontent.google.com/download?id=1ast6Lu7VU0_hf3p9-3HYkdUQguf4sXSm&export=download&authuser=0&confirm=t.mkv
+101 ¡Queremos verlo! ¡Queremos comprobarlo! ¡El rostro de Kakashi-sensei!
+https://drive.usercontent.google.com/download?id=1CmEBElHQSM3DEIVOW-KNYCEcIQDMb0m7&export=download&authuser=0&confirm=t.mkv
+102 Nueva misión. ¡A salvar el honor y el País del Té!
+https://drive.usercontent.google.com/download?id=1P1ED3qpckjzWOHRiv2RqmpowcO0aNIQY&export=download&authuser=0&confirm=t.mkv
+103 Naruto se hunde - La conspiración del océano
+https://drive.usercontent.google.com/download?id=1AKWuIVG88mKtoGlz5KhY3I1wnOnmW8ye&export=download&authuser=0&confirm=t.mkv
+104 ¡Corre, Idate! ¡La isla Nagi llama a la tormenta!
+https://drive.usercontent.google.com/download?id=1pck2x6lQdfoHwyahS82dYM42b25xtsM0&export=download&authuser=0&confirm=t.mkv
+105 ¡Frente a la meta! Un violento combate entre truenos
+https://drive.usercontent.google.com/download?id=1r6tDoG3WtHjtx0I6XrrlYubDi0P69Vl9&export=download&authuser=0&confirm=t.mkv
+106 Llegará a tiempo ¡Un último esfuerzo, Idate!
+https://drive.usercontent.google.com/download?id=11ErDfVYxD6XJhREVGXD6Hakz3x-yJbLe&export=download&authuser=0&confirm=t.mkv
+107 ¡Quiero enfrentarme a ti! Chocan al fin. Sasuke contra Naruto
+https://drive.usercontent.google.com/download?id=1HndNGVlajlYTwUQ1MdiYt92sEZWXmh7M&export=download&authuser=0&confirm=t.mkv
+108 Fisura invisible
+https://drive.usercontent.google.com/download?id=1B9n7xv21mVSLAssdT79MHz2Ac2oDSN37&export=download&authuser=0&confirm=t.mkv
+109 La llamada del Sonido
+https://drive.usercontent.google.com/download?id=1oHpmPtW9zl8hTEfXXXe_pFMELCP1Qavb&export=download&authuser=0&confirm=t.mkv
+110 ¡La creación de la formación impenetrable!
+https://drive.usercontent.google.com/download?id=1Dqj9WId6TsGwL4WHUalWXDCzal77Cbj4&export=download&authuser=0&confirm=t.mkv
+111 Contacto. El poder de los Cuatro del Sonido
+https://drive.usercontent.google.com/download?id=1pzy3d74hs7R1RHKrTDjJiUxn7hw-cpxP&export=download&authuser=0&confirm=t.mkv
+112 Conflicto interno El pelotón de Shikamaru en aprietos
+https://drive.usercontent.google.com/download?id=1ZgMeTZWmpZTt5j469ZccT_M857tVML_O&export=download&authuser=0&confirm=t.mkv
+113 ¡Poder desatado! ¡Chouji está que arde!
+https://drive.usercontent.google.com/download?id=1B1ERf7aq72KfT5cvkj5H8LdcTEKN9uiP&export=download&authuser=0&confirm=t.mkv
+114 ¡Adiós, amigo mío! Creeré en ti hasta el final
+https://drive.usercontent.google.com/download?id=1pcEWC-sOjMg8QzY_RVXt9o72Si9D15-v&export=download&authuser=0&confirm=t.mkv
+115 ¡Tu oponente soy yo!
+https://drive.usercontent.google.com/download?id=1FvoQD6Ia-E97orah4AGRPM6lrruA5lpp&export=download&authuser=0&confirm=t.mkv
+116 Visión de 360 grados. El punto ciego del Byakugan
+https://drive.usercontent.google.com/download?id=1y6smdQnVj2X0-9TxEoPwLOCJttIwb1AY&export=download&authuser=0&confirm=t.mkv
+117 Un motivo para no perder
+https://drive.usercontent.google.com/download?id=1DeFIiRzm-8ts49R2O-gJFIjMfPqpyyJT&export=download&authuser=0&confirm=t.mkv
+118 Rescate. El cuerpo que no llegó a tiempo
+https://drive.usercontent.google.com/download?id=14bBtPF-bBw7YOl692fSjn2hi7sxPsKHa&export=download&authuser=0&confirm=t.mkv
+119 ¡Fallo! Un nuevo enemigo
+https://drive.usercontent.google.com/download?id=1PJL4U3bqR5oz-4kTZ2NmCjrxthHm1oE6&export=download&authuser=0&confirm=t.mkv
+120 ¡Ruge! ¡Ladra! El dúo definitivo
+https://drive.usercontent.google.com/download?id=1Ry-VglbiUXqXyq2JsmjUgmESyfcT3bNS&export=download&authuser=0&confirm=t.mkv
+121 Distintas batallas
+https://drive.usercontent.google.com/download?id=13rZpR8i3WP0ulXwzR48NmnVdzo0xo0eP&export=download&authuser=0&confirm=t.mkv
+122 ¡Engaño! La apuesta de Shikamaru para vencer
+https://drive.usercontent.google.com/download?id=1LVWc-9PjsXiQOnNtb1ImSuAtfc0akmkj&export=download&authuser=0&confirm=t.mkv
+123 ¡Llega la bestia verde de Konoha!
+https://drive.usercontent.google.com/download?id=18LVEbdoGnYuPAIHt89qU5stVLTYnbxxN&export=download&authuser=0&confirm=t.mkv
+124 ¡La bestia desatada! ¡Estalla! ¡Vuela! ¡Atraviesa!
+https://drive.usercontent.google.com/download?id=1jpJde1b5u7V-Qg-diQJDwAMIWrRPBABD&export=download&authuser=0&confirm=t.mkv
+125 Aliados de Konoha. Los shinobi de la Arena
+https://drive.usercontent.google.com/download?id=1ybDWIomkzJ7jJg43v2F3CngYzPKgSaqo&export=download&authuser=0&confirm=t.mkv
+126 ¡Combate entre titanes! ¡Gaara contra Kimimaro!
+https://drive.usercontent.google.com/download?id=1n9E2tuq5Py6oCw3oMH2ee6RnVgppuaKJ&export=download&authuser=0&confirm=t.mkv
+127 ¡Golpe implacable! Sawarabi no Mai
+https://drive.usercontent.google.com/download?id=1saZNRLv7IeSYQr17EsaUxmbN4wKcu_VX&export=download&authuser=0&confirm=t.mkv
+128 Grito extraviado
+https://drive.usercontent.google.com/download?id=13Gif-S5PAIGhdogjf7BUJZNf5mjRsfxJ&export=download&authuser=0&confirm=t.mkv
+129 Itachi y Sasuke. Dos individuos muy lejanos
+https://drive.usercontent.google.com/download?id=1DgRcyAxkAJPZ73OyHpf-Sq1sjhk6PePA&export=download&authuser=0&confirm=t.mkv
+130 Padre e hijo. El emblema resquebrajado
+https://drive.usercontent.google.com/download?id=1x-g_yYPtqGwZDCNvzD31RciVjqcon-6x&export=download&authuser=0&confirm=t.mkv
+131 El secreto del Mangekyo Sharingan
+https://drive.usercontent.google.com/download?id=1PvAj6OIILDFbL4GW_8UR-9fhrBqXZmtC&export=download&authuser=0&confirm=t.mkv
+132 ¡Amigo mío!
+https://drive.usercontent.google.com/download?id=1mPuAR_yY7NmMcTOClz_Ls2Cvlf6_ZKuL&export=download&authuser=0&confirm=t.mkv
+133 ¡Un rugido entre llantos! Tú eres mi amigo
+https://drive.usercontent.google.com/download?id=1x7yive6EjqEKWCBuAxnaTt4vuwguELtZ&export=download&authuser=0&confirm=t.mkv
+134 Conclusión bajo la lluvia
+https://drive.usercontent.google.com/download?id=12iVcth1-dF7AGqIodGkgZKPeDuJ7-mcA&export=download&authuser=0&confirm=t.mkv
+135 La promesa incumplida
+https://drive.usercontent.google.com/download?id=1jiPh3ORFbnAJ_zUaZrr17tyTYCq4AqDt&export=download&authuser=0&confirm=t.mkv
+136 ¿Una infiltración Por fin una misión de rango S
+https://drive.usercontent.google.com/download?id=1RlElmjdztp3oG6Q69CxYo-krwqJdLAnq&export=download&authuser=0&confirm=t.mkv
+137 La ciudad de los proscritos. La sombra del clan Fuuma
+https://drive.usercontent.google.com/download?id=1U3pnrN4TerZ8Fl2e6cMCeQuq7raKPqNG&export=download&authuser=0&confirm=t.mkv
+138 Traición inocente. Un deseo puro
+https://drive.usercontent.google.com/download?id=1weu2vIhR3hp60M_xDjkT25YGuhN8riTp&export=download&authuser=0&confirm=t.mkv
+139 ¡Terror! La guarida de Orochimaru
+https://drive.usercontent.google.com/download?id=1VdjdyPLnl0t5yCbdTZvqOQdpGomrK5eh&export=download&authuser=0&confirm=t.mkv
+140 Dos latidos. La trampa de Kabuto
+https://drive.usercontent.google.com/download?id=1Y5lJVLMc6mn8Kd_CDWpkuZXmKpAQpFqY&export=download&authuser=0&confirm=t.mkv
+141 La resolución de Sakura
+https://drive.usercontent.google.com/download?id=1Wb2A3CuESeKmTDuoZbnJRiv2y8OVRUzS&export=download&authuser=0&confirm=t.mkv
+142 Los tres villanos de la prisión
+https://drive.usercontent.google.com/download?id=1g7hc63EmM207pH43_qGULHlRP731FuZA&export=download&authuser=0&confirm=t.mkv
+143 ¡Corre, Tonton! Dependemos de tu olfato
+https://drive.usercontent.google.com/download?id=1RQsPIgTAhkqMPG_7nZbFXxx1SpZ4QqHd&export=download&authuser=0&confirm=t.mkv
+144 ¡El nuevo trío dos hombres y un perro!
+https://drive.usercontent.google.com/download?id=1VezyaGyf0qa_A7V5MHWoiiS1f6lEde-F&export=download&authuser=0&confirm=t.mkv
+145 ¡Explosión! La nueva formación Inoshikachou!
+https://drive.usercontent.google.com/download?id=1B1bBdSDa6RhqecUa7RuQVKCgP9kd3LDX&export=download&authuser=0&confirm=t.mkv
+146 Ambición remanente. La sombra de Orochimaru
+https://drive.usercontent.google.com/download?id=1zBvv2eDnrSt_R5uN0qtGNWC-5RezGtyX&export=download&authuser=0&confirm=t.mkv
+147 ¡Combate predestinado! Tú no puedes derrotarme
+https://drive.usercontent.google.com/download?id=1t7PRKTVR8wha8FKlatoAXvk7PxpnE4Vt&export=download&authuser=0&confirm=t.mkv
+148 ¡Akamaru se pone celoso! Busquemos al bikouchuu rastreador
+https://drive.usercontent.google.com/download?id=1yrPpwmXU-JSCD4oDTpt64iHq0V0Aae4p&export=download&authuser=0&confirm=t.mkv
+149 ¿Qué diferencia hay Todos los bichos son iguales
+https://drive.usercontent.google.com/download?id=18Kgz61NfXcK_jsqD2x1lsSUsM1qUEJqc&export=download&authuser=0&confirm=t.mkv
+150 ¡Engañar, mentir y ser engañado! Una feroz batalla entre insectos
+https://drive.usercontent.google.com/download?id=1_LuaC4Kog9yEioF6H4x1vhyjnb6i63Bv&export=download&authuser=0&confirm=t.mkv
+151 ¡Que arda el Byakugan! Este es mi camino del ninja
+https://drive.usercontent.google.com/download?id=1nPjCbcQB83L2L0kzG29BXkqSK9twuryA&export=download&authuser=0&confirm=t.mkv
+152 Marcha fúnebre para los vivos
+https://drive.usercontent.google.com/download?id=1yQdixfy_-oidEEjDwgqJ9hqdQKzy2SaJ&export=download&authuser=0&confirm=t.mkv
+153 ¡Que el puño del afecto llegue a tu corazón!
+https://drive.usercontent.google.com/download?id=1PMAioL3hY3pbdsLA74YXET2x6Ksbevh3&export=download&authuser=0&confirm=t.mkv
+154 El enemigo mortal del Byakugan
+https://drive.usercontent.google.com/download?id=1-13H-FdgpUtTaWUtvW2a5U2hB2e84Zx8&export=download&authuser=0&confirm=t.mkv
+155 Nubes oscuras en el horizonte
+https://drive.usercontent.google.com/download?id=1L28qQGGxZ0bePFl-HdeodR9mCy01dw7d&export=download&authuser=0&confirm=t.mkv
+156 El contraataque de Raiga
+https://drive.usercontent.google.com/download?id=1fMSAXKFYfOeXCVPGxm2HEeyh2RRohw6z&export=download&authuser=0&confirm=t.mkv
+157 ¡Corran! El curry de la vida
+https://drive.usercontent.google.com/download?id=1M1Ma6oyQyoYDllYlWrMkgiC1XKaqh8pr&export=download&authuser=0&confirm=t.mkv
+158 ¡Síganme! Supervivencia entre sudor y lágrimas
+https://drive.usercontent.google.com/download?id=1gC-Z9-_X2oOo3Ag71Y74g1zHj0wpjIPC&export=download&authuser=0&confirm=t.mkv
+159 ¿Amigo o enemigo El cazarrecompensas del yermo
+https://drive.usercontent.google.com/download?id=16AM_RawgVVAke-B-5SpAn-iWHR_5eHau&export=download&authuser=0&confirm=t.mkv
+160 ¿Cazar o ser cazado Confrontación en el Templo Okay
+https://drive.usercontent.google.com/download?id=1-m6nkHAV0XlyAJ7v84kfqaIvrdspX--9&export=download&authuser=0&confirm=t.mkv
+161 Visitantes inesperados. ¿La bestia verde ¿El monstruo
+https://drive.usercontent.google.com/download?id=1Bd8vo0QbO3_KPw_78QjFOdHfjOsvDOZg&export=download&authuser=0&confirm=t.mkv
+162 El espectro blanco
+https://drive.usercontent.google.com/download?id=1ZG6LOQJxnjrAOpE7s_nZGqs6buqgSXcu&export=download&authuser=0&confirm=t.mkv
+163 Las intenciones de Koumei
+https://drive.usercontent.google.com/download?id=1EFeoJ5647a4ZxfvM4q0zFF8E9irpmfSg&export=download&authuser=0&confirm=t.mkv
+164 Un ayudante tardío
+https://drive.usercontent.google.com/download?id=1FescLBp0tzgEEAUG7aMPr5fAUy00xD9g&export=download&authuser=0&confirm=t.mkv
+165 Naruto muere
+https://drive.usercontent.google.com/download?id=1sPFc5xFho2Ev6fWaOjW2DTkuqiOCabPI&export=download&authuser=0&confirm=t.mkv
+166 El tiempo paralizado
+https://drive.usercontent.google.com/download?id=1PY6EEV7uUtWYENwnYIHqVU_0cNA7i-q8&export=download&authuser=0&confirm=t.mkv
+167 La garza echa a volar
+https://drive.usercontent.google.com/download?id=1mWXspccDf4WJhTDZJTk84Ew6jH7BMP6r&export=download&authuser=0&confirm=t.mkv
+168 ¡Que arda la cocina! ¡Mezcla, estira y hierve!
+https://drive.usercontent.google.com/download?id=1qzv2Mbmi9g1yJl166FnGYzzv-0yZZcem&export=download&authuser=0&confirm=t.mkv
+169 Páginas de recuerdos perdidos
+https://drive.usercontent.google.com/download?id=1PEJSm4b-Fv7dbCusA85S1Xe0Hsa-QwxV&export=download&authuser=0&confirm=t.mkv
+170 Impacto. La puerta cerrada
+https://drive.usercontent.google.com/download?id=1lbC0teEXIETb0CG7kV-4AiX1yC8ywsvX&export=download&authuser=0&confirm=t.mkv
+171 Infiltración. La trampa
+https://drive.usercontent.google.com/download?id=1ISIkkxrEV3o4DYF4Ly2haNqMi6C6AIGw&export=download&authuser=0&confirm=t.mkv
+172 Desesperación. Un corazón lacerado
+https://drive.usercontent.google.com/download?id=1nn2x_CF5Kjh_EqM1In231cD3sHwlFNJR&export=download&authuser=0&confirm=t.mkv
+173 Batalla naval. El poder desatado
+https://drive.usercontent.google.com/download?id=1meq6ZgXsuXlupwRi2N4OhQgYBXexzZxI&export=download&authuser=0&confirm=t.mkv
+174 ¡No me lo creo! Arte Célebre Técnica del Dinero
+https://drive.usercontent.google.com/download?id=1wXXRX4QC-o-knKLI_mxWQEaFoXM0Tf7O&export=download&authuser=0&confirm=t.mkv
+175 ¡Escarba ahí, guau! Buscando el tesoro enterrado
+https://drive.usercontent.google.com/download?id=1bNBRVbCuDQfv7lPATPXHosOsk264M7bi&export=download&authuser=0&confirm=t.mkv
+176 ¡Esprinta, corre en zigzag! Persecuciones y errores
+https://drive.usercontent.google.com/download?id=1i0hHf-J1ERhwbH7e6ibzjFY-Ryhp7evw&export=download&authuser=0&confirm=t.mkv
+177 ¡¿Oh! Por favor, señor cartero
+https://drive.usercontent.google.com/download?id=1wAEc9pUe6ShMV8Ahxq4XfMo-8pHLodNO&export=download&authuser=0&confirm=t.mkv
+178 Encuentro. El chico de nombre estelar
+https://drive.usercontent.google.com/download?id=1qA8ZV-y-inUomgwCBkNxsVbIinD0VkAt&export=download&authuser=0&confirm=t.mkv
+179 Estrella de verano. Una nana nostálgica
+https://drive.usercontent.google.com/download?id=1aOa3vN2JPmOxeSWgkMl73SJqJF2_uqQc&export=download&authuser=0&confirm=t.mkv
+180 El coste de la técnica secreta Kujaku Myouhou
+https://drive.usercontent.google.com/download?id=1voo4OoCAUU5YpdW4AN7ICC93UZmp8MKK&export=download&authuser=0&confirm=t.mkv
+181 Hoshikage. La verdad enterrada
+https://drive.usercontent.google.com/download?id=1vBBuwuB0EzfbNBsFXtqEy91ZUsvaS4T3&export=download&authuser=0&confirm=t.mkv
+182 Reencuentro. El tiempo que nos queda
+https://drive.usercontent.google.com/download?id=1m5FvYFmxumYmNNeiC0hW853A6eWLaRKX&export=download&authuser=0&confirm=t.mkv
+183 Aumenta el resplandor de la estrella
+https://drive.usercontent.google.com/download?id=16sCbh1pc5VKoL60foR5wOm6fJvrb3yKg&export=download&authuser=0&confirm=t.mkv
+184 El día eterno de Kiba Inuzuka
+https://drive.usercontent.google.com/download?id=1BMixTlDfqcTRtMW3e9S3Pn3EPLa3j3FL&export=download&authuser=0&confirm=t.mkv
+185 La leyenda de Konoha. ¡Los Onbaa existen!
+https://drive.usercontent.google.com/download?id=1nkhXnKHywho_fTQdG8H2f1Q7N87wkI6T&export=download&authuser=0&confirm=t.mkv
+186 La risa de Shino
+https://drive.usercontent.google.com/download?id=16EisfPedPB-F0vMUE70cyrCCiM2qL4Qc&export=download&authuser=0&confirm=t.mkv
+187 ¡El centro de mudanzas de Konoha se estrena!
+https://drive.usercontent.google.com/download?id=1bYX8T1nrciHL9J1Ftkfy3v-2hdn6vYJV&export=download&authuser=0&confirm=t.mkv
+188 Inexplicable. Ataque a los comerciantes
+https://drive.usercontent.google.com/download?id=1iv29vH2Ajb2k56l6mSdWcM2Kc_UcvUPo&export=download&authuser=0&confirm=t.mkv
+189 Agua subterránea. Herramienta inagotable
+https://drive.usercontent.google.com/download?id=1yihhxwEwpr6f39tT5bfeHVVxPd1sonVW&export=download&authuser=0&confirm=t.mkv
+190 El Byakugan detecta el punto débil del imán
+https://drive.usercontent.google.com/download?id=1mtQKnmv--C8gM0g8DfI5qwIZSE55ogx1&export=download&authuser=0&confirm=t.mkv
+191 Previsión mortal. Soleado con algunas nubes
+https://drive.usercontent.google.com/download?id=1z3glv0LMf8zob6l-YwS6ffldq-iMHA7u&export=download&authuser=0&confirm=t.mkv
+192 Los alaridos de Ino. El paraíso de los gorditos
+https://drive.usercontent.google.com/download?id=1HarP6gGIkTvLJWUo2yg7pbNvq0pEsGuj&export=download&authuser=0&confirm=t.mkv
+193 ¡Desafía mi dojo! La juventud es explosiva
+https://drive.usercontent.google.com/download?id=18Rr_woEmgg4F8pY4fl2zJT3aGiftUcGo&export=download&authuser=0&confirm=t.mkv
+194 Misterio. Un castillo encantado
+https://drive.usercontent.google.com/download?id=1Sq3mhWsUKY4tuBiiJB-kC_-vpVC_mUUu&export=download&authuser=0&confirm=t.mkv
+195 La tercera bestia. El mayor rival
+https://drive.usercontent.google.com/download?id=1cZIrB2obFocofD3vl5Rs9rfQGO7WfS-j&export=download&authuser=0&confirm=t.mkv
+196 ¡Choque trágico! Combate apasionado
+https://drive.usercontent.google.com/download?id=1tWIUf2qzYjnJP3U_2b8t8iaQzRupNwzs&export=download&authuser=0&confirm=t.mkv
+197 ¡Problemas! ¡Los once de Konoha se reúnen!
+https://drive.usercontent.google.com/download?id=1iW1VfLEbFaKDmmfkj-TyqhQYBYbJt4NY&export=download&authuser=0&confirm=t.mkv
+198 Hasta el ANBU se rinde. Los recuerdos de Naruto
+https://drive.usercontent.google.com/download?id=16hz2Ffen0Qqdgcy0viVn6FDLTRDM9BYs&export=download&authuser=0&confirm=t.mkv
+199 No aciertes. La diana en el punto de mira
+https://drive.usercontent.google.com/download?id=1IwzquXmUglKDNrBeS1KO3xBl_Bo1x-Jq&export=download&authuser=0&confirm=t.mkv
+200 ¡Aún somos jóvenes! Unos ayudantes confiables
+https://drive.usercontent.google.com/download?id=1cIbGtSMo5DMlqhSnVkyF5Yx4zODZYKYY&export=download&authuser=0&confirm=t.mkv
+201 Trampas múltiples. Cuenta atrás para la ruina
+https://drive.usercontent.google.com/download?id=16H9yRIXCPkQAZkUYXojV2xZXwlfwKBqp&export=download&authuser=0&confirm=t.mkv
+202 ¡Anunciamos los mejores cinco combates ninjas y un episodio extra que todos esperaban! error de audio
+https://drive.usercontent.google.com/download?id=1C4AVRvl7QPcbk4XUFQ9MkVazNBxH0vDh&export=download&authuser=0&confirm=t.mkv
+203 La decisión de Kurenai. El Equipo 8 desamparado
+https://drive.usercontent.google.com/download?id=118AHfOZGWeYwcHQz7ea8LWUF1FiF-RkY&export=download&authuser=0&confirm=t.mkv
+204 Acechan a Yakumo. Los poderes sellados
+https://drive.usercontent.google.com/download?id=1aKzcVPuXt1iIaLIIadsBC1wWjd9VBGEm&export=download&authuser=0&confirm=t.mkv
+205 La misión secreta de Kurenai. La promesa con el Tercero
+https://drive.usercontent.google.com/download?id=1dAa4xmkESYzbuzn0VYWlFKd2-ZRBLU_i&export=download&authuser=0&confirm=t.mkv
+206 ¿Genjutsu o realidad Control sobre los sentidos
+https://drive.usercontent.google.com/download?id=1Dd89Rs87qMDDkIQKKSdXegugMQiB71ce&export=download&authuser=0&confirm=t.mkv
+207 Los poderes supuestamente sellados
+https://drive.usercontent.google.com/download?id=1PDiryNhyURG2swpIFOA3oT6cYPrX_F2I&export=download&authuser=0&confirm=t.mkv
+208 El peso de la belleza natural
+https://drive.usercontent.google.com/download?id=1Kwgve14CYKYRBSn6vguYie1lJpk8DXDh&export=download&authuser=0&confirm=t.mkv
+209 El enemigo Los ninjas renegados
+https://drive.usercontent.google.com/download?id=1iS-P50kW9MYALVP7-99J09Qb9fA3fqju&export=download&authuser=0&confirm=t.mkv
+210 El bosque desconcertante
+https://drive.usercontent.google.com/download?id=1zA1PpQzagTtH2LxNqDIs2fUs2e3pwp8B&export=download&authuser=0&confirm=t.mkv
+211 Recuerdos del fuego
+https://drive.usercontent.google.com/download?id=1zvo4lH840p9u24jNU9QAVYR1tGMjJsH7&export=download&authuser=0&confirm=t.mkv
+212 Cada quién su camino
+https://drive.usercontent.google.com/download?id=1_w9Yk2kV3lko0n35HzmSSAcwczKMne_L&export=download&authuser=0&confirm=t.mkv
+213 Recuerdos desvanecidos
+https://drive.usercontent.google.com/download?id=1wv1JF68usIWl6ieOyMvREFwB5SHIIuAv&export=download&authuser=0&confirm=t.mkv
+214 Recuperando la realidad
+https://drive.usercontent.google.com/download?id=1wvC_7py5OkoTEK3FvGgadz-5yG6BRQDO&export=download&authuser=0&confirm=t.mkv
+215 Un pasado por borrar
+https://drive.usercontent.google.com/download?id=1Stj9AL_0zzzi5iGn9WcCCc2jQFmf7rL9&export=download&authuser=0&confirm=t.mkv
+216 El objetivo Shukaku
+https://drive.usercontent.google.com/download?id=1hFA4qNaohtxNDeXlbcf0WSOmh2QrZZoJ&export=download&authuser=0&confirm=t.mkv
+217 Alianza de la Arena con los ninjas de Konoha
+https://drive.usercontent.google.com/download?id=1S3gUfKIMYjdEf5r1TE027p5Pr3pRYYeW&export=download&authuser=0&confirm=t.mkv
+218 Arena sellada El contraataque
+https://drive.usercontent.google.com/download?id=184uWDaIAgjYk4LdZk_CmhQqkpHtBv-01&export=download&authuser=0&confirm=t.mkv
+219 El arma suprema resucitada
+https://drive.usercontent.google.com/download?id=1P8NcCuj2tPxoTZZDy0c5uGurj1_cYV25&export=download&authuser=0&confirm=t.mkv
+220 La partida
+https://drive.usercontent.google.com/download?id=1Bhipk-g2B1RCxY6lu5W3W6hXmL8CW1qw&export=download&authuser=0&confirm=t.mkv

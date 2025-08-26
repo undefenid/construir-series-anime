@@ -1,0 +1,74 @@
+Nombre: Series de Anime
+
+Nombre: Los Caballeros del Zodiaco: El Lienzo Perdido
+
+genero: Animación, Action & Adventure, Drama
+
+descripción: Saint Seiya: El lienzo perdido - El mito de Hades, también conocido como simplemente The Lost Canvas, es un manga escrito e ilustrado por Shiori Teshirogi. Es un spin-off basado en la serie manga Saint Seiya, que fue creado, escrito e ilustrado por el autor japonés Masami Kurumada.
+
+anio: 2009
+
+iconPng: https://image.tmdb.org/t/p/original/uNIuEYmaIofNv0rK1tmuLqNOQMU.png
+
+icono: https://image.tmdb.org/t/p/original/qVF43Xc6brE0AU4tCMxxd4D82Vz.jpg
+
+logohorizontal: https://image.tmdb.org/t/p/original/nnUIg97ucrcqFgrn39EFgKm1uT7.jpg
+
+temporadas
+nombre: temporada 1
+
+tmbdid: 61389
+
+
+01 Promesa
+https://drive.usercontent.google.com/download?id=1ly4FwB7eziUN8zj2xIMV-EduwSlhWS7Q&export=download&authuser=0&confirm=t.mkv
+02 El despertar de Hades
+https://drive.usercontent.google.com/download?id=1gFrwGoWtDKkaMWJrLrp97kBu9xUEmKc3&export=download&authuser=0&confirm=t.mkv
+03 Comienza la guerra santa
+https://drive.usercontent.google.com/download?id=1yVozrYWw0oY-olZP74XHP2eatXM9fF5L&export=download&authuser=0&confirm=t.mkv
+04 Guirnalda de oraciones
+https://drive.usercontent.google.com/download?id=1big_RwSIDY_Zsn9CfvUfiDrtymPtQ77c&export=download&authuser=0&confirm=t.mkv
+05 Rosas venenosas
+https://drive.usercontent.google.com/download?id=1mFWuoq7OwFLjKZVxljYuZfujmLyhR9FG&export=download&authuser=0&confirm=t.mkv
+06 Funeral de flores
+https://drive.usercontent.google.com/download?id=1Rj51WXStkak7T1cfdc2PAXUicezPCrx5&export=download&authuser=0&confirm=t.mkv
+07 Los frutos del árbol de la sabiduría
+https://drive.usercontent.google.com/download?id=1wU6O8osUNfwRnbMl3s6e74RkfeVhVF3E&export=download&authuser=0&confirm=t.mkv
+08 Un día de brisa agradable
+https://drive.usercontent.google.com/download?id=10E3iwDB-aP-Wc4bWPEz7Pt4lA1ZNuBB1&export=download&authuser=0&confirm=t.mkv
+09 Gran estrella
+https://drive.usercontent.google.com/download?id=1TBYR_LRqflZPvQoczyXdYCZVMla1YNT1&export=download&authuser=0&confirm=t.mkv
+10 Advenimiento
+https://drive.usercontent.google.com/download?id=1yba5kowX2vmCIeO6skqqyWvHdFhvzU-9&export=download&authuser=0&confirm=t.mkv
+11 Inalcanzable
+https://drive.usercontent.google.com/download?id=1x6ojLNU6MnUT1ttM6Kn5Uwp9wB7Zf6HF&export=download&authuser=0&confirm=t.mkv
+12 Sacrificio insoportable
+https://drive.usercontent.google.com/download?id=11Vw_h4g_Ma4w0oynKrjjFM0ElJqkdRE6&export=download&authuser=0&confirm=t.mkv
+13 La partida
+https://drive.usercontent.google.com/download?id=1Jvc0qQ6z3YlfmhR7Sy_IBZrtAnkYBgc9&export=download&authuser=0&confirm=t.mkv
+14 El bosque de la muerte
+https://drive.usercontent.google.com/download?id=1lFbWx865hcjTxLyLuFqF3gjVvD4mGXzi&export=download&authuser=0&confirm=t.mkv
+15 Si pudiera volver a aquel día
+https://drive.usercontent.google.com/download?id=1Ouf1ioC9zF5YkIJaObGEiYGnfb-w_W4q&export=download&authuser=0&confirm=t.mkv
+16 Dioses y peones
+https://drive.usercontent.google.com/download?id=1Y542J6GO8G61orQtdph5eNn2lgUIc9sp&export=download&authuser=0&confirm=t.mkv
+17 Basura
+https://drive.usercontent.google.com/download?id=1VC5eghs73naJIx0Ti74kq7Q9Ky82qkie&export=download&authuser=0&confirm=t.mkv
+18 Sólo quiero que vivas
+https://drive.usercontent.google.com/download?id=1g8Cc9dhv2piXoZlHRUATMhQ6xyVkQacT&export=download&authuser=0&confirm=t.mkv
+19 La espada de la soledad
+https://drive.usercontent.google.com/download?id=1C9eZyXn4z55OF-ScqPIF6uxSiiR2ebUu&export=download&authuser=0&confirm=t.mkv
+20 La prisión de los sueños
+https://drive.usercontent.google.com/download?id=1wUQDaZ17uIfYhp5t39MWiir5GKHXWdYx&export=download&authuser=0&confirm=t.mkv
+21 Más allá de los sueños
+https://drive.usercontent.google.com/download?id=1ygAFMHaL-0nXt_Inc5YkfCx1zzzWRLeZ&export=download&authuser=0&confirm=t.mkv
+22 El camino de la lealtad
+https://drive.usercontent.google.com/download?id=1PBRiDr_xbRvDe8qj0pF47b3ZdpA1tGRS&export=download&authuser=0&confirm=t.mkv
+23 Espada sagrada
+https://drive.usercontent.google.com/download?id=183awoChtI5yA1Ro4cQktd8aW5V-iThey&export=download&authuser=0&confirm=t.mkv
+24 Tiempo de la sangrienta batalla
+https://drive.usercontent.google.com/download?id=1nqciiRClEoXZR98lHOOnBW4XLClcQlHS&export=download&authuser=0&confirm=t.mkv
+25 Cuantos meses y años
+https://drive.usercontent.google.com/download?id=13w5nyNCvZ30rJaMk75FefDPQeBgEs2QE&export=download&authuser=0&confirm=t.mkv
+26 Sé tú mismo
+https://drive.usercontent.google.com/download?id=1f1iakYN8H7uIGclwfMBKHgD8CzF5_L8D&export=download&authuser=0&confirm=t.mkv

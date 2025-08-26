@@ -1,0 +1,329 @@
+
+Nombre: Series de Anime
+
+Nombre: Dragon Ball
+
+genero:Animación, Action & Adventure, Sci-Fi & Fantasy
+
+descripción: La serie animada Dragon Ball narra la historia de Son Goku, un niño fuerte que llega a la Tierra en una cápsula, y su aventura para encontrar las Esferas del Dragón. Las Esferas del Dragón son siete objetos mágicos que, al reunirse, convocan a Shen Long, un dragón que concede deseos. La historia sigue a Goku en su viaje de entrenamiento, su amistad con Bulma y Krilin, y su lucha contra villanos que amenazan la Tierra. 
+
+anio:1986
+
+iconPng:https://image.tmdb.org/t/p/original/kImgLDlDYB21boSzwc2fHyQVQON.png
+
+icono: https://image.tmdb.org/t/p/original/5NxBpKA34c6IoSVl9lfIrpECBOh.jpg
+
+logohorizontal:https://image.tmdb.org/t/p/original/yXggMemopUDHwPgmi6X9Wh2BQra.jpg
+
+temporadas
+nombre: temporada 1
+
+tmbdid:12609
+
+
+01 El secreto de la esfera del dragón
+https://drive.usercontent.google.com/download?id=197d_LEEhcujXAzpDoC7Ll3k23j7HzVUx&export=download&authuser=0&confirm=t.mkv
+02 La búsqueda del emperador
+https://drive.usercontent.google.com/download?id=1y9EXT0Q4hKgu9XaS-poRRx5xqXyf7f3_&export=download&authuser=0&confirm=t.mkv
+03 La nube dorada de Roshi
+https://drive.usercontent.google.com/download?id=1FeZ1M6QZ5SP13l6KUy2BW6AVsL3ppZyD&export=download&authuser=0&confirm=t.mkv
+04 Oolong, el secuestrador de niñas
+https://drive.usercontent.google.com/download?id=1YO8NcATfEFiSwWXXaz697BzryHFfFdsp&export=download&authuser=0&confirm=t.mkv
+05 El fuerte y malvado Yamcha vive en el desierto
+https://drive.usercontent.google.com/download?id=1fsJKoydNiOl9fK6inK6W8fMS_D3L6F63&export=download&authuser=0&confirm=t.mkv
+06 Vigila las esferas del dragón
+https://drive.usercontent.google.com/download?id=16hgDx1JmKbc15yAc09mJB4-bL4BSkKWv&export=download&authuser=0&confirm=t.mkv
+07 Ox-Satán en la montaña de fuego
+https://drive.usercontent.google.com/download?id=1IAlTiXR2yl-ax9VU3CCSaeaeGqFc-xCN&export=download&authuser=0&confirm=t.mkv
+08 La onda glaciar de Roshi
+https://drive.usercontent.google.com/download?id=1Hk17AohE2RlhypkEzfELzPvZpXYnR-1h&export=download&authuser=0&confirm=t.mkv
+09 El truco especial del Jefe Conejo
+https://drive.usercontent.google.com/download?id=1Ke0V3EdhtZavowXPK6hfIwhite7g9N4b&export=download&authuser=0&confirm=t.mkv
+10 Las esferas del dragón han sido robadas
+https://drive.usercontent.google.com/download?id=1cSWHv32Xt20dMG4oNK0pubjnm1mIG6Pr&export=download&authuser=0&confirm=t.mkv
+11 El dragón ha sido llamado
+https://drive.usercontent.google.com/download?id=10tU1L-7MQK9d83QFskI45oVSaGkqJPMX&export=download&authuser=0&confirm=t.mkv
+12 Un deseo pedido al Dios dragón
+https://drive.usercontent.google.com/download?id=1uIsuix5gceTwV9DXRkRvLB9UcLh6FbAO&export=download&authuser=0&confirm=t.mkv
+13 La metamorfosis de Goku
+https://drive.usercontent.google.com/download?id=1QKk5TVeM2r_kaNfBlRZNN2ykGDUT14QH&export=download&authuser=0&confirm=t.mkv
+14 El rival de Goku
+https://drive.usercontent.google.com/download?id=1Pu63i1BCuiv4_PYW1YwuUO5zq3wDhnGW&export=download&authuser=0&confirm=t.mkv
+15 La misteriosa niña Lunch
+https://drive.usercontent.google.com/download?id=18ps_x1uMTFNknXtXbcwwzLkquJXvvz-j&export=download&authuser=0&confirm=t.mkv
+16 La cacería de piedras
+https://drive.usercontent.google.com/download?id=1U6okGC8IZ74pAhfFWsh7VROJ0J2JuRLu&export=download&authuser=0&confirm=t.mkv
+17 Los repartidores de leche
+https://drive.usercontent.google.com/download?id=19pmiKr7WFSIbMXUvt7YN79eSqreNGVWr&export=download&authuser=0&confirm=t.mkv
+18 Entrenando al estilo de Roshi
+https://drive.usercontent.google.com/download?id=1lLaCanqpwGnimkcH0e6-H-aWcPeA-3V_&export=download&authuser=0&confirm=t.mkv
+19 El gran torneo de Artes Marciales
+https://drive.usercontent.google.com/download?id=1-Pv29xtOJWwaUTmK1kedqEDCeGSc3hII&export=download&authuser=0&confirm=t.mkv
+20 ¿Podrá_el_duro_entrenamiento_ser_puesto_en_práctica¿
+https://drive.usercontent.google.com/download?id=1o-4p2gloz9XIDzU8YF56lOVpc3Xix3vp&export=download&authuser=0&confirm=t.mkv
+21 Alerta Krilin!!
+https://drive.usercontent.google.com/download?id=1zG4OrfoPSKT6DBJiZB-hSKFI95iwWWam&export=download&authuser=0&confirm=t.mkv
+22 Yamcha contra Jackie Chun
+https://drive.usercontent.google.com/download?id=1DdUidCATLSGcLVtQH6KRjJNT0TLjo58t&export=download&authuser=0&confirm=t.mkv
+23 El horrible Guilan
+https://drive.usercontent.google.com/download?id=1eb3ujPoQ-lPsrGnxVP90C0JwqaviklZ3&export=download&authuser=0&confirm=t.mkv
+24 El frenético ataque de Krilin
+https://drive.usercontent.google.com/download?id=1MBmFip5uq9CJy47PYg8opsFDf-o-t3gP&export=download&authuser=0&confirm=t.mkv
+25 El terrible ataque aéreo de Nam
+https://drive.usercontent.google.com/download?id=1ZVVjb6nZiZPJZ-n1cISlL6gUACyglXg6&export=download&authuser=0&confirm=t.mkv
+26 La fuerza Kame Hame al ataque
+https://drive.usercontent.google.com/download?id=1cakb_z0vElQKMkKyq2bpqQPToXumeiw2&export=download&authuser=0&confirm=t.mkv
+27 Goku en graves aprietos
+https://drive.usercontent.google.com/download?id=1y6LJSC4UANQQBp9V9NnibEcV7YrRpxv_&export=download&authuser=0&confirm=t.mkv
+28 Goku ha desaparecido
+https://drive.usercontent.google.com/download?id=1LWWNxJIhKYqf6RczMhtquWcXG31COB0C&export=download&authuser=0&confirm=t.mkv
+29 El rio que podia moverse
+https://drive.usercontent.google.com/download?id=15uYV8nKyg9d7JMbNP_gxWVqCxaT3EpZW&export=download&authuser=0&confirm=t.mkv
+30 El marciano y la patrulla misteriosa
+https://drive.usercontent.google.com/download?id=1OtC_dHL-R2bgsrIdHiraUEVgXwT7DpRO&export=download&authuser=0&confirm=t.mkv
+31 Goku creyó encontrarla
+https://drive.usercontent.google.com/download?id=1Ukff9dY57rnXV7q-668qe61eKwoVnvyw&export=download&authuser=0&confirm=t.mkv
+32 la fortaleza voladora desapareció
+https://drive.usercontent.google.com/download?id=169CeWK20gEK2gsFwtAaNUtfaZ_8LLC30&export=download&authuser=0&confirm=t.mkv
+33 La leyenda del dragón
+https://drive.usercontent.google.com/download?id=1aGTGfB9TV2s0gT3mZSZg8iwAaGE5LWPU&export=download&authuser=0&confirm=t.mkv
+34 el ejercicio listón rojo y su cruel comandante general
+https://drive.usercontent.google.com/download?id=1qubZ-1aqx4aDMJ87DehkOpVs6veiNhjh&export=download&authuser=0&confirm=t.mkv
+35 Suno, la pequeña niña de la aldea del norte
+https://drive.usercontent.google.com/download?id=1Xh4cwSdim9knsUElXD5uBdyJH0pVTUA8&export=download&authuser=0&confirm=t.mkv
+36 La batalla contra el sargento metálico
+https://drive.usercontent.google.com/download?id=1_XDgUMVoipRLLupFrQp_26hYHEg-M32e&export=download&authuser=0&confirm=t.mkv
+37 Llegó el ninja Púrpura
+https://drive.usercontent.google.com/download?id=1eosyFoWA__d6sydJO6ZFASHRSrWGHWtA&export=download&authuser=0&confirm=t.mkv
+38 Cinco ninjas en contra de Goku
+https://drive.usercontent.google.com/download?id=1KGyDX6qhmFrH4KJSKwOMDHOxDvCqGxvz&export=download&authuser=0&confirm=t.mkv
+39 El encuentro con el misterioso robot Nº8
+https://drive.usercontent.google.com/download?id=1EZIqAVAb89dQyxiTN8Mn2u3hwAq0JPY3&export=download&authuser=0&confirm=t.mkv
+40 La pelea de Goku contra el terrible Gullón
+https://drive.usercontent.google.com/download?id=16dpcVzn7nrt_NLB-tas9RU_iSkvvbDhW&export=download&authuser=0&confirm=t.mkv
+41 El ultimo día en la torre de la fuerza
+https://drive.usercontent.google.com/download?id=1uChxUVDEKOA3ySpiFW3q4tE7GHzohl6u&export=download&authuser=0&confirm=t.mkv
+42 El inesperado secreto del doctor Flappe
+https://drive.usercontent.google.com/download?id=1680jknVrshcRTMkXHw-5jLBWP1-rbM_H&export=download&authuser=0&confirm=t.mkv
+43 La casa de Bulma al Oeste de la Metropolis
+https://drive.usercontent.google.com/download?id=1I6ZzyI847b91qhr8QnGKd6u9wGAa1JGe&export=download&authuser=0&confirm=t.mkv
+44 Goku y sus amigos en terribles aprietos
+https://drive.usercontent.google.com/download?id=1BbUwXXVCfNf4rMO1gHCs_c4XeuO2Uhrm&export=download&authuser=0&confirm=t.mkv
+45 Cuidado, hay una trampa
+https://drive.usercontent.google.com/download?id=1YLjJ_B2fqGA-c_I8y4rjbHxm1JZJZ8Ky&export=download&authuser=0&confirm=t.mkv
+46 El fracaso total de Bulma
+https://drive.usercontent.google.com/download?id=17k9-qZsPCNPrWcTUnybe32Qfpe2P-LOc&export=download&authuser=0&confirm=t.mkv
+47 Encuentran la casa de Roshi
+https://drive.usercontent.google.com/download?id=18AMUuww7mG0lmrTt4gKiiE_Q2g85ix04&export=download&authuser=0&confirm=t.mkv
+48 El general Blue empieza a atacar
+https://drive.usercontent.google.com/download?id=1p2pnPGygYpM-LT5QUNC982umZn7YfSwK&export=download&authuser=0&confirm=t.mkv
+49 Cuidado con el enemigo
+https://drive.usercontent.google.com/download?id=1Vfc0WwkOf4clb7wyoYoHxp7xIgNdZV9B&export=download&authuser=0&confirm=t.mkv
+50 El secreto de los piratas
+https://drive.usercontent.google.com/download?id=1lA3b1XRy8xAt4YsYOXqo_SkYWU4do7WN&export=download&authuser=0&confirm=t.mkv
+51 El guardian de las profundidades
+https://drive.usercontent.google.com/download?id=197Q9Fqt_m0q3RqOvZ4Rhm8wlToGaOkFU&export=download&authuser=0&confirm=t.mkv
+52 Grandioso!, hemos encontrado el tesoro
+https://drive.usercontent.google.com/download?id=19gflDPApTonLY3Y9tYJ8my0bT9NQTpsZ&export=download&authuser=0&confirm=t.mkv
+53 La cueva siniestra
+https://drive.usercontent.google.com/download?id=1SXphWZ9iYooqtpDgajq0mm8AQZYTrutb&export=download&authuser=0&confirm=t.mkv
+54 El escape
+https://drive.usercontent.google.com/download?id=1Bm5ZmDL4I1buq3Fb2b1WwMvi8sgZ5J-Y&export=download&authuser=0&confirm=t.mkv
+55 Camino a villa pinguino
+https://drive.usercontent.google.com/download?id=1PuCSNE06LtqPmTzBBPJVaChykD5wth8m&export=download&authuser=0&confirm=t.mkv
+56 Arale viaja en la nube voladora
+https://drive.usercontent.google.com/download?id=1DPjjv6mxjpiiLr-WSd4T-y9122hGKRgt&export=download&authuser=0&confirm=t.mkv
+57 Arale contra el general Blue
+https://drive.usercontent.google.com/download?id=1vuRcyQ9EqLaQ6rkjc4laxHRbmKTKhj-6&export=download&authuser=0&confirm=t.mkv
+58 La tierra sagrada
+https://drive.usercontent.google.com/download?id=1obKxsztLZtt1eC9w5t_iws1fhfC327kM&export=download&authuser=0&confirm=t.mkv
+59 Tao Pai Pai, el exterminador más famoso del mundo
+https://drive.usercontent.google.com/download?id=1gQKT6JEfgSC5P8hX1sJNJ4fYNbyPKyKx&export=download&authuser=0&confirm=t.mkv
+60 La fuerza Kame Hame contra Tao Pai Pai
+https://drive.usercontent.google.com/download?id=1wpkTSUjZeuUbbJ3ndHR_Ia3VjsD4cjkd&export=download&authuser=0&confirm=t.mkv
+61 La torre del maestro Karin
+https://drive.usercontent.google.com/download?id=1-5Wm5LT66QYjEJoaOTjyC2YWDux_kJXG&export=download&authuser=0&confirm=t.mkv
+62 El beneficio del agua ultra sagrada
+https://drive.usercontent.google.com/download?id=1PjuurwGQsFjMMQKM1JHI5Y2IaydVj8Rn&export=download&authuser=0&confirm=t.mkv
+63 Goku contraataca
+https://drive.usercontent.google.com/download?id=1A8AF09h77nOsZog2LkiQ1KFmPWRdSVKY&export=download&authuser=0&confirm=t.mkv
+64 El último Tao Pai Pai
+https://drive.usercontent.google.com/download?id=1dPsAWGWOuIbXPAuAXN-oqBGuFzNAVuLF&export=download&authuser=0&confirm=t.mkv
+65 Vamos Goku!, comienza la pelea
+https://drive.usercontent.google.com/download?id=1QX4-Dc38xqZFHVOfzgCoNkys4zTm3ETt&export=download&authuser=0&confirm=t.mkv
+66 El último esfuerzo de la patrulla roja
+https://drive.usercontent.google.com/download?id=1zzsxUYeMBKeVjt963J0wD1PHGYEzEJD5&export=download&authuser=0&confirm=t.mkv
+67 El comandante de la patrulla roja muere
+https://drive.usercontent.google.com/download?id=19IG5iOvwIt9RTBKUiRNDmvsD0sZql-f-&export=download&authuser=0&confirm=t.mkv
+68 La última esfera del dragón
+https://drive.usercontent.google.com/download?id=13M9_ZyB4i1xLIjqjmZDel1Ae8L6cc_L-&export=download&authuser=0&confirm=t.mkv
+69 Quien es Uranai Baba
+https://drive.usercontent.google.com/download?id=1ka21svbwBrQPBFPRmiLj1UAF9WFpdNzQ&export=download&authuser=0&confirm=t.mkv
+70 El ataque de los cinco guerreros
+https://drive.usercontent.google.com/download?id=1YZh3rNlNrymYU_geVhVaV3YyY3Nv-nfJ&export=download&authuser=0&confirm=t.mkv
+71 Una batalla sangrienta y mortal
+https://drive.usercontent.google.com/download?id=1eHKsvxOPIRqhI0ASfyLUlAOnm4OgzS64&export=download&authuser=0&confirm=t.mkv
+72 La pelea de Goku, en el baño del diablo
+https://drive.usercontent.google.com/download?id=1AUJBx12ZLJna62PIibVAWnrWNRdGeW86&export=download&authuser=0&confirm=t.mkv
+73 Que es el resplandor del diablo
+https://drive.usercontent.google.com/download?id=137l1Pj3ee9V5IY-z7sBkkQv7tBxPrlST&export=download&authuser=0&confirm=t.mkv
+74 El misterioso quinto participante
+https://drive.usercontent.google.com/download?id=16Lhxc6GayOf3otmuqSBWbzq0ihGkF2Bt&export=download&authuser=0&confirm=t.mkv
+75 Que, el poderoso adversario resultó ser un viejo amigo
+https://drive.usercontent.google.com/download?id=1Iv6nKsddGAHo5PEzj3RquGlUcKHYMRVI&export=download&authuser=0&confirm=t.mkv
+76 La verdadera identidad del hombre enmascarado es...
+https://drive.usercontent.google.com/download?id=14H5wQr38qk4R4064LiPlaYOMek31Xv9s&export=download&authuser=0&confirm=t.mkv
+77 El gran plan de Pilaf
+https://drive.usercontent.google.com/download?id=1FpzMBqH_fFIkKNhA8LKlxtnviojs_nFc&export=download&authuser=0&confirm=t.mkv
+78 Otra vez el Dios Dragón
+https://drive.usercontent.google.com/download?id=1NXPGSbiawmzE1dR88oH2K8eDuql8VfT3&export=download&authuser=0&confirm=t.mkv
+79 Oro, Plata y una cantimplora come hombres
+https://drive.usercontent.google.com/download?id=1YO5aLYGWlWUtVxuRGD_YQb9WaNu3zdlm&export=download&authuser=0&confirm=t.mkv
+80 Una_pelea_ante_la_presencia_del_rey,_Goku_contra_Ten_Long
+https://drive.usercontent.google.com/download?id=1oovJZTa4Fb8lq-olxFTbuSRY4Z5r2Jtg&export=download&authuser=0&confirm=t.mkv
+81 Goku va a la tierra del Demonio
+https://drive.usercontent.google.com/download?id=189SR3-c6fORUmC7f3Q9misMtaRYnR_Y0&export=download&authuser=0&confirm=t.mkv
+82 Un monstruo violento llamado Inochi-ka-cho
+https://drive.usercontent.google.com/download?id=1oHXQ8TxfRKIfiOsjCI5rf9z6n9MOd6Vr&export=download&authuser=0&confirm=t.mkv
+83 ¡Apresúrate_Goku!_El_Torneo_de_las_Artes_Marciales_se_avecina
+https://drive.usercontent.google.com/download?id=1xRhX6V8U3B7yfXVV2KmNGfFRFwIwrsKJ&export=download&authuser=0&confirm=t.mkv
+84 ¿Quién es el mejor peleador de las Artes Marciales¿
+https://drive.usercontent.google.com/download?id=1xvnzyG0clbwV2T50BOXg_33mYgT9aE6a&export=download&authuser=0&confirm=t.mkv
+85 Tenemos_que_ganar!_¿Quién_llegará_a_las_preliminares¿
+https://drive.usercontent.google.com/download?id=1LvjuIpLL2ZmW00p9jSUBz0rDvhmakBHq&export=download&authuser=0&confirm=t.mkv
+86 Los ocho finalistas
+https://drive.usercontent.google.com/download?id=1KZLBbpt8HqGkKljm8eP5a0UWjYWgJ7OZ&export=download&authuser=0&confirm=t.mkv
+87 Yamcha contra Tenshinhan
+https://drive.usercontent.google.com/download?id=1qtjf1PAivmX1bH2gwvfx1AvGTmnUXfLp&export=download&authuser=0&confirm=t.mkv
+88 ¡Ten_cuidado_Yamcha!_El_temible_Tenshinhan_es_muy_peligroso
+https://drive.usercontent.google.com/download?id=1wDzkcVKfdbwwvc1c6KJ24RoXEFbTmN-A&export=download&authuser=0&confirm=t.mkv
+89 ¡Terror! El misterio de la luna llena
+https://drive.usercontent.google.com/download?id=1VL3_LAe8krX2N6dLTfsV4_z1ZRfInRmo&export=download&authuser=0&confirm=t.mkv
+90 ¿Qué…Qué…Qué¿ ¿Qué¿ ¿Dodonpa¿
+https://drive.usercontent.google.com/download?id=1VOPbrRP_bi4uaRsp4uLHkEe0J7PfEO6r&export=download&authuser=0&confirm=t.mkv
+91 ¡La_situación_ha_cambiado!_El_plan_matemático_de_Krilin
+https://drive.usercontent.google.com/download?id=1LJZDOuIvN-MCwRipsQyN-EX1U6BwxF6m&export=download&authuser=0&confirm=t.mkv
+92 Finalmente... El turno de Goku
+https://drive.usercontent.google.com/download?id=1kSwq3gmi0EMM7rfjWEBEEUB0SZ78jjQo&export=download&authuser=0&confirm=t.mkv
+93 Una pelea muy difícil. Ten Shin Han contra Jackie Chun
+https://drive.usercontent.google.com/download?id=1ULLs6kKgpPuHzlidQx1ls0yfyVA4GOQp&export=download&authuser=0&confirm=t.mkv
+94 ¡Qué! La técnica del maestro Tsuru. Taiyouken
+https://drive.usercontent.google.com/download?id=1Upguwk4xl7MoG-69PXDS2HWhHeCdHBYX&export=download&authuser=0&confirm=t.mkv
+95 ¡A pelear! ¡Goku contra Krilin!
+https://drive.usercontent.google.com/download?id=1PmFS0XbVV0_P1EsnxE6CukHMER7vWOyt&export=download&authuser=0&confirm=t.mkv
+96 La sorpresa de Goku y el plan de Krilin
+https://drive.usercontent.google.com/download?id=15qFH4QuYqMxnzHvVn90RBwIRYvVrDzrY&export=download&authuser=0&confirm=t.mkv
+97 El_último_combate_¿Quién_será_el_mejor_peleador_de_las_Artes
+https://drive.usercontent.google.com/download?id=1gXBzUxXsQoiBm_PirnDVlmLd_niJXFB8&export=download&authuser=0&confirm=t.mkv
+98 Las_técnicas_secretas_Taiyouken_contra_el_poder_de_combate
+https://drive.usercontent.google.com/download?id=1vLsBafYrTqnvywJqDzJzynXmCJIoJUsp&export=download&authuser=0&confirm=t.mkv
+99 La angustia de Ten Shin Han
+https://drive.usercontent.google.com/download?id=1kVXRZe7ST0x8jtONpDcwCqgsxM3xe_Pt&export=download&authuser=0&confirm=t.mkv
+100 Vivir o morir. la última alternativa
+https://drive.usercontent.google.com/download?id=1lTp-s93cLvedcaUE7XbuFosn8w1Xv8lV&export=download&authuser=0&confirm=t.mkv
+101 El_torneo_de_las_Artes_Marciales_ha_terminado_¿Y_ahora_que¿
+https://drive.usercontent.google.com/download?id=1WyvmUZmsg1R34HStKoMTlZV4qTWxRcMl&export=download&authuser=0&confirm=t.mkv
+102 ¡La muerte de Krilin! Un complot
+https://drive.usercontent.google.com/download?id=1lD3n9T4Rws8zqIvihez5QlfhRP-RCpeE&export=download&authuser=0&confirm=t.mkv
+103 El temible Pikoro Dai-ma-ku
+https://drive.usercontent.google.com/download?id=1fK9QUJWUzCxsnpoV-lGiQtWJWwIaeKZW&export=download&authuser=0&confirm=t.mkv
+104 Goku regresa
+https://drive.usercontent.google.com/download?id=1zcFbHBlc3HkESEMZjIyEOwP5F1cNGeQ8&export=download&authuser=0&confirm=t.mkv
+105 El gran Yajirobe
+https://drive.usercontent.google.com/download?id=1rRgoCG1qVCgANZRLynqpg4JEI_S_Rg3J&export=download&authuser=0&confirm=t.mkv
+106 El malvado Tambourine se acerca
+https://drive.usercontent.google.com/download?id=1hWqRGtAR9YDwOaHXHaFgvwFcbU5ryVqV&export=download&authuser=0&confirm=t.mkv
+107 Goku se enfurece
+https://drive.usercontent.google.com/download?id=16TJs4lfHRNYAa1j0gyFuqQgypjuPdwTy&export=download&authuser=0&confirm=t.mkv
+108 La aparición de Pikoro Dai-ma-ku
+https://drive.usercontent.google.com/download?id=1VNeJS6gj4-Y8GWMqHLHFWBABJpAgaPhN&export=download&authuser=0&confirm=t.mkv
+109 Goku contra Pikoro Dai-ma-ku
+https://drive.usercontent.google.com/download?id=1PohbvhJLe5qEdeTT0a5UolhjHUOBxcA2&export=download&authuser=0&confirm=t.mkv
+110 ¡Tú puedes Goku!
+https://drive.usercontent.google.com/download?id=1EBLavkH7Q0NBjuemreoIzapNsuIvIyHG&export=download&authuser=0&confirm=t.mkv
+111 El último Ma-Fuu-Ba del maestro Roshi
+https://drive.usercontent.google.com/download?id=1DcFrTTiCiHrO2HfxtCPrhTVJrgmkT0d9&export=download&authuser=0&confirm=t.mkv
+112 ¿Podrá Pikoro Dai-ma-ku recuperar la juventud
+https://drive.usercontent.google.com/download?id=1mNyj7ita-tzU36XpfcuJMCAJee-yfcJE&export=download&authuser=0&confirm=t.mkv
+113 Ataque al castillo del rey
+https://drive.usercontent.google.com/download?id=1uxkgHQly0o4tcxRLFI4-8WvmnY8wheQ9&export=download&authuser=0&confirm=t.mkv
+114 La esperanza de Goku.
+https://drive.usercontent.google.com/download?id=1mHjUtYsHdnzPudJ-XW5NolW2JpnE2s6Z&export=download&authuser=0&confirm=t.mkv
+115 Vamos por la misteriosa agua de los dioses.
+https://drive.usercontent.google.com/download?id=1l14YeIdvLJo3mTMVBRNqrr_M0jDbgMLS&export=download&authuser=0&confirm=t.mkv
+116 ¿El maestro Roshi está vivo
+https://drive.usercontent.google.com/download?id=1osgrUM0zyKuUotTD_jq33Q6y_t4wau3k&export=download&authuser=0&confirm=t.mkv
+117 Goku despierta
+https://drive.usercontent.google.com/download?id=10ZR6k8vHexl7dtoWDntJr9xTA6nw1aga&export=download&authuser=0&confirm=t.mkv
+118 La decisión de Ten Shin Han.
+https://drive.usercontent.google.com/download?id=1PlvO0-it6Be2KC52PYAR5NJUw8emHWR1&export=download&authuser=0&confirm=t.mkv
+119 La legendaria técnica Ma-Fuu-Ba.
+https://drive.usercontent.google.com/download?id=14qFt0UCZjySAYVbD4Dfq8tTsln5Vx7VV&export=download&authuser=0&confirm=t.mkv
+120 La ira de Goku
+https://drive.usercontent.google.com/download?id=18shusUmI3y8IHVk9NQf5a77WHzroLRwh&export=download&authuser=0&confirm=t.mkv
+121 El momento crucial de Goku
+https://drive.usercontent.google.com/download?id=1v3qpOSfTMUNiNfzW6D0wps0mKBvOjjZa&export=download&authuser=0&confirm=t.mkv
+122 El último esfuerzo
+https://drive.usercontent.google.com/download?id=1Admm03-Zy--r_YXn9otyMzMQO0ZNBvY4&export=download&authuser=0&confirm=t.mkv
+123 El secreto del báculo sagrado
+https://drive.usercontent.google.com/download?id=135DSnstNAfMnbXIoUzPvjI9yMOldsbt4&export=download&authuser=0&confirm=t.mkv
+124 El templo sagrado que está arriba de las nubes
+https://drive.usercontent.google.com/download?id=1PpH_WjdJTTq65eIgeH1Kj1jHfZWq47RG&export=download&authuser=0&confirm=t.mkv
+125 La aparición de Kami-Sama
+https://drive.usercontent.google.com/download?id=1eDQw7Z_aInUEE5eVXl7SFkuL-9NDwgda&export=download&authuser=0&confirm=t.mkv
+126 Shen-Long revive
+https://drive.usercontent.google.com/download?id=1pBwhPNKEEqyKvr3NoNaS2INcGEWKKt67&export=download&authuser=0&confirm=t.mkv
+127 Más rápido que un relámpago
+https://drive.usercontent.google.com/download?id=1XVksLcHXGLUOWOWNudJjiYIri3vekiMc&export=download&authuser=0&confirm=t.mkv
+128 Tranquilo como el cielo
+https://drive.usercontent.google.com/download?id=1uJvTHVh_DpfgQu5iCc2DwX6oVrgjUquh&export=download&authuser=0&confirm=t.mkv
+129 Goku viaja a través del tiempo
+https://drive.usercontent.google.com/download?id=1XnAvQX_BO5i2-lx7bvbWglji3M0UFwFw&export=download&authuser=0&confirm=t.mkv
+130 El oponente de Goku es... ¿Goku
+https://drive.usercontent.google.com/download?id=1UN-WLM3AcSEd0Ulf2QYkMv_sMDXal6ft&export=download&authuser=0&confirm=t.mkv
+131 Cada quién toma un camino diferente
+https://drive.usercontent.google.com/download?id=1SflNc4aqWxv20AWHUSJaM5py1rmM1RL9&export=download&authuser=0&confirm=t.mkv
+132 Más caliente que el magma
+https://drive.usercontent.google.com/download?id=1P_qiRLKBFz925vd6fKo-sFIE2kNyJLN-&export=download&authuser=0&confirm=t.mkv
+133 Una reunión después de la tormenta
+https://drive.usercontent.google.com/download?id=1gEXSa73loAUmmcjqC7jJIBoyybWq9GNa&export=download&authuser=0&confirm=t.mkv
+134 El torneo de las artes marciales ha comenzado
+https://drive.usercontent.google.com/download?id=15HN61lVYOBCy7bxacW-UBNq2EC7y9F1X&export=download&authuser=0&confirm=t.mkv
+135 Los ocho peleadores
+https://drive.usercontent.google.com/download?id=18QUOMFbyoK7uZxKE_qZq8QdiFTch_aX5&export=download&authuser=0&confirm=t.mkv
+136 El contraataque del asesino Tao-pai-Pai
+https://drive.usercontent.google.com/download?id=1wZ_IM7ji5vm0mAbMPH1wM0qqc1yGR6JG&export=download&authuser=0&confirm=t.mkv
+137 La promesa de Goku
+https://drive.usercontent.google.com/download?id=1KdwNfhYq8h2n-7P2M_5mR57W3WKIO201&export=download&authuser=0&confirm=t.mkv
+138 El misterioso hombre llamado Shen
+https://drive.usercontent.google.com/download?id=1OUXA04mHwGsnvM3AgeAv1gx8PvD8eezr&export=download&authuser=0&confirm=t.mkv
+139 Nuevamente una pelea violenta. Gokū contra Ten-shin-han
+https://drive.usercontent.google.com/download?id=1yE2HJUMWviq38ni9V77G4Mf7VJvPjTI1&export=download&authuser=0&confirm=t.mkv
+140 El verdadero poder
+https://drive.usercontent.google.com/download?id=1XTANztuVOauQO-glFri5ExTbmtTgCLMU&export=download&authuser=0&confirm=t.mkv
+141 Cuatro Ten-shin-hans
+https://drive.usercontent.google.com/download?id=1jZiILPpy4FRx5A79sDzBaaat7hSrF3jN&export=download&authuser=0&confirm=t.mkv
+142 Quién será más fuerte KamiSama contra Pikoro Dai-ma-ku
+https://drive.usercontent.google.com/download?id=1H5l3mlxvQ5XAee-nLu03ui13xCEyWG4Z&export=download&authuser=0&confirm=t.mkv
+143 El destino del mundo corre peligro
+https://drive.usercontent.google.com/download?id=1z-epxf7BhLOG7zxm0a6SXZBohZYEIkst&export=download&authuser=0&confirm=t.mkv
+144 El súper Kame-Hame-Ha
+https://drive.usercontent.google.com/download?id=1ChNs0vE_YabGZmaicmqFzqdGvCcpRu7H&export=download&authuser=0&confirm=t.mkv
+145 El gigante Pikoro Daimaku
+https://drive.usercontent.google.com/download?id=16vZII28ruc6MkCxoFQ8rpbih37vGJIXI&export=download&authuser=0&confirm=t.mkv
+146 La trampa de Goku
+https://drive.usercontent.google.com/download?id=1cMfDOxvhBpqOSwGL3gyAl1JwE6JZ-05M&export=download&authuser=0&confirm=t.mkv
+147 Todo se ha perdido
+https://drive.usercontent.google.com/download?id=1CVXLzATQaN1t0XvxnNQEO-1BFaTezdd4&export=download&authuser=0&confirm=t.mkv
+148 El hombre más fuerte del mundo
+https://drive.usercontent.google.com/download?id=1SsdfeUp6WU7dw0T46O7dtqutk1q8QVnK&export=download&authuser=0&confirm=t.mkv
+149 El vestido de novia rodeado por las llamas
+https://drive.usercontent.google.com/download?id=16mYBLzC_z6V1ei69mA8h7elSwlsjgZeS&export=download&authuser=0&confirm=t.mkv
+150 El ave traga fuego
+https://drive.usercontent.google.com/download?id=1NVEjtyfAIx7DLBsq4BFzAoc-K0Ddzeg1&export=download&authuser=0&confirm=t.mkv
+151 Milk entrena duro para ser una buena esposa
+https://drive.usercontent.google.com/download?id=1EzXskejtvCMOmnMIE28f7F-FKwxpxB-f&export=download&authuser=0&confirm=t.mkv
+152 ¡Apresúrate Goku! El misterio de la montaña de los cinco
+https://drive.usercontent.google.com/download?id=1_Rn8K2gZCYCkgosV6hubZ8J-8ygJCZAQ&export=download&authuser=0&confirm=t.mkv
+153 La montaña Fry-Pan está en llamas, una decisión de vida o muerte
+https://drive.usercontent.google.com/download?id=1QqRgnK7Ij5wfqvWPcH1sb5uK0Dx6RD_j&export=download&authuser=0&confirm=t.mkv

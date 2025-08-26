@@ -1,0 +1,48 @@
+Nombre: Series de Anime
+
+Nombre: Los Caballeros del Zodiaco: Alma de Oro
+
+genero: Animación, Action & Adventure
+
+descripción: Tras haber sacrificado sus vidas para destruir el Muro de los Lamentos en la batalla contra Hades, Aioria y el resto de los Caballeros de Oro son resucitados en Asgard. Mientras buscan la razón por la que fueron traídos nuevamente a la vida, se ven envueltos en una batalla contra los renovados Dioses Guerreros del nuevo representante de Odín.
+
+anio: 2015
+
+iconPng: https://image.tmdb.org/t/p/original/x7h9uh2R73GaAO84Q22n3zHk8PN.png
+
+icono: https://image.tmdb.org/t/p/original/rIgE2L76ZTjTnmRfSdLbF84NAG1.jpg
+
+logohorizontal: https://image.tmdb.org/t/p/original/oRsYQ4BZt0kmJlRNs285Cjq1K0J.jpg
+
+temporadas
+nombre: temporada 1
+
+tmbdid: 62428
+
+
+01 ¡La leyenda de oro renace! - Saint Seiya Soul of Gold
+https://drive.usercontent.google.com/download?id=17-eN7HVYyupOXZG-3m96X7ulMTyp60ix&export=download&authuser=0&confirm=t.mkv
+02 ¡Revelen el secreto de Yggdrasil! - Saint Seiya Soul of Gold
+https://drive.usercontent.google.com/download?id=1mO8l8vx3Jt1_4u1du8yZRPHJwmdsM07f&export=download&authuser=0&confirm=t.mkv
+03 ¡Enfrentamiento! Caballero de Oro contra Caballero de Oro - Saint Seiya Soul of Gold
+https://drive.usercontent.google.com/download?id=1Rj36iFVcmD4mw8p3yfAG5Ylh4zak41rB&export=download&authuser=0&confirm=t.mkv
+04 ¡Los siete Dioses Guerreros se reúnen! - Saint Seiya Soul of Gold
+https://drive.usercontent.google.com/download?id=1RbWGygPaDfa3515Jf4nuAHNHOxlfmxPx&export=download&authuser=0&confirm=t.mkv
+05 ¡El poder definitivo de las Armaduras Divinas! - Saint Seiya Soul of Gold
+https://drive.usercontent.google.com/download?id=1C_3xTFiQ4n9QkDX6Hse5GWzygJCph3pm&export=download&authuser=0&confirm=t.mkv
+06 ¡Entren a las siete cámaras del Yggdrasil! - Saint Seiya Soul of Gold
+https://drive.usercontent.google.com/download?id=1U9gJ9QmRP6iKl7UV_C_4Ot0sTFfUojlb&export=download&authuser=0&confirm=t.mkv
+07 ¡Caos! Armadura Divina contra Armadura Divina - Saint Seiya Soul of Gold
+https://drive.usercontent.google.com/download?id=1CQJQKIY4p4SpSW1KJ6bEe-gK07PZGSCr&export=download&authuser=0&confirm=t.mkv
+08 ¡Baldr, el Hombre elegido por Dios! - Saint Seiya Soul of Gold
+https://drive.usercontent.google.com/download?id=15fxlsLTYHNY99kRVnv_m4ZyY0mMpKMaK&export=download&authuser=0&confirm=t.mkv
+09 ¡Saga! ¡El lazo inquebrantable de los hermanos! - Saint Seiya Soul of Gold
+https://drive.usercontent.google.com/download?id=1zJVTg1e2yekj95sPh7IC9MtDFwVn2Sjn&export=download&authuser=0&confirm=t.mkv
+10 ¡La Batalla Final! Aioria contra Andreas - Saint Seiya Soul of Gold
+https://drive.usercontent.google.com/download?id=1VZ_gmDuyhqOVzfgV4jlSqk8afryVDoGd&export=download&authuser=0&confirm=t.mkv
+11 ¡Loki, el dios malvado de Asgard, resucita! - Saint Seiya Soul of Gold
+https://drive.usercontent.google.com/download?id=1mHQZE1fA6kfQ4jDSVUoZIYT_ahlcW77t&export=download&authuser=0&confirm=t.mkv
+12 ¡La lanza sagrada de Gungnir renace! - Saint Seiya Soul of Gold
+https://drive.usercontent.google.com/download?id=1aTHH9z-Ie-sLdsY1Lc8CKDT26bx5quK9&export=download&authuser=0&confirm=t.mkv
+13 ¡Que escuchen nuestra plegaria! La eterna leyenda dorada - Saint Seiya Soul of Gold
+https://drive.usercontent.google.com/download?id=12vUS5RVwQB2GyfFNBRx8dIx6114E4glc&export=download&authuser=0&confirm=t.mkv

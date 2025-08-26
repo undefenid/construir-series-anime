@@ -1,0 +1,343 @@
+Nombre: Series de Anime
+
+Nombre: Ranma 1/2
+
+genero:Animación, Action & Adventure, Sci-Fi & Fantasy
+
+descripción: Ranma Saotome, un joven artista marcial de 16 años, sufre una maldición que lo convierte en mujer con el agua fría y en hombre con el agua caliente. Mientras busca una cura, debe afrontar su compromiso arreglado con Akane Tendo.
+
+anio:1989
+
+iconPng:https://image.tmdb.org/t/p/original/jIPw1T05kVYiRnNZtxNB7jdLxrs.png
+
+icono: https://image.tmdb.org/t/p/original/qb1R5iLZcjIgdDIfXFQXmJadQPI.jpg
+
+logohorizontal:https://image.tmdb.org/t/p/original/h9kMKxArSV4CJkPWmGzABC7Z1fw.jpg
+
+temporadas
+nombre: temporada 1
+
+tmbdid:57706
+
+01 ¡Ese es el chico que viene de China! ¡Qué raro es!
+https://drive.usercontent.google.com/download?id=1kJRz7YiqRa9U6z3TQjLxtip_rSm3kCpN&export=download&authuser=0&confirm=t.mkv
+02 La escuela no es un juego
+https://drive.usercontent.google.com/download?id=1m35W0ZOJ8gSYI_4HZ-po_fvmTOYg1aVz&export=download&authuser=0&confirm=t.mkv
+03 De repente la tormenta del amor, ¡Espera un momento!
+https://drive.usercontent.google.com/download?id=16makyB7pgk5I2BOdv64KNtePBhVR3tb5&export=download&authuser=0&confirm=t.mkv
+04 ¿Ranma y Ranma Los líos no se detienen
+https://drive.usercontent.google.com/download?id=18mf7zyJG5cnL0XKPfQ6hFy1IWa5mC-DF&export=download&authuser=0&confirm=t.mkv
+05 ¿Enamorados hasta los huesos El amor de Akane provoca fracturas
+https://drive.usercontent.google.com/download?id=1rh5h1q6C_nKASoRelokosIt7pygNT6QT&export=download&authuser=0&confirm=t.mkv
+06 El amor imposible de Akane, ya no hay nada que hacer
+https://drive.usercontent.google.com/download?id=1Y_s7odilVU9m3WcXHcCCSSenXQAh0a9E&export=download&authuser=0&confirm=t.mkv
+07 ¡A escena! Ryoga, el que siempre se pierde
+https://drive.usercontent.google.com/download?id=1lcIJO3VOkzbNSvapBsLSOs2dV8X8IM6g&export=download&authuser=0&confirm=t.mkv
+08 ¡El instituto es el campo de batalla! Ranma contra Ryoga
+https://drive.usercontent.google.com/download?id=1wiGHfUqx1ZAnc46BI9ylZeL6hwTDaIAU&export=download&authuser=0&confirm=t.mkv
+09 La confesión de una dama el cabello es la vida de una mujer
+https://drive.usercontent.google.com/download?id=1rdiTRHys8uogJ7E3fCDTXx4EjD6wKv-c&export=download&authuser=0&confirm=t.mkv
+10 P-Chan. No te metas con él
+https://drive.usercontent.google.com/download?id=13p_ZB7Vl9e-xYbahXBnMheS-QBmxxacc&export=download&authuser=0&confirm=t.mkv
+11 ¡Loca por Ranma! Aparece la capitana de gimnasia rítmica
+https://drive.usercontent.google.com/download?id=187ZvfBviHB0O0JcIj_NdzaO-U5K-eOkS&export=download&authuser=0&confirm=t.mkv
+12 ¡El amor de las mujeres es la guerra! Luchemos en la competencia de gimnasia rítmica
+https://drive.usercontent.google.com/download?id=1z-pQDcTsLbWID1USZW7DGU7H4wfWQPIv&export=download&authuser=0&confirm=t.mkv
+13 ¿Lágrimas en los ojos de la capitana El fin de una competencia sin reglas
+https://drive.usercontent.google.com/download?id=1R1rlf8RruAZr2uoh0rgBu8H-USSAyfAV&export=download&authuser=0&confirm=t.mkv
+14 ¡Predicción de caderas! Ranma es la mejor novia de Japón
+https://drive.usercontent.google.com/download?id=1blTnq3Sirs0OioUcnLO6o2EmME8iwj_X&export=download&authuser=0&confirm=t.mkv
+15 ¡Aparece Shampoo, una chica violenta! Mi vida está en sus manos
+https://drive.usercontent.google.com/download?id=1RLRtnrXjhBDpK8nAZj15Z8TlDbfegdYx&export=download&authuser=0&confirm=t.mkv
+16 La venganza de Shampoo, el devastador puño shiatsu que roba la mente y el corazón
+https://drive.usercontent.google.com/download?id=13e8Z2FAF0LOEb7IAY13Idq3ikiy2jkLC&export=download&authuser=0&confirm=t.mkv
+17 ¡Ranma te quiero mucho! ¡No digas adiós!
+https://drive.usercontent.google.com/download?id=1Knr1ueHwZvaGAlCvFSAIRQxxwl_tnPya&export=download&authuser=0&confirm=t.mkv
+18 ¡Soy un hombre! ¿Ranma vuelve a China
+https://drive.usercontent.google.com/download?id=1w5ZnTejYXsIVC-w6c41c4T4Bkfajgbnl&export=download&authuser=0&confirm=t.mkv
+19 ¡P-Chan es secuestrado!
+https://drive.usercontent.google.com/download?id=1zgFlePDa6wBCK5GTNdUtuLpzUr-umNHA&export=download&authuser=0&confirm=t.mkv
+20 ¡Crisis! El baile del espíritu de la muerte
+https://drive.usercontent.google.com/download?id=1YyosmjqfTO0gPw8TS2JOJvHPSL9cYaJw&export=download&authuser=0&confirm=t.mkv
+21 ¡La explosión de P-Chan! Las columnas de agua del amor
+https://drive.usercontent.google.com/download?id=14vWPYC5WeGYeM4_Xn_60-uVvwZvvmLnB&export=download&authuser=0&confirm=t.mkv
+22 ¡Colisión! Carrera competitiva de repartidoras
+https://drive.usercontent.google.com/download?id=1swf5u3xP4M1SpmPQ6Pwq5geq1MensTF-&export=download&authuser=0&confirm=t.mkv
+23 ¿De verdad odias los gatos
+https://drive.usercontent.google.com/download?id=1dT2vrMZmUuqRHUlND0AirzHrvVknljmQ&export=download&authuser=0&confirm=t.mkv
+24 ¡Soy la abuela de las Amazonas!
+https://drive.usercontent.google.com/download?id=1P7h0g8EPOG_2ReilY-X6WoiBZJ9PXDOb&export=download&authuser=0&confirm=t.mkv
+25 ¡Ahí está! ¡La técnica de las castañas asadas!
+https://drive.usercontent.google.com/download?id=1JJOzisx1GPujng66ghcTP4lM8pnIpjix&export=download&authuser=0&confirm=t.mkv
+26 ¡Aparece Mousse, el hombre del golpe del cisne!
+https://drive.usercontent.google.com/download?id=1q8xdUd1bV5MnI6WDn2ZFY3g3bwXzIGiP&export=download&authuser=0&confirm=t.mkv
+27 ¡Explosión! La carrera llevando muñecos de nieve
+https://drive.usercontent.google.com/download?id=1w6pEKsnNhB2tJRZMen5pHN2rmi-XuMGo&export=download&authuser=0&confirm=t.mkv
+28 ¡Cuidado! El Gimnasio Tendo
+https://drive.usercontent.google.com/download?id=1QTEdn5R8B7dpjthgT2MRg4jtSnCArJy8&export=download&authuser=0&confirm=t.mkv
+29 El bosque de la montaña del Terror
+https://drive.usercontent.google.com/download?id=1TlpMLPfXwN23hqWKdmwK2zt_plOE2Qus&export=download&authuser=0&confirm=t.mkv
+30 ¿Se llama Punto Explosivo El gran contraataque de Ryoga
+https://drive.usercontent.google.com/download?id=12SswaiZ6fu-rlLopFS5no4pM94BdgR5v&export=download&authuser=0&confirm=t.mkv
+31 ¡Akane es secuestrada!
+https://drive.usercontent.google.com/download?id=1pOYGne3_RopAib7agj44fi7lgNtt4P-C&export=download&authuser=0&confirm=t.mkv
+32 ¡El desafío de Mousse! Perder es ganar
+https://drive.usercontent.google.com/download?id=1TTOWdPE-drwJOOqg-PthleNygHXNhWMO&export=download&authuser=0&confirm=t.mkv
+33 Happosai, el demonio erótico
+https://drive.usercontent.google.com/download?id=1eMtkdJ8URI-H9rIXiR_o0qJbt_J9rkvR&export=download&authuser=0&confirm=t.mkv
+34 ¿Ataquemos al vestuario de las chicas
+https://drive.usercontent.google.com/download?id=1sejKdcRaRNFvAI81OKyQBIObDlZKisaw&export=download&authuser=0&confirm=t.mkv
+35 La mansión desde la que también huyen los demonios
+https://drive.usercontent.google.com/download?id=1wFPo9_5yA2IiIch0k03nnB9e_spjKvnu&export=download&authuser=0&confirm=t.mkv
+36 ¿Adiós a la mujer
+https://drive.usercontent.google.com/download?id=1BycfhwL-NG-o2VUzoo4oqEbmpKkdkB0r&export=download&authuser=0&confirm=t.mkv
+37 Un regalo de amor y odio
+https://drive.usercontent.google.com/download?id=1HUQ1_BhqK6O5z8IGmChPT2B60BpOOU-R&export=download&authuser=0&confirm=t.mkv
+38 SOS El demonio Happosai
+https://drive.usercontent.google.com/download?id=1_Chj20CLSfTTB6QI3SXZgDeopJIjVJWr&export=download&authuser=0&confirm=t.mkv
+39 Róbale un beso a Akane
+https://drive.usercontent.google.com/download?id=1_ZO_zhm107mKm829RymMvhtztvxghqwf&export=download&authuser=0&confirm=t.mkv
+40 ¿Agua caliente Combate entre combate
+https://drive.usercontent.google.com/download?id=1y_w5mBG5ul1ied-_poXbOoCOcpjllYAL&export=download&authuser=0&confirm=t.mkv
+41 Otra persona enamorada de Ranma
+https://drive.usercontent.google.com/download?id=1_0onSMgbNZaZlJyDPaqNB8SWsw2ngrpX&export=download&authuser=0&confirm=t.mkv
+42 ¿Amor ardiente Ryoga y Akane
+https://drive.usercontent.google.com/download?id=1gO3QtKiOjbXRblssG2-erQ9ZwK851QAa&export=download&authuser=0&confirm=t.mkv
+43 Noche de amor a base de estornudos
+https://drive.usercontent.google.com/download?id=13F8RV7y88K2HIS0flpRGPDEPT3aj9kDt&export=download&authuser=0&confirm=t.mkv
+44 Buscad el Happo Círculo Vicioso fantasmal
+https://drive.usercontent.google.com/download?id=1Iyxn5E5XnHiMc-NJKVWIREsU4uAE_iqg&export=download&authuser=0&confirm=t.mkv
+45 ¡Te amo! Mi U-chan
+https://drive.usercontent.google.com/download?id=1WaAI_IwtFf0F7za9heZqzEtzyAZi6HgA&export=download&authuser=0&confirm=t.mkv
+46 La bruja enamorada, el ladrón de lencería
+https://drive.usercontent.google.com/download?id=1FqvgI_OUgWYvvkBH8IOaGyhO1Lcwo4XP&export=download&authuser=0&confirm=t.mkv
+47 ¡Transformación! Akane Músculo-Man
+https://drive.usercontent.google.com/download?id=1n4PsQwJLy_0nlf7S0yiZOSVWx0CCciFo&export=download&authuser=0&confirm=t.mkv
+48 Los asesinos que vienen de Jusenkyo
+https://drive.usercontent.google.com/download?id=1YS5Sa2A0Lvconf44tg3_seTdeyV_WfCw&export=download&authuser=0&confirm=t.mkv
+49 ¿Estoy guapa La declaración de Ranma mujer
+https://drive.usercontent.google.com/download?id=1EjhR3MQwkF8C7F3tyXRHuJuYuS7R6vKW&export=download&authuser=0&confirm=t.mkv
+50 ¡Desafío! Happosai contra el hombre invisible
+https://drive.usercontent.google.com/download?id=1XRayNICRjb6ra-tSehc17qW7aiWwroYS&export=download&authuser=0&confirm=t.mkv
+51 La familia Kuno, Les miserables
+https://drive.usercontent.google.com/download?id=1aTh9paiZKDmfV5cwayWnV-JxtM3rhPlg&export=download&authuser=0&confirm=t.mkv
+52 ¡Cuento de miedo! Ranma y la espada endemoniada
+https://drive.usercontent.google.com/download?id=1Yr0HGV25fIZAN7Ebk_P5aBv41Hgp0Qnw&export=download&authuser=0&confirm=t.mkv
+53 Las pastillas Korori, una poción de amor sin igual
+https://drive.usercontent.google.com/download?id=136aVDaQ45_d-D_plYKMFr7N7sF0kJY8H&export=download&authuser=0&confirm=t.mkv
+54 ¿El más fuerte del mundo La alianza entre Mousse y Ryoga
+https://drive.usercontent.google.com/download?id=1g3d8-8G8Fegi8lMBtw7KW2MKrXMLvP08&export=download&authuser=0&confirm=t.mkv
+55 Regreso al Happosai
+https://drive.usercontent.google.com/download?id=1N9weoLCgKvOsLeLoi6wAJkfum53CbZJo&export=download&authuser=0&confirm=t.mkv
+56 ¡Kodachi, la Rosa Negra! La genealogía del amor puro
+https://drive.usercontent.google.com/download?id=1owawgGVCvYu-gS1hYysYZIf0u5ipFkr8&export=download&authuser=0&confirm=t.mkv
+57 ¿El último día de Happosai
+https://drive.usercontent.google.com/download?id=1QiHNGih-zA8oZYdLH1TFNK3qmaTRTzyo&export=download&authuser=0&confirm=t.mkv
+58 Las hermanas salvajes RinRin y RanRan
+https://drive.usercontent.google.com/download?id=11GWA463-f0kFtFmVqvbPjPDK7ckEWVHA&export=download&authuser=0&confirm=t.mkv
+59 El espectro del terror ataca a Ranma
+https://drive.usercontent.google.com/download?id=1tL3CUq9Pcz3HwfnMimo5vDpKaLr5iyOV&export=download&authuser=0&confirm=t.mkv
+60 ¡Aparece! Imitar es luchar sin armas
+https://drive.usercontent.google.com/download?id=1Kxo8wzF1LwltArsIxEc6azZc7wJiYRic&export=download&authuser=0&confirm=t.mkv
+61 ¡El virtuoso jabón reconstituyente de Ryoga!
+https://drive.usercontent.google.com/download?id=17JKHpEGDF_-jEANRDDm1Q5rW3wA_crkk&export=download&authuser=0&confirm=t.mkv
+62 ¡Competencia! La carrera de obstáculos
+https://drive.usercontent.google.com/download?id=1dJZNEWMCbiBeftq7hUcbyfhH9ZjTQlX9&export=download&authuser=0&confirm=t.mkv
+63 ¡El gran plan! Las faldas de Ukyo
+https://drive.usercontent.google.com/download?id=1n9AtlB3i1_45h7ZKbpadnj4KQPb0-P1M&export=download&authuser=0&confirm=t.mkv
+64 Ranma, Por fin vas a Jusenkyo
+https://drive.usercontent.google.com/download?id=1WRoUcz-fi11nxe64I28YqlwPUzH3uiPP&export=download&authuser=0&confirm=t.mkv
+65 El director pervertido ha regresado
+https://drive.usercontent.google.com/download?id=1RPaTX-_oyYhb8eXQNq5TJeAEr2sCSyqO&export=download&authuser=0&confirm=t.mkv
+66 ¡Aparece! Kuno, el más fuerte del mundo
+https://drive.usercontent.google.com/download?id=1PN9Y1VqmOIr6wLFiUk5uyF95KDpHJjcn&export=download&authuser=0&confirm=t.mkv
+67 ¡Ranma se convierte en un debilucho!
+https://drive.usercontent.google.com/download?id=12143cg_FrcQApFmFzMilwroL7bB7AqA6&export=download&authuser=0&confirm=t.mkv
+68 ¡Finalizada! La técnica devastadora e inesperada
+https://drive.usercontent.google.com/download?id=1nnZF6TXbSvLG1h1Hj6aFLz_epvIiEndS&export=download&authuser=0&confirm=t.mkv
+69 ¡Combate decisivo! ¿Ranma resucita
+https://drive.usercontent.google.com/download?id=1EMEnFR2HC9q60iRFOsX1eBfyQg54uAdR&export=download&authuser=0&confirm=t.mkv
+70 ¡La madre de Ranma ya está aquí!
+https://drive.usercontent.google.com/download?id=1UHeShBJ26za4neaPoTW8dgvvQXoPI5i9&export=download&authuser=0&confirm=t.mkv
+71 Ryoga, Supera el amor y el sufrimiento
+https://drive.usercontent.google.com/download?id=1aVGHAC-doggzGVRq86e-ZvVrCpJOTypj&export=download&authuser=0&confirm=t.mkv
+72 La prometida de Bakeneko
+https://drive.usercontent.google.com/download?id=1yNqDehOWk_MTnM727FdHT_m4tKsUkKwH&export=download&authuser=0&confirm=t.mkv
+73 ¡Sopla, viento! La juventud es de sangre caliente
+https://drive.usercontent.google.com/download?id=1F15LoeKPw7PLEDueKSLc3emcMNKp68ty&export=download&authuser=0&confirm=t.mkv
+74 Aparece un nuevo discípulo temible
+https://drive.usercontent.google.com/download?id=15XnAZwlD8WrwhfNrFn_-W1ai07PtT3Cg&export=download&authuser=0&confirm=t.mkv
+75 ¡Sal al aire libre!
+https://drive.usercontent.google.com/download?id=18_ERYNDX2zT2myut21I5n3DG0SutnZ8-&export=download&authuser=0&confirm=t.mkv
+76 El diario de Ryoga, el huésped del Dojo Tendo
+https://drive.usercontent.google.com/download?id=1KRgLrBJ7nm4kRlaHu8Oq5Ee9iDDBlu73&export=download&authuser=0&confirm=t.mkv
+77 ¡El amor de Happosai!
+https://drive.usercontent.google.com/download?id=1cokPuw5k101CjWp2sU3mtOgZ5u6GcI_R&export=download&authuser=0&confirm=t.mkv
+78 ¡Kuno en las nubes! Gran profecía de amor
+https://drive.usercontent.google.com/download?id=19GpYOBL6CmC2pTmq0KIXT98DW0dQXRAF&export=download&authuser=0&confirm=t.mkv
+79 Ryoga se convierte en el más poderoso
+https://drive.usercontent.google.com/download?id=19GHt2IosT1tiJEcpwW1wG0Ovjwag55cw&export=download&authuser=0&confirm=t.mkv
+80 ¡Peligro! El secreto de P-chan
+https://drive.usercontent.google.com/download?id=1ox9Plh3wKnEZsyQT7NYJACAHgbP2y7cK&export=download&authuser=0&confirm=t.mkv
+81 El malabarista de huevos
+https://drive.usercontent.google.com/download?id=1AZA8xmtC3GJp3ObU13D7Fe9cSmnSvb5N&export=download&authuser=0&confirm=t.mkv
+82 ¡¿El primer beso de Ranma y Kuno!
+https://drive.usercontent.google.com/download?id=1kSTeDnoqjM9CMqd8M-in3KD7lmtKQTBP&export=download&authuser=0&confirm=t.mkv
+83 El hilo rojo de Shampoo
+https://drive.usercontent.google.com/download?id=1ZJMbAXH-D8cBIod8HcjfZfFsJUYCYeqs&export=download&authuser=0&confirm=t.mkv
+84 Mousse vuelve a casa
+https://drive.usercontent.google.com/download?id=1NjnBXRGlgy8qL98bNAWWlQirjlYZwVRN&export=download&authuser=0&confirm=t.mkv
+85 La peor apuesta del mundo
+https://drive.usercontent.google.com/download?id=1o7PxUAk_riVp06t1QA5lfHL6hA2msv2m&export=download&authuser=0&confirm=t.mkv
+86 Kuno se convierte en Marianne
+https://drive.usercontent.google.com/download?id=1yBTKm6-HvCR-S5TUdCqUI2CUR6A0mnDW&export=download&authuser=0&confirm=t.mkv
+87 ¡Te odio mucho, Ranma!
+https://drive.usercontent.google.com/download?id=1enGFZgaRG3BFr_DnCRVZJ30Qr1_W7D3H&export=download&authuser=0&confirm=t.mkv
+88 El contraataque de RinRin y RanRan
+https://drive.usercontent.google.com/download?id=10IfSuaMmJSG6f0YsnR00gr3nwJ9YxoDB&export=download&authuser=0&confirm=t.mkv
+89 ¡Dame esa trenza!
+https://drive.usercontent.google.com/download?id=1ZquERVPEYwEJibbVmk7qZd5Tgs-qobq9&export=download&authuser=0&confirm=t.mkv
+90 Cuando la ambición de un hombre llega a su fin...
+https://drive.usercontent.google.com/download?id=1SxxgB5hBuAG4AgH4ZyEY0Zk4doERWx5J&export=download&authuser=0&confirm=t.mkv
+91 La declaración de Ryoga
+https://drive.usercontent.google.com/download?id=1rY2ElocPCIwrkAWGKiF2i8ATKvuAT0D3&export=download&authuser=0&confirm=t.mkv
+92 Genma se va de casa
+https://drive.usercontent.google.com/download?id=1KTDloghwrNauz3FBkoy-BHSbhY0QY40m&export=download&authuser=0&confirm=t.mkv
+93 Esto es la competencia de la ceremonia del té
+https://drive.usercontent.google.com/download?id=1OsP763oRJpw9K6CHSgjuQKZlDhmweasT&export=download&authuser=0&confirm=t.mkv
+94 ¿La destroza Dojos es una niña
+https://drive.usercontent.google.com/download?id=1p6hSsABeVXo5LkogXOh3I0mF8USNiXP6&export=download&authuser=0&confirm=t.mkv
+95 ¡Aguas calientes! Batalla en los baños termales
+https://drive.usercontent.google.com/download?id=1gu-YEiQzXVZUlnQEzRhABGKHfJCqYyT-&export=download&authuser=0&confirm=t.mkv
+96 Yo soy el papi de Kuno
+https://drive.usercontent.google.com/download?id=1AxrekIvOS7nR2e-vG32C0G6V7xAwey-V&export=download&authuser=0&confirm=t.mkv
+97 ¡Levanta Iemoto! La competencia de la ceremonia del té
+https://drive.usercontent.google.com/download?id=19L3mTWVzQNiQUgi8i5r3nBj4iLV64ePB&export=download&authuser=0&confirm=t.mkv
+98 Los leotardos poseen la maldición de una virgen
+https://drive.usercontent.google.com/download?id=1unXzB6i2VyIWl4EMrdBAWgytEkgipqYE&export=download&authuser=0&confirm=t.mkv
+99 Los baños mixtos del terror
+https://drive.usercontent.google.com/download?id=1nW3oXCZOOH7E5g6X37SbcZc9LadRRYlh&export=download&authuser=0&confirm=t.mkv
+100 El rencor de la rana
+https://drive.usercontent.google.com/download?id=1ptcnjCcXdla-N-bNNMAhCLCcArAOoYiy&export=download&authuser=0&confirm=t.mkv
+101 ¡Contraataque! El okonomiyaki de la ira
+https://drive.usercontent.google.com/download?id=1JqFmsB9p3z1BgjYfDSv5OIUe-Z-FTaub&export=download&authuser=0&confirm=t.mkv
+102 Ranma se convierte en un ligón
+https://drive.usercontent.google.com/download?id=1CNoER95dCfuMZa_A2MSc7iwqzqW9IQgQ&export=download&authuser=0&confirm=t.mkv
+103 La competencia de Shôgi es arriesgada
+https://drive.usercontent.google.com/download?id=1fF2d-o4XB1s5H7XCy1Y98NDFnbT1drw4&export=download&authuser=0&confirm=t.mkv
+104 La gran operación espía de Sasuke
+https://drive.usercontent.google.com/download?id=1jna3vvZ3U2DVnG5PyC4cV05mP82p3Jow&export=download&authuser=0&confirm=t.mkv
+105 Bonjour
+https://drive.usercontent.google.com/download?id=1qeqslu5fx6-ibvnG44PyRDnv6ZYNEUH-&export=download&authuser=0&confirm=t.mkv
+106 Cena sobre el ring
+https://drive.usercontent.google.com/download?id=1qORMDxK9bkQn-gDbmCUrmKk8Pgw7WmbG&export=download&authuser=0&confirm=t.mkv
+107 Akane Grandes clases de natación entre lágrimas
+https://drive.usercontent.google.com/download?id=1Jd_yjCD7xiM3JvbMRrtYIfHwvb-2HgpS&export=download&authuser=0&confirm=t.mkv
+108 ¡Ryoga! Corre hacia la puesta de Sol
+https://drive.usercontent.google.com/download?id=1z01Vs7h6BnZYDMia6Pz9poYaDjLcXF99&export=download&authuser=0&confirm=t.mkv
+109 Dentro de mis sueños
+https://drive.usercontent.google.com/download?id=1T3Xsr0D3Oebxdfz3uurRfNIsGFemTR_a&export=download&authuser=0&confirm=t.mkv
+110 ¿Ranma es el novio de Nabiki
+https://drive.usercontent.google.com/download?id=1rRhS72uqDr79shkqR6XAcjGW6sQw1ffc&export=download&authuser=0&confirm=t.mkv
+111 Los Tendo y el misterio de las albóndigas de pulpo desaparecidas
+https://drive.usercontent.google.com/download?id=1g20EoMnwl2rwQDsBJnECVE4JE9mjl3qD&export=download&authuser=0&confirm=t.mkv
+112 ¡Desafío! Ranma contra la sombra de Ranma
+https://drive.usercontent.google.com/download?id=1EddGjM0PEVOBk6G9W19aHUcz3tQGeGJ1&export=download&authuser=0&confirm=t.mkv
+113 Mi querido papá de Kodachi
+https://drive.usercontent.google.com/download?id=1C94RvQ8BZXOg0GENzNetmuhF7DIEd4Io&export=download&authuser=0&confirm=t.mkv
+114 ¿Un enemigo formidable Aparece Gosunkugi
+https://drive.usercontent.google.com/download?id=1inubRrjYxvGw9aA7-fqmt9ffMDhBIE60&export=download&authuser=0&confirm=t.mkv
+115 ¿Ranma es torpísimo Competencia caligráfica
+https://drive.usercontent.google.com/download?id=1lgBzeD_NsOD5wt9JKq_QUa-h8jTbkBgo&export=download&authuser=0&confirm=t.mkv
+116 ¡El instituto Furinkan Aparece el conserje en las sombras
+https://drive.usercontent.google.com/download?id=1BVxvkYtEOz-0re5UAHQ3_Nex0nt8nzdb&export=download&authuser=0&confirm=t.mkv
+117 ¡El deseo más ferviente! Volver a ser un hombre normal
+https://drive.usercontent.google.com/download?id=1GhkfxT1VXjrr_NRRq3QDtCGpbAyUl8kZ&export=download&authuser=0&confirm=t.mkv
+118 ¿El sucesor de la escuela Saotome será Ryoga
+https://drive.usercontent.google.com/download?id=1kKDx1uRekm4QIvV0iA-152fv0LA6W2AU&export=download&authuser=0&confirm=t.mkv
+119 La familia Tendo va al parque de atracciones
+https://drive.usercontent.google.com/download?id=16VYuxc3bbYGV7gVrt8OFOcVLfWJ3rJ1j&export=download&authuser=0&confirm=t.mkv
+120 El caso del fantasma del instituto Furinkan
+https://drive.usercontent.google.com/download?id=1tQMfvQh1I7tKHA9GcHdZKef4p-u4aJPp&export=download&authuser=0&confirm=t.mkv
+121 Acompañados en la isla Sandía
+https://drive.usercontent.google.com/download?id=1FIOBthIwnLEPJwqSvxG8v7gYdmtV0m88&export=download&authuser=0&confirm=t.mkv
+122 El diablo que viene de Jusenkyo PARTE 1
+https://drive.usercontent.google.com/download?id=1Jj715RVjSYSisQ9Ieow7Lew0iLk_slQa&export=download&authuser=0&confirm=t.mkv
+123 El diablo que viene de Jusenkyo PARTE 2
+https://drive.usercontent.google.com/download?id=1GEWDiMFfdbKd-b7FfeNwFHtYLkenGbb3&export=download&authuser=0&confirm=t.mkv
+124 ¡Competencia de la ceremonia del té! Iemoto es secuestrado
+https://drive.usercontent.google.com/download?id=1q-iV7gdEgbCuWSzNfVs8jkYPKZx3dL01&export=download&authuser=0&confirm=t.mkv
+125 Una navidad sin Ranma
+https://drive.usercontent.google.com/download?id=1zIRtRwXb6ZZ0MAI0Vb_vabwleH99T7We&export=download&authuser=0&confirm=t.mkv
+126 La historia invernal de Yukiko
+https://drive.usercontent.google.com/download?id=134wvBZxdJ8CyupQTISyCOpK40QzD_Bx1&export=download&authuser=0&confirm=t.mkv
+127 ¡Problemas! Akane está ingresada
+https://drive.usercontent.google.com/download?id=1x41ecQu0HZ59Tz0pMThMDq9IumR7xPlg&export=download&authuser=0&confirm=t.mkv
+128 La maldición del panda pintado
+https://drive.usercontent.google.com/download?id=1MJdZx52yiSwOUo3vfYQa3PBOPKuAbGun&export=download&authuser=0&confirm=t.mkv
+129 La leyenda del panda de la felicidad
+https://drive.usercontent.google.com/download?id=1RtlkMkdPZMcwxxUdvjyCH_WIKdbi3BAj&export=download&authuser=0&confirm=t.mkv
+130 ¡¿Aparece un misterioso jarrón de pulpo alocado!
+https://drive.usercontent.google.com/download?id=1100WeR1perkjM83U8rJTnIBT3sgQZXkn&export=download&authuser=0&confirm=t.mkv
+131 ¿Ranma y Ukyo preparan la salsa del amor mutuo
+https://drive.usercontent.google.com/download?id=1LkVXQ_wzhYUbJqTi6oiXn9Py6JWbCgOs&export=download&authuser=0&confirm=t.mkv
+132 ¡Un matrimonio ficticio para siempre...!
+https://drive.usercontent.google.com/download?id=1-B3vMRtXd03QUPIUWE1FTbsqoSJ1ZAWu&export=download&authuser=0&confirm=t.mkv
+133 ¡Búsqueda! El misterio de la Temariuta
+https://drive.usercontent.google.com/download?id=1wZ18EtDP6PdJXmaBgJpWqigAlYDAtFHt&export=download&authuser=0&confirm=t.mkv
+134 ¡Gosunkugi! Oh, muñecas de papel de amor
+https://drive.usercontent.google.com/download?id=1tChNOJcBOdRjst_Lv1tGEJPj_JaGKusg&export=download&authuser=0&confirm=t.mkv
+135 No entiendo el corazón de Akane
+https://drive.usercontent.google.com/download?id=1u5uLg4zEJ-x__4ZB-0qw8MFCjLHp_Zcn&export=download&authuser=0&confirm=t.mkv
+136 Ya no podré separarme de ti
+https://drive.usercontent.google.com/download?id=18dGcqZOqgetYn6zcTtTmu_zd26hLbmjJ&export=download&authuser=0&confirm=t.mkv
+137 Tatewaki Kuno toma el cargo del director
+https://drive.usercontent.google.com/download?id=1PseyZiE_zcOdDYianDxg2VN94R47eiWV&export=download&authuser=0&confirm=t.mkv
+138 Ranma,aulla en una noche con Luna
+https://drive.usercontent.google.com/download?id=1iFH0iBhUmSNU2YjA_yKS25D17J0zyCrc&export=download&authuser=0&confirm=t.mkv
+139 ¡Nii hao! Señor Guía de Jusenkyo
+https://drive.usercontent.google.com/download?id=1fV8rU-cVGkwZI2nchKjZPelFGwLiHgD9&export=download&authuser=0&confirm=t.mkv
+140 ¡Qué pesados! Los Seis Happosai
+https://drive.usercontent.google.com/download?id=1ELKVSB0EHPjI1GbJf4I7SFBco_fJ6xBw&export=download&authuser=0&confirm=t.mkv
+141 La devastadora técnica emocional PARTE 1
+https://drive.usercontent.google.com/download?id=1IbemiUu3i5FGvs4MKrJpMzVcgzELsW2n&export=download&authuser=0&confirm=t.mkv
+142 La devastadora técnica emocional PARTE 2
+https://drive.usercontent.google.com/download?id=1SuiXG-gGxqr2tk_kJ7Ocl7mYtvT9Pgaw&export=download&authuser=0&confirm=t.mkv
+143 Shampoo y el beso de la prisión
+https://drive.usercontent.google.com/download?id=12Dg5WgISDAfqRgfaSe8qSgdYbs19cZ6a&export=download&authuser=0&confirm=t.mkv
+144 Por favor, fúgate conmigo
+https://drive.usercontent.google.com/download?id=1l2lzmsLMwgMMbMEpq6LGYutru9CQHHFQ&export=download&authuser=0&confirm=t.mkv
+145 Vayamos al templo de las setas
+https://drive.usercontent.google.com/download?id=1EVtHn_-9Buv21plu-7Z5sttVVazuvPR9&export=download&authuser=0&confirm=t.mkv
+146 ¡La técnica! Cuna del infierno
+https://drive.usercontent.google.com/download?id=1TJaQT9DCXWzk4oNqQQPo_dwNsbe9eqhE&export=download&authuser=0&confirm=t.mkv
+147 Bonjour, vampiro azul
+https://drive.usercontent.google.com/download?id=1H32PR3fTj7r40-d0OgeasgOg3hMkcoqQ&export=download&authuser=0&confirm=t.mkv
+148 La princesa Ori sobre una estrella fugaz
+https://drive.usercontent.google.com/download?id=1N3PXT0mUMVj14bSbcNfxClN-k-0mYqar&export=download&authuser=0&confirm=t.mkv
+149 Cómete un pastel de cerezas del amor
+https://drive.usercontent.google.com/download?id=1Z267kwlDkoFQTQRcW9TZe2YwvKGNhxNa&export=download&authuser=0&confirm=t.mkv
+150 ¡Ahí está! El Happo Círculo Vicioso
+https://drive.usercontent.google.com/download?id=18QbJNHEqLguNqbFnFmG8oDrkUNkBoxsJ&export=download&authuser=0&confirm=t.mkv
+151 La escandalosa tormenta de los hermanos Kuno
+https://drive.usercontent.google.com/download?id=11HjQYwSwzj1F0NtXcQZh6hanD5mSP00O&export=download&authuser=0&confirm=t.mkv
+152 Taza de té dorada, Combate decisivo en la 5ª planta de la torre
+https://drive.usercontent.google.com/download?id=1u-6w3P-qZtmR5QZvuCEZiEBrmnD-oN1I&export=download&authuser=0&confirm=t.mkv
+153 El amor de verano de Hikaru Gosunkugi
+https://drive.usercontent.google.com/download?id=17qbqKGY5GKGNw8GHa6p4uaQtjXsd7dWD&export=download&authuser=0&confirm=t.mkv
+154 ¡Decidido! Miss Costa de Playa
+https://drive.usercontent.google.com/download?id=1GocsP6yAfnN2y1K37f6BqsDTxRdF3UGD&export=download&authuser=0&confirm=t.mkv
+155 La competencia de amor de las animadoras PARTE 1
+https://drive.usercontent.google.com/download?id=1fTPuxkVl5pNPA-A43D3nyFFouFFQHbJG&export=download&authuser=0&confirm=t.mkv
+156 La competencia de amor de las animadoras PARTE 2
+https://drive.usercontent.google.com/download?id=1-R8B3nOSUMFnw7JdJ2xMr_3RedzOwGdz&export=download&authuser=0&confirm=t.mkv
+157 ¡Explosión! El súper tambor
+https://drive.usercontent.google.com/download?id=1lCsfnqRDam6xoxgJZvdv9lcK8e18fuXG&export=download&authuser=0&confirm=t.mkv
+158 El perro sigiloso es blanco y negro
+https://drive.usercontent.google.com/download?id=1bQ5ANaTSQHzadqYlw6gg9wFlcdmbr_U4&export=download&authuser=0&confirm=t.mkv
+159 Los Tendo y La leyenda del hombre dragón
+https://drive.usercontent.google.com/download?id=1XSULtonBNeqHSBky5DdlCrIXJtmZvGBl&export=download&authuser=0&confirm=t.mkv
+160 Ranma se encuentra con su madre
+https://drive.usercontent.google.com/download?id=1V8ZnaBiFJ6ryxAJKEx4EtqrzcnaXtRDr&export=download&authuser=0&confirm=t.mkv
+161 Quizá, algún día...
+https://drive.usercontent.google.com/download?id=1Lz0HRfTMbmRiQmnKNK4cWXXL40cadpqe&export=download&authuser=0&confirm=t.mkv
