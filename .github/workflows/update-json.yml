@@ -1,0 +1,42 @@
+name: Update Catalog JSON
+
+permissions:
+  contents: write
+
+on:
+  push:
+    paths:
+      - 'lists/**.txt'
+      - 'scripts/parse_txt_to_json.py'
+  workflow_dispatch: {}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: true
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          # Agrega aquí si necesitas librerías adicionales
+
+      - name: Parsear TXT y actualizar JSON
+        run: |
+          python scripts/parse_txt_to_json.py lists/ data.json
+
+      - name: Commit y push de data.json
+        uses: EndBug/add-and-commit@v7
+        with:
+          author_name: 'github-actions'
+          author_email: 'actions@github.com'
+          message: 'chore: update catalog JSON desde listas TXT'
+          add: 'data.json'
