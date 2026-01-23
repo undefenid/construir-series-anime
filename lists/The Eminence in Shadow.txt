@@ -1,0 +1,90 @@
+Nombre: Series de Anime
+
+Nombre: The Eminence in Shadow
+genero: Animación, Comedia, Sci-Fi & Fantasy y Action & Adventure
+
+descripción: Grandes héroes y diabólicos villanos son el tipo de personajes que la gente anhela ser, pero este no es el caso de Cid Kagenou. Él aspira a convertirse en la mente maestra detrás de todo, moviendo los hilos y haciendo que sus maquinaciones impulsen toda la historia. En su vida anterior en Japón no pudo lograr sus objetivos, pero ahora, renacido en un mundo de magia, ¡mostrará la verdadera eminencia de la sombra! Mientras Cid finge ser solo otro personaje de relleno, recluta a miembros de su (falsa) organización “Shadow Garden”, con el objetivo de acabar con un misterioso culto que acecha en las sombras. Su (falsa) organización contra el asqueroso (pero sorpresivamente real) Culto de Diabolos.
+
+anio: 2022
+
+iconPng: https://image.tmdb.org/t/p/original/7QOjpeoEvit56UEkTluVsYmO17z.png
+
+icono: https://image.tmdb.org/t/p/original/dZHPf3OmePqwL4gVkHybBYKJsO3.jpg
+
+logohorizontal: https://image.tmdb.org/t/p/original/htD5SJpPOvkmAowU80KrWnN59WO.jpg
+
+temporadas
+
+nombre: temporada 1
+
+tmbdid: 119495
+
+01 La compañera de clase odiada
+https://pomf2.lain.la/f/hf7w108.mkv
+02 El origen de Shadow Garden
+https://pomf2.lain.la/f/p2exwx0h.mkv
+03 La Esgrimista Mediocre
+https://pomf2.lain.la/f/jwz72fiz.mkv
+04 Las recompensas del sadismo
+https://pomf2.lain.la/f/zv4napt9.mkv
+05 Soy…
+https://pomf2.lain.la/f/wdrnj0z.mkv
+06 Impostores
+https://pomf2.lain.la/f/w14d2qi8.mkv
+07 Un torneo de esgrima enigmático y sangriento
+https://pomf2.lain.la/f/r581ep61.mkv
+08 Ataque a la academia de Caballeros Oscuros
+https://pomf2.lain.la/f/gs0gpzbw.mkv
+09 El fin de una mentira
+https://pomf2.lain.la/f/t86gp9y.mkv
+10 La Tierra Sagrada, ciudad del engaño
+https://pomf2.lain.la/f/8wqi5kfp.mkv
+11 El juicio de la Diosa
+https://pomf2.lain.la/f/xlmu0x9.mkv
+12 La verdad entre los recuerdos
+https://pomf2.lain.la/f/wons09j6.mkv
+13 Una batalla sangrienta como ofrenda a la aniquilación
+https://pomf2.lain.la/f/roiklu9.mkv
+14 Tu mentira, tu deseo
+https://pomf2.lain.la/f/wvg5n4a1.mkv
+15 El hombre más débil más fuerte
+https://pomf2.lain.la/f/o75zui2y.mkv
+16 Intenciones desapercibidas 
+https://pomf2.lain.la/f/fo40lglg.mkv
+17 Rayo de la luna que atraviesa la oscuridad
+https://pomf2.lain.la/f/ufuuupp9.mkv
+18 Apostarle a un momento
+https://pomf2.lain.la/f/fwll7dr2.mkv
+19 Titere bailarín
+https://pomf2.lain.la/f/ljx79yy.mkv
+20 La llegada del demonio
+https://pomf2.lain.la/f/eq1elpnb.mkv
+
+nombre: Temporada 2
+01 Ciudad sin ley
+https://pomf2.lain.la/f/hlntkfv.mkv
+02 El Refugio
+https://pomf2.lain.la/f/t5sy0i9.mkv
+03 La hora del despertar
+https://pomf2.lain.la/f/g8v93op.mkv
+04 Máscara de falsedad
+https://pomf2.lain.la/f/mwahmo.mkv
+05 El que mueve los hilos
+https://pomf2.lain.la/f/6q7qunp.mkv
+06 John Smith
+https://pomf2.lain.la/f/khyhrqt.mkv
+07 Algo valioso
+https://pomf2.lain.la/f/22iagl5k.mkv
+08 Las lágrimas del dragón
+https://pomf2.lain.la/f/4hgt1te.mkv
+09 La llave
+https://pomf2.lain.la/f/nau8imq6.mkv
+10 El pájaro enjaulado
+https://pomf2.lain.la/f/4wvy8fnx.mkv
+11 Decisión
+https://pomf2.lain.la/f/ch8kzdx3.mkv
+12 Más alto
+https://pomf2.lain.la/f/en9e51z2.mkv
+
+
+
