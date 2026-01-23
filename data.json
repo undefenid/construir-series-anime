@@ -12002,6 +12002,191 @@
                     ],
                     "total_seasons": 1,
                     "tmdb_id": "46298"
+                },
+                {
+                    "nombre": "The Eminence in Shadow",
+                    "genero": "Animación, Comedia, Sci-Fi & Fantasy y Action & Adventure",
+                    "descripcion": "Grandes héroes y diabólicos villanos son el tipo de personajes que la gente anhela ser, pero este no es el caso de Cid Kagenou. Él aspira a convertirse en la mente maestra detrás de todo, moviendo los hilos y haciendo que sus maquinaciones impulsen toda la historia. En su vida anterior en Japón no pudo lograr sus objetivos, pero ahora, renacido en un mundo de magia, ¡mostrará la verdadera eminencia de la sombra! Mientras Cid finge ser solo otro personaje de relleno, recluta a miembros de su (falsa) organización “Shadow Garden”, con el objetivo de acabar con un misterioso culto que acecha en las sombras. Su (falsa) organización contra el asqueroso (pero sorpresivamente real) Culto de Diabolos.",
+                    "anio": "2022",
+                    "iconPng": "https://image.tmdb.org/t/p/original/7QOjpeoEvit56UEkTluVsYmO17z.png",
+                    "icono": "https://image.tmdb.org/t/p/original/dZHPf3OmePqwL4gVkHybBYKJsO3.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/htD5SJpPOvkmAowU80KrWnN59WO.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "La compañera de clase odiada",
+                                    "url": "https://pomf2.lain.la/f/hf7w108.mkv"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "El origen de Shadow Garden",
+                                    "url": "https://pomf2.lain.la/f/p2exwx0h.mkv"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "La Esgrimista Mediocre",
+                                    "url": "https://pomf2.lain.la/f/jwz72fiz.mkv"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Las recompensas del sadismo",
+                                    "url": "https://pomf2.lain.la/f/zv4napt9.mkv"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Soy…",
+                                    "url": "https://pomf2.lain.la/f/wdrnj0z.mkv"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Impostores",
+                                    "url": "https://pomf2.lain.la/f/w14d2qi8.mkv"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Un torneo de esgrima enigmático y sangriento",
+                                    "url": "https://pomf2.lain.la/f/r581ep61.mkv"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Ataque a la academia de Caballeros Oscuros",
+                                    "url": "https://pomf2.lain.la/f/gs0gpzbw.mkv"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "El fin de una mentira",
+                                    "url": "https://pomf2.lain.la/f/t86gp9y.mkv"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "La Tierra Sagrada, ciudad del engaño",
+                                    "url": "https://pomf2.lain.la/f/8wqi5kfp.mkv"
+                                },
+                                {
+                                    "numero": 11,
+                                    "titulo": "El juicio de la Diosa",
+                                    "url": "https://pomf2.lain.la/f/xlmu0x9.mkv"
+                                },
+                                {
+                                    "numero": 12,
+                                    "titulo": "La verdad entre los recuerdos",
+                                    "url": "https://pomf2.lain.la/f/wons09j6.mkv"
+                                },
+                                {
+                                    "numero": 13,
+                                    "titulo": "Una batalla sangrienta como ofrenda a la aniquilación",
+                                    "url": "https://pomf2.lain.la/f/roiklu9.mkv"
+                                },
+                                {
+                                    "numero": 14,
+                                    "titulo": "Tu mentira, tu deseo",
+                                    "url": "https://pomf2.lain.la/f/wvg5n4a1.mkv"
+                                },
+                                {
+                                    "numero": 15,
+                                    "titulo": "El hombre más débil más fuerte",
+                                    "url": "https://pomf2.lain.la/f/o75zui2y.mkv"
+                                },
+                                {
+                                    "numero": 16,
+                                    "titulo": "Intenciones desapercibidas",
+                                    "url": "https://pomf2.lain.la/f/fo40lglg.mkv"
+                                },
+                                {
+                                    "numero": 17,
+                                    "titulo": "Rayo de la luna que atraviesa la oscuridad",
+                                    "url": "https://pomf2.lain.la/f/ufuuupp9.mkv"
+                                },
+                                {
+                                    "numero": 18,
+                                    "titulo": "Apostarle a un momento",
+                                    "url": "https://pomf2.lain.la/f/fwll7dr2.mkv"
+                                },
+                                {
+                                    "numero": 19,
+                                    "titulo": "Titere bailarín",
+                                    "url": "https://pomf2.lain.la/f/ljx79yy.mkv"
+                                },
+                                {
+                                    "numero": 20,
+                                    "titulo": "La llegada del demonio",
+                                    "url": "https://pomf2.lain.la/f/eq1elpnb.mkv"
+                                }
+                            ]
+                        },
+                        {
+                            "nombre": "Temporada 2",
+                            "numero_temporada": 2,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Ciudad sin ley",
+                                    "url": "https://pomf2.lain.la/f/hlntkfv.mkv"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "El Refugio",
+                                    "url": "https://pomf2.lain.la/f/t5sy0i9.mkv"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "La hora del despertar",
+                                    "url": "https://pomf2.lain.la/f/g8v93op.mkv"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Máscara de falsedad",
+                                    "url": "https://pomf2.lain.la/f/mwahmo.mkv"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "El que mueve los hilos",
+                                    "url": "https://pomf2.lain.la/f/6q7qunp.mkv"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "John Smith",
+                                    "url": "https://pomf2.lain.la/f/khyhrqt.mkv"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Algo valioso",
+                                    "url": "https://pomf2.lain.la/f/22iagl5k.mkv"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Las lágrimas del dragón",
+                                    "url": "https://pomf2.lain.la/f/4hgt1te.mkv"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "La llave",
+                                    "url": "https://pomf2.lain.la/f/nau8imq6.mkv"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "El pájaro enjaulado",
+                                    "url": "https://pomf2.lain.la/f/4wvy8fnx.mkv"
+                                },
+                                {
+                                    "numero": 11,
+                                    "titulo": "Decisión",
+                                    "url": "https://pomf2.lain.la/f/ch8kzdx3.mkv"
+                                },
+                                {
+                                    "numero": 12,
+                                    "titulo": "Más alto",
+                                    "url": "https://pomf2.lain.la/f/en9e51z2.mkv"
+                                }
+                            ]
+                        }
+                    ],
+                    "total_seasons": 2,
+                    "tmdb_id": "119495"
                 }
             ]
         }
