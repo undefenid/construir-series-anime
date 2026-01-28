@@ -1,0 +1,119 @@
+Nombre: Series de Anime
+
+Nombre: Jujutsu Kaisen
+
+genero: Animación, Action & Adventure y Sci-Fi & Fantasy
+
+descripción: La vida de Itadori cambia para siempre cuando, para salvar a un compañero de clase, se come el dedo de Ryomen Sukuna y absorbe una poderosa maldición.
+
+anio: 2010
+
+iconPng: https://image.tmdb.org/t/p/original/8K3jzJ4iVlyYJRU5pWDGgX8jWVB.png
+
+icono: https://image.tmdb.org/t/p/original/dG6H80X9zF3nA7NiOAs3gmxO6mc.jpg
+
+logohorizontal: https://image.tmdb.org/t/p/original/wwTjrRb0HG9sd87EDAn6ZbvxQGX.jpg
+
+temporadas
+nombre: temporada 1
+
+tmbdid: 95479
+
+
+01 Ryomen Sukuna
+https://pomf2.lain.la/f/yd9rayf.mkv
+02 Por mí
+https://pomf2.lain.la/f/vmqal3q8.mkv
+03 Chica de acero
+https://pomf2.lain.la/f/28dlsj9l.mkv
+04 La existencia terrenal del Vientre Maldito
+https://pomf2.lain.la/f/gc768p8e.mkv
+05 La existencia terrenal del Vientre Maldito II
+https://pomf2.lain.la/f/od6063lx.mkv
+06 Tras la lluvia
+https://pomf2.lain.la/f/5vfprj3u.mkv
+07 Asalto
+https://pomf2.lain.la/f/19jwb2c.mkv
+08 Aburrimiento
+https://pomf2.lain.la/f/n2zxwsm7.mkv
+09 Donnadies y castigo
+https://pomf2.lain.la/f/b2x0skwn.mkv
+10 Mutación Pasiva
+https://pomf2.lain.la/f/dftz7sbx.mkv
+11 De mente cerrada
+https://pomf2.lain.la/f/sypsrvnb.mkv
+12 Para ti, algún día
+https://pomf2.lain.la/f/kidqcsh7.mkv
+13 Hasta mañana
+https://pomf2.lain.la/f/28ycgl40.mkv
+14 El evento de intercambio con la escuela de Kioto -Combate grupal 0
+https://pomf2.lain.la/f/me644tu.mkv
+15  El evento de intercambio con la escuela de Kioto -Combate grupal 1
+https://pomf2.lain.la/f/wak73p9t.mkv
+16 El evento de intercambio con la escuela de Kioto -Combate grupal 2
+https://pomf2.lain.la/f/77rj9dq7.mkv
+17 El evento de intercambio con la escuela de Kioto -Combate grupal 3
+https://pomf2.lain.la/f/c5aq0ovc.mkv
+18 Sabios
+https://pomf2.lain.la/f/8aoi1l4d.mkv
+19 Destello Negro
+https://pomf2.lain.la/f/uqjhlutw.mkv
+20 Fuera de lo común
+https://pomf2.lain.la/f/uhweu67l.mkv
+21 Jujutsu Koshien
+https://pomf2.lain.la/f/9khyf8yq.mkv
+22 El origen de la fe ciega
+https://pomf2.lain.la/f/wx051ziv.mkv
+23 El origen de la fe ciega II
+https://pomf2.lain.la/f/tew0v5js.mkv
+24 Cómplices
+https://pomf2.lain.la/f/j37gjicq.mkv
+
+nombre: Temporada 2
+
+01  El tesoro escondido
+https://pomf2.lain.la/f/yd9rayf.mkv
+02 El tesoro escondido - Parte 2
+https://pomf2.lain.la/f/le7wympk.mkv
+03 El tesoro escondido - Parte 3
+https://pomf2.lain.la/f/z1ffinsx.mkv
+04 El tesoro escondido - Parte 4
+https://pomf2.lain.la/f/3g90laau.mkv
+05 El tesoro perdido
+https://pomf2.lain.la/f/hj1xyo14.mkv
+06 De eso se trata
+https://pomf2.lain.la/f/23kasaw.mkv
+07 La víspera del festival
+https://pomf2.lain.la/f/uk801fbb.mkv
+08 El incidente de Shibuya
+https://pomf2.lain.la/f/42forh5.mkv
+09 El incidente de Shibuya - Apertura del portal
+https://pomf2.lain.la/f/xr47etce.mkv
+10 Confusión
+https://pomf2.lain.la/f/u8mxzu6j.mkv
+11 Espiritismo
+https://pomf2.lain.la/f/vjptddx.mkv
+12 Espada obtusa
+https://pomf2.lain.la/f/34egh77m.mkv
+13 Escamas carmesí
+https://pomf2.lain.la/f/f514492w.mkv
+14 Temblores
+https://pomf2.lain.la/f/zjkzniik.mkv
+15 Temblores, parte dos
+https://pomf2.lain.la/f/zk3nur.mkv
+16 Trueno
+https://pomf2.lain.la/f/7ghcikfb.mkv
+17 Trueno, parte 2
+https://pomf2.lain.la/f/eaoeiphh.mkv
+18 Lo correcto y lo incorrecto
+https://pomf2.lain.la/f/m5lvd3gm.mkv
+19 Lo correcto y lo incorrecto, parte 2
+https://pomf2.lain.la/f/m9w4uy83.mkv
+20 Lo correcto y lo incorrecto, parte 3
+https://pomf2.lain.la/f/p8zpw4zc.mkv
+21 Metamorfosis
+https://pomf2.lain.la/f/uqsrf62l.mkv
+22 Metamorfosis, parte dos
+https://pomf2.lain.la/f/cfs7vtpf.mkv
+23 El incidente de Shibuya, cierre del portal
+https://pomf2.lain.la/f/lwb3coe2.mkv

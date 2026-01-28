@@ -1,0 +1,75 @@
+Nombre: Series de Anime
+
+Nombre: Solo Leveling
+
+genero: Action & Adventure y Sci-Fi & Fantasy
+
+descripción: Lo que no te mata te hace más fuerte, pero en el caso de Sung Jinwoo, lo que lo mató lo hizo más fuerte. Después de ser brutalmente asesinado por monstruos en una mazmorra de alto rango, Jinwoo regresó con el Sistema, un programa que solo él puede ver y que eleva su nivel en todos los sentidos. Ahora, está decidido a descubrir los secretos detrás de sus poderes y la mazmorra que los engendró.
+
+anio: 2024
+
+iconPng: https://image.tmdb.org/t/p/original/4CcPZUV1jIzDQ1yG5Amg9j7lyoW.png
+
+icono: https://image.tmdb.org/t/p/original/rsOApVLbIQEcNkqSlOxNPyg3FyI.jpg
+
+logohorizontal: https://image.tmdb.org/t/p/original/hGfEICSgwWyYC9ALkKq3pjfV6jE.jpg
+
+temporadas
+nombre: temporada 1
+
+tmbdid: 127532
+
+
+01 Ya estoy acostumbrado
+https://pomf2.lain.la/f/f6581mva.mkv
+02 Si tuviera otra oportunidad
+https://pomf2.lain.la/f/okkiwoz.mkv
+03 Es como un videojuego
+https://pomf2.lain.la/f/mh1pzogn.mkv
+04 Tengo que hacerme más fuerte
+https://pomf2.lain.la/f/ol2kw5vf.mkv
+05 Un muy buen trato
+https://pomf2.lain.la/f/v8n5fvnw.mkv
+06 Comienza la verdadera caza
+https://pomf2.lain.la/f/qlykqh85.mkv
+07 Veamos hasta dónde puedo llegar
+https://pomf2.lain.la/f/ofdt6coj.mkv
+08 Esto es frustrante
+https://pomf2.lain.la/f/h6icygq6.mkv
+09 Has estado ocultando tus habilidades
+https://pomf2.lain.la/f/s06jkzow.mkv
+10 ¿Qué es esto, un pícnic?
+https://pomf2.lain.la/f/h4okg711.mkv
+11 Un caballero defendiendo un trono vacío
+https://pomf2.lain.la/f/5726tmnd.mkv
+12 Surge
+https://pomf2.lain.la/f/bmifng19.mkv
+
+nombre: Temporada 2
+
+01 Tú no eres nivel E, ¿verdad?
+https://pomf2.lain.la/f/vijahcs8.mkv
+02 Parece que tú mismo no lo sabes
+https://pomf2.lain.la/f/kofvghjs.mkv
+03 Aún queda mucho camino
+https://pomf2.lain.la/f/ooo1gsn9.mkv
+04 Tengo que dejar de fingir
+https://pomf2.lain.la/f/k09mm0ue.mkv
+05 Estamos entrenados para esto
+https://pomf2.lain.la/f/ofsau1n.mkv
+06 No menosprecies a los míos
+https://pomf2.lain.la/f/472k3eq0.mkv
+07 El décimo Cazador de rango S
+https://pomf2.lain.la/f/9ug3dwkg.mkv
+08 Mirar hacia arriba me estaba cansando
+https://pomf2.lain.la/f/ppegz5pz.mkv
+09 Valió la pena
+https://pomf2.lain.la/f/1ss1zfmd.mkv
+10 Necesitamos un héroe
+https://pomf2.lain.la/f/l6gicv.mkv
+11 Se va a poner aún más intenso
+https://pomf2.lain.la/f/65mh0qm9.mkv
+12 ¿Eres el rey de los humanos?
+https://pomf2.lain.la/f/qztunwc1.mkv
+13 Al siguiente objetivo
+https://pomf2.lain.la/f/llf1gy5z.mkv
