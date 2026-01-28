@@ -1,0 +1,245 @@
+Nombre: Series de Anime
+
+Nombre: Yuyo Hakusho
+
+genero:Animación, Action & Adventure, Sci-Fi & Fantasy
+
+descripción: Yusuke Urameshi, un chico de catorce años un poco gamberro es atropellado por un coche cuando intentaba salvar la vida de un niño pequeño. Al ser atropellado, no sobrevive y muere. Entonces es cuando Botan le dice que su muerte no estaba prevista asi que no va ni al cielo ni al infierno, por lo cual se queda en la tierra como fantasma. Botan le dice de hacer una prueba para volver a la vida, la consigue superar y entonces es cuando le encomiendan la tarea de ser detective espiritual, con lo cual tendrá que resolver varios casos utilizando poderes espirituales que le dan.
+
+anio:1992
+
+iconPng:https://image.tmdb.org/t/p/original/csmFVVcS2KfM6e02qLBgmncpYwZ.png
+
+icono: https://image.tmdb.org/t/p/original/j6dzDPkrAsfJ6GUyyMPz38ZkpbF.jpg
+
+logohorizontal:https://image.tmdb.org/t/p/original/uNM5dbnPJXJJs1eggepRWjSvdIR.jpg
+
+temporadas
+nombre: temporada 1
+
+tmbdid:30669
+
+01 La Muerte Lo Sorprende
+https://pomf2.lain.la/f/sqa5qcuf.mp4
+02 Entrenamiento Para Revivir
+https://pomf2.lain.la/f/g91v9vdt.mp4
+03 Kuwabara  Una Promesa Entre Hombres
+https://pomf2.lain.la/f/nwizpc6t.mkv
+04 Requisitos Para Enamorados
+https://pomf2.lain.la/f/p7opqjc.mkv
+05 El Regreso De Yusuke
+https://pomf2.lain.la/f/nmk5bacy.mkv
+06 Tres Monstruos  Hiei, Kurama Y Gooki
+https://pomf2.lain.la/f/fowuxfep.mkv
+07 Gooki Y Kurama
+https://pomf2.lain.la/f/p6wwv50.mkv
+08 Hiei, El De Los 3 Ojos
+https://pomf2.lain.la/f/dl0tqzcl.mkv
+09 Inicia La Busqueda
+https://pomf2.lain.la/f/175lrg.mkv
+10 Combate En La Obscuridad
+https://pomf2.lain.la/f/c1hll8hr.mkv
+11 Una Pelea Dificil
+https://pomf2.lain.la/f/ynbeinn2.mkv
+12 Rando Aparece  La Derrota De Kuwabara
+https://pomf2.lain.la/f/x55viqxu.mkv
+13 La batalla mágica de Yusuke y Rando
+https://pomf2.lain.la/f/thkw7fos.mkv
+14 Las 4 Bestias Sagradas
+https://pomf2.lain.la/f/9k88awzn.mkv
+15 Las 4 Bestias Y El Desafio
+https://pomf2.lain.la/f/f1g4nrar.mkv
+16 La Batalla De Kuwabara
+https://pomf2.lain.la/f/xvbow69.mkv
+17 El Grito De Guerra De Byakko
+https://pomf2.lain.la/f/bl7jettt.mkv
+18 La Batalla De Hiei
+https://pomf2.lain.la/f/o5sumwnu.mkv
+19 Suzaku  La última Bestia
+https://pomf2.lain.la/f/ai60rzuy.mkv
+20 Las técnicas secretas de Suzaku
+https://pomf2.lain.la/f/def8rqd6.mkv
+21 Yusuke contraataca
+https://pomf2.lain.la/f/53fzw9vq.mkv
+22 La Triste Yukina
+https://pomf2.lain.la/f/qo5vdhsm.mkv
+23 Mensajeros De La Obscuridad
+https://pomf2.lain.la/f/n50ks84g.mkv
+24 Los 3 Demonios
+https://pomf2.lain.la/f/lua08yvb.mkv
+25 Kuwabara Y El Poder Del Amor
+https://pomf2.lain.la/f/g6wkwt6.mkv
+26 El Regreso De Los Hermanos Toguro
+https://pomf2.lain.la/f/ejj4p6p7.mkv
+27 Inicia El Concurso De Artes Marciales
+https://pomf2.lain.la/f/0t1a49h9.mkv
+28 Empieza La Primera Batalla
+https://pomf2.lain.la/f/ari04x9b.mkv
+29 Flores De Sangre En La Arena
+https://pomf2.lain.la/f/uh9izp36.mkv
+30 La Tecnica Secreta De Hiei
+https://pomf2.lain.la/f/10chmdf2.mkv
+31 Shaku Y La Tecnica Suiken
+https://pomf2.lain.la/f/zacrpr4o.mkv
+32 Duelo A Muerte Con Cuchillos
+https://pomf2.lain.la/f/qu2qj7o5.mkv
+33 La Batalla Del Octavo Finalista
+https://pomf2.lain.la/f/tsm1vry.mkv
+34 Un Reducido Margen De Victoria
+https://pomf2.lain.la/f/dl0se8z.mkv
+35 El Bello Rostro Detrás De La Mascara
+https://pomf2.lain.la/f/qvuoq6io.mkv
+36 Una Ambicion Destruida
+https://pomf2.lain.la/f/dafba3op.mkv
+37 Machoskai, El Equipo De La Obscuridad
+https://pomf2.lain.la/f/5bgswfvd.mkv
+38 El Maquillaje De La Muerte
+https://pomf2.lain.la/f/7da9l45s.mkv
+39 Venciendo Al Enemigo
+https://pomf2.lain.la/f/q9k5nqrj.mkv
+40 Una Difícil Pelea Con El Amo Del Viento
+https://pomf2.lain.la/f/gbawc90q.mkv
+41 ReikoOdan  Un Giro Inesperado
+https://pomf2.lain.la/f/nftb7wid.mkv
+42 La Fuerza Del Amor Ayuda A Kuwabara
+https://pomf2.lain.la/f/n3k1joj4.mkv
+43 El Bello Rostro De La Máscara
+https://pomf2.lain.la/f/690gscvy.mkv
+44 La Prueba Final De Genkai
+https://pomf2.lain.la/f/vfcrm000.mkv
+45 Hiei Utiliza Su Kokuryuha
+https://pomf2.lain.la/f/ry3yn77.mkv
+46 La Transformacion De Kuromomotaro
+https://pomf2.lain.la/f/8metuequ.mkv
+47 El Bandido Legendario YohkoKurama
+https://pomf2.lain.la/f/lgdn7o4j.mkv
+48 La Capa Del Camino Sin Retorno
+https://pomf2.lain.la/f/pliru539.mkv
+49 Genkai Pelea Con Toda Su Fuerza
+https://pomf2.lain.la/f/q66up063.mkv
+50 El Desafio De Suzuki
+https://pomf2.lain.la/f/aquj2e1f.mkv
+51 La Sombra De Toguro
+https://pomf2.lain.la/f/j8om1ceq.mkv
+52 La Muerte De Genkai
+https://pomf2.lain.la/f/386o7ot9.mkv
+53 Yusuke Supera Su Dolor
+https://pomf2.lain.la/f/tmenmi0k.mkv
+54 La Final Ha Comenzado
+https://pomf2.lain.la/f/ucguaoaq.mkv
+55 El Zorro Ha Despertado
+https://pomf2.lain.la/f/sxjrr9gt.mkv
+56 Kurama Ataca
+https://pomf2.lain.la/f/zhj9nqr3.mkv
+57 Bui Se Quita La Armadura
+https://pomf2.lain.la/f/dzfcfloz.mkv
+58 El Ataque Del Dragón Negro
+https://pomf2.lain.la/f/0tptulx.mkv
+59 La Extraña Sombra De Toguro El Mayor
+https://pomf2.lain.la/f/e43ohquw.mkv
+60 La Propuesta De Sakyo
+https://pomf2.lain.la/f/acx5udi.mkv
+61 Inicia La Pelea De La Venganza
+https://pomf2.lain.la/f/3g8q7uv8.mkv
+62 Toguro Pelea Al 100 Porciento
+https://pomf2.lain.la/f/y3nuny0k.mkv
+63 Una Triste Misión Para Yusuke
+https://pomf2.lain.la/f/w5g9680.mkv
+64 La Batalla Termina
+https://pomf2.lain.la/f/m4lz2fz.mkv
+65 La Ambición Desaparece
+https://pomf2.lain.la/f/nubgkiu0.mkv
+66 El Más Grande Deseo De Toguro
+https://pomf2.lain.la/f/i86m5f1c.mkv
+67 El Inicio De La Proxima Pelea
+https://pomf2.lain.la/f/91mu4rzj.mkv
+68 Las Trampas De La Casona Del terror
+https://pomf2.lain.la/f/tzj2cx38.mkv
+69 El Ingenio De Kurama
+https://pomf2.lain.la/f/lypn4r9q.mkv
+70 La Terrible Verdad, El Nuevo Misterio
+https://pomf2.lain.la/f/0n0usawf.mkv
+71 El Terror, La Puerta Del Mundo espiritual
+https://pomf2.lain.la/f/dk44kxl8.mkv
+72 El Mensajero Del Mundo Del Mal
+https://pomf2.lain.la/f/qrol7k3l.mkv
+73 La Trampa Del Doctor Al Acecho
+https://pomf2.lain.la/f/okceujqx.mkv
+74 Un Territorio Menos
+https://pomf2.lain.la/f/xjcsd09.mkv
+75 Marino  La Trampa Oculta En La Lluvia
+https://pomf2.lain.la/f/1lr7qr.mkv
+76 Kuwabara Recupera Su Poder
+https://pomf2.lain.la/f/be95t4mb.mkv
+77 El Oscuro Pasado Del ExDetective Sensui
+https://pomf2.lain.la/f/zeglhp6k.mkv
+78 Buena Suerte Angel De La Noche
+https://pomf2.lain.la/f/8d1975gl.mkv
+79 Yusuke Rescata A Kuwabara
+https://pomf2.lain.la/f/2hflhx8n.mkv
+80 El Blanco De Hagiri, Marcas De La Muerte
+https://pomf2.lain.la/f/t45ox2p.mkv
+81 La Gran Habilidad Del Amo Del Juego
+https://pomf2.lain.la/f/k8f0ag.mkv
+82 El Juego De Batalla En La Cueva
+https://pomf2.lain.la/f/pz26pl9p.mkv
+83 El Último Recurso, La Decisión De Kurama
+https://pomf2.lain.la/f/q5f6tpi2.mkv
+84 Kurama Revela Su verdadera Identidad
+https://pomf2.lain.la/f/ejzg1r1.mkv
+85 Los Detectives En Una Pelea Fatal
+https://pomf2.lain.la/f/d8qyhhpe.mkv
+86 Yusuke Sufre La Cruel Diferencia
+https://pomf2.lain.la/f/hcthhaby.mkv
+87 El Arma Mortal De Koenma
+https://pomf2.lain.la/f/zdkk7pbi.mkv
+88 Sensui Muestra El Seikoki
+https://pomf2.lain.la/f/rvix8t4c.mkv
+89 Un Mal Presentimiento
+https://pomf2.lain.la/f/136i08ou.mkv
+90 Cumple Los Deseos De Tu Amigo
+https://pomf2.lain.la/f/hwe7zir9.mkv
+91 Despertar  Otra Batalla
+https://pomf2.lain.la/f/hd53spdl.mkv
+92 La Gran Batalla, la Prueba Del Masoku
+https://pomf2.lain.la/f/e7bxh7ty.mkv
+93 La Pelea Final
+https://pomf2.lain.la/f/b7x8j2wl.mkv
+94 El Epílogo
+https://pomf2.lain.la/f/h9gwzg7o.mkv
+95 El Destino De Yusuke
+https://pomf2.lain.la/f/i1gmxxxf.mkv
+96 Los Visitantes De La Oscuridad
+https://pomf2.lain.la/f/ahu8kynu.mkv
+97 Adios, La Despedida De Todos
+https://pomf2.lain.la/f/lwb0nc.mkv
+98 El Encuentro Con Mi Padre
+https://pomf2.lain.la/f/ugzrmohp.mkv
+99 El Nacimiento  Recuerdo Imborrable
+https://pomf2.lain.la/f/sdakymw4.mkv
+100 Revelando El Secreto Del Yagan
+https://pomf2.lain.la/f/d3kr2wng.mkv
+101 Los Bandidos Del Mundo Del Mal
+https://pomf2.lain.la/f/kut0imvy.mkv
+102 La Transformacion De Yoko
+https://pomf2.lain.la/f/d1v11jbs.mkv
+103 La Ultima Voluntad De Mi Padre
+https://pomf2.lain.la/f/o2rfc1r8.mkv
+104 Mi Propuesta Cambia El Mundo Del Mal
+https://pomf2.lain.la/f/2kd5kf3p.mkv
+105 Inician Las Eliminatorias Del Torneo
+https://pomf2.lain.la/f/45ucbwd8.mkv
+106 La Batalla Entre Padre E Hijo
+https://pomf2.lain.la/f/c91n8r94.mkv
+107 El Sueño De Cada Peleador
+https://pomf2.lain.la/f/vw9xynf.mkv
+108 Kurama  Adios Al Pasado
+https://pomf2.lain.la/f/xvf7b8bn.mkv
+109 Pelea A Muerte  Hiei Contra Mokuro
+https://pomf2.lain.la/f/bibfx8ax.mkv
+110 Mi Poder Es Todo Lo Que Tengo
+https://pomf2.lain.la/f/8a36cchq.mkv
+111 El Final, Después De La Batalla
+https://pomf2.lain.la/f/1iht2ubc.mkv
+112 Por Siempre Yu Yu Hakusho
+https://pomf2.lain.la/f/ccekk04.mkv
