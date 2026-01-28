@@ -12187,6 +12187,416 @@
                     ],
                     "total_seasons": 2,
                     "tmdb_id": "119495"
+                },
+                {
+                    "nombre": "Jujutsu Kaisen",
+                    "genero": "Animación, Action & Adventure y Sci-Fi & Fantasy",
+                    "descripcion": "La vida de Itadori cambia para siempre cuando, para salvar a un compañero de clase, se come el dedo de Ryomen Sukuna y absorbe una poderosa maldición.",
+                    "anio": "2010",
+                    "iconPng": "https://image.tmdb.org/t/p/original/8K3jzJ4iVlyYJRU5pWDGgX8jWVB.png",
+                    "icono": "https://image.tmdb.org/t/p/original/dG6H80X9zF3nA7NiOAs3gmxO6mc.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/wwTjrRb0HG9sd87EDAn6ZbvxQGX.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Ryomen Sukuna",
+                                    "url": "https://pomf2.lain.la/f/yd9rayf.mkv"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Por mí",
+                                    "url": "https://pomf2.lain.la/f/vmqal3q8.mkv"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Chica de acero",
+                                    "url": "https://pomf2.lain.la/f/28dlsj9l.mkv"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "La existencia terrenal del Vientre Maldito",
+                                    "url": "https://pomf2.lain.la/f/gc768p8e.mkv"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "La existencia terrenal del Vientre Maldito II",
+                                    "url": "https://pomf2.lain.la/f/od6063lx.mkv"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Tras la lluvia",
+                                    "url": "https://pomf2.lain.la/f/5vfprj3u.mkv"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Asalto",
+                                    "url": "https://pomf2.lain.la/f/19jwb2c.mkv"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Aburrimiento",
+                                    "url": "https://pomf2.lain.la/f/n2zxwsm7.mkv"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Donnadies y castigo",
+                                    "url": "https://pomf2.lain.la/f/b2x0skwn.mkv"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Mutación Pasiva",
+                                    "url": "https://pomf2.lain.la/f/dftz7sbx.mkv"
+                                },
+                                {
+                                    "numero": 11,
+                                    "titulo": "De mente cerrada",
+                                    "url": "https://pomf2.lain.la/f/sypsrvnb.mkv"
+                                },
+                                {
+                                    "numero": 12,
+                                    "titulo": "Para ti, algún día",
+                                    "url": "https://pomf2.lain.la/f/kidqcsh7.mkv"
+                                },
+                                {
+                                    "numero": 13,
+                                    "titulo": "Hasta mañana",
+                                    "url": "https://pomf2.lain.la/f/28ycgl40.mkv"
+                                },
+                                {
+                                    "numero": 14,
+                                    "titulo": "El evento de intercambio con la escuela de Kioto -Combate grupal 0",
+                                    "url": "https://pomf2.lain.la/f/me644tu.mkv"
+                                },
+                                {
+                                    "numero": 15,
+                                    "titulo": "El evento de intercambio con la escuela de Kioto -Combate grupal 1",
+                                    "url": "https://pomf2.lain.la/f/wak73p9t.mkv"
+                                },
+                                {
+                                    "numero": 16,
+                                    "titulo": "El evento de intercambio con la escuela de Kioto -Combate grupal 2",
+                                    "url": "https://pomf2.lain.la/f/77rj9dq7.mkv"
+                                },
+                                {
+                                    "numero": 17,
+                                    "titulo": "El evento de intercambio con la escuela de Kioto -Combate grupal 3",
+                                    "url": "https://pomf2.lain.la/f/c5aq0ovc.mkv"
+                                },
+                                {
+                                    "numero": 18,
+                                    "titulo": "Sabios",
+                                    "url": "https://pomf2.lain.la/f/8aoi1l4d.mkv"
+                                },
+                                {
+                                    "numero": 19,
+                                    "titulo": "Destello Negro",
+                                    "url": "https://pomf2.lain.la/f/uqjhlutw.mkv"
+                                },
+                                {
+                                    "numero": 20,
+                                    "titulo": "Fuera de lo común",
+                                    "url": "https://pomf2.lain.la/f/uhweu67l.mkv"
+                                },
+                                {
+                                    "numero": 21,
+                                    "titulo": "Jujutsu Koshien",
+                                    "url": "https://pomf2.lain.la/f/9khyf8yq.mkv"
+                                },
+                                {
+                                    "numero": 22,
+                                    "titulo": "El origen de la fe ciega",
+                                    "url": "https://pomf2.lain.la/f/wx051ziv.mkv"
+                                },
+                                {
+                                    "numero": 23,
+                                    "titulo": "El origen de la fe ciega II",
+                                    "url": "https://pomf2.lain.la/f/tew0v5js.mkv"
+                                },
+                                {
+                                    "numero": 24,
+                                    "titulo": "Cómplices",
+                                    "url": "https://pomf2.lain.la/f/j37gjicq.mkv"
+                                }
+                            ]
+                        },
+                        {
+                            "nombre": "Temporada 2",
+                            "numero_temporada": 2,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "El tesoro escondido",
+                                    "url": "https://pomf2.lain.la/f/yd9rayf.mkv"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "El tesoro escondido - Parte 2",
+                                    "url": "https://pomf2.lain.la/f/le7wympk.mkv"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "El tesoro escondido - Parte 3",
+                                    "url": "https://pomf2.lain.la/f/z1ffinsx.mkv"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "El tesoro escondido - Parte 4",
+                                    "url": "https://pomf2.lain.la/f/3g90laau.mkv"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "El tesoro perdido",
+                                    "url": "https://pomf2.lain.la/f/hj1xyo14.mkv"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "De eso se trata",
+                                    "url": "https://pomf2.lain.la/f/23kasaw.mkv"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "La víspera del festival",
+                                    "url": "https://pomf2.lain.la/f/uk801fbb.mkv"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "El incidente de Shibuya",
+                                    "url": "https://pomf2.lain.la/f/42forh5.mkv"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "El incidente de Shibuya - Apertura del portal",
+                                    "url": "https://pomf2.lain.la/f/xr47etce.mkv"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Confusión",
+                                    "url": "https://pomf2.lain.la/f/u8mxzu6j.mkv"
+                                },
+                                {
+                                    "numero": 11,
+                                    "titulo": "Espiritismo",
+                                    "url": "https://pomf2.lain.la/f/vjptddx.mkv"
+                                },
+                                {
+                                    "numero": 12,
+                                    "titulo": "Espada obtusa",
+                                    "url": "https://pomf2.lain.la/f/34egh77m.mkv"
+                                },
+                                {
+                                    "numero": 13,
+                                    "titulo": "Escamas carmesí",
+                                    "url": "https://pomf2.lain.la/f/f514492w.mkv"
+                                },
+                                {
+                                    "numero": 14,
+                                    "titulo": "Temblores",
+                                    "url": "https://pomf2.lain.la/f/zjkzniik.mkv"
+                                },
+                                {
+                                    "numero": 15,
+                                    "titulo": "Temblores, parte dos",
+                                    "url": "https://pomf2.lain.la/f/zk3nur.mkv"
+                                },
+                                {
+                                    "numero": 16,
+                                    "titulo": "Trueno",
+                                    "url": "https://pomf2.lain.la/f/7ghcikfb.mkv"
+                                },
+                                {
+                                    "numero": 17,
+                                    "titulo": "Trueno, parte 2",
+                                    "url": "https://pomf2.lain.la/f/eaoeiphh.mkv"
+                                },
+                                {
+                                    "numero": 18,
+                                    "titulo": "Lo correcto y lo incorrecto",
+                                    "url": "https://pomf2.lain.la/f/m5lvd3gm.mkv"
+                                },
+                                {
+                                    "numero": 19,
+                                    "titulo": "Lo correcto y lo incorrecto, parte 2",
+                                    "url": "https://pomf2.lain.la/f/m9w4uy83.mkv"
+                                },
+                                {
+                                    "numero": 20,
+                                    "titulo": "Lo correcto y lo incorrecto, parte 3",
+                                    "url": "https://pomf2.lain.la/f/p8zpw4zc.mkv"
+                                },
+                                {
+                                    "numero": 21,
+                                    "titulo": "Metamorfosis",
+                                    "url": "https://pomf2.lain.la/f/uqsrf62l.mkv"
+                                },
+                                {
+                                    "numero": 22,
+                                    "titulo": "Metamorfosis, parte dos",
+                                    "url": "https://pomf2.lain.la/f/cfs7vtpf.mkv"
+                                },
+                                {
+                                    "numero": 23,
+                                    "titulo": "El incidente de Shibuya, cierre del portal",
+                                    "url": "https://pomf2.lain.la/f/lwb3coe2.mkv"
+                                }
+                            ]
+                        }
+                    ],
+                    "total_seasons": 2,
+                    "tmdb_id": "95479"
+                },
+                {
+                    "nombre": "Solo Leveling",
+                    "genero": "Action & Adventure y Sci-Fi & Fantasy",
+                    "descripcion": "Lo que no te mata te hace más fuerte, pero en el caso de Sung Jinwoo, lo que lo mató lo hizo más fuerte. Después de ser brutalmente asesinado por monstruos en una mazmorra de alto rango, Jinwoo regresó con el Sistema, un programa que solo él puede ver y que eleva su nivel en todos los sentidos. Ahora, está decidido a descubrir los secretos detrás de sus poderes y la mazmorra que los engendró.",
+                    "anio": "2024",
+                    "iconPng": "https://image.tmdb.org/t/p/original/4CcPZUV1jIzDQ1yG5Amg9j7lyoW.png",
+                    "icono": "https://image.tmdb.org/t/p/original/rsOApVLbIQEcNkqSlOxNPyg3FyI.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/hGfEICSgwWyYC9ALkKq3pjfV6jE.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Ya estoy acostumbrado",
+                                    "url": "https://pomf2.lain.la/f/f6581mva.mkv"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Si tuviera otra oportunidad",
+                                    "url": "https://pomf2.lain.la/f/okkiwoz.mkv"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Es como un videojuego",
+                                    "url": "https://pomf2.lain.la/f/mh1pzogn.mkv"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Tengo que hacerme más fuerte",
+                                    "url": "https://pomf2.lain.la/f/ol2kw5vf.mkv"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Un muy buen trato",
+                                    "url": "https://pomf2.lain.la/f/v8n5fvnw.mkv"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Comienza la verdadera caza",
+                                    "url": "https://pomf2.lain.la/f/qlykqh85.mkv"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Veamos hasta dónde puedo llegar",
+                                    "url": "https://pomf2.lain.la/f/ofdt6coj.mkv"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Esto es frustrante",
+                                    "url": "https://pomf2.lain.la/f/h6icygq6.mkv"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Has estado ocultando tus habilidades",
+                                    "url": "https://pomf2.lain.la/f/s06jkzow.mkv"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "¿Qué es esto, un pícnic?",
+                                    "url": "https://pomf2.lain.la/f/h4okg711.mkv"
+                                },
+                                {
+                                    "numero": 11,
+                                    "titulo": "Un caballero defendiendo un trono vacío",
+                                    "url": "https://pomf2.lain.la/f/5726tmnd.mkv"
+                                },
+                                {
+                                    "numero": 12,
+                                    "titulo": "Surge",
+                                    "url": "https://pomf2.lain.la/f/bmifng19.mkv"
+                                }
+                            ]
+                        },
+                        {
+                            "nombre": "Temporada 2",
+                            "numero_temporada": 2,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Tú no eres nivel E, ¿verdad?",
+                                    "url": "https://pomf2.lain.la/f/vijahcs8.mkv"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Parece que tú mismo no lo sabes",
+                                    "url": "https://pomf2.lain.la/f/kofvghjs.mkv"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Aún queda mucho camino",
+                                    "url": "https://pomf2.lain.la/f/ooo1gsn9.mkv"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Tengo que dejar de fingir",
+                                    "url": "https://pomf2.lain.la/f/k09mm0ue.mkv"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Estamos entrenados para esto",
+                                    "url": "https://pomf2.lain.la/f/ofsau1n.mkv"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "No menosprecies a los míos",
+                                    "url": "https://pomf2.lain.la/f/472k3eq0.mkv"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "El décimo Cazador de rango S",
+                                    "url": "https://pomf2.lain.la/f/9ug3dwkg.mkv"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Mirar hacia arriba me estaba cansando",
+                                    "url": "https://pomf2.lain.la/f/ppegz5pz.mkv"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Valió la pena",
+                                    "url": "https://pomf2.lain.la/f/1ss1zfmd.mkv"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Necesitamos un héroe",
+                                    "url": "https://pomf2.lain.la/f/l6gicv.mkv"
+                                },
+                                {
+                                    "numero": 11,
+                                    "titulo": "Se va a poner aún más intenso",
+                                    "url": "https://pomf2.lain.la/f/65mh0qm9.mkv"
+                                },
+                                {
+                                    "numero": 12,
+                                    "titulo": "¿Eres el rey de los humanos?",
+                                    "url": "https://pomf2.lain.la/f/qztunwc1.mkv"
+                                },
+                                {
+                                    "numero": 13,
+                                    "titulo": "Al siguiente objetivo",
+                                    "url": "https://pomf2.lain.la/f/llf1gy5z.mkv"
+                                }
+                            ]
+                        }
+                    ],
+                    "total_seasons": 2,
+                    "tmdb_id": "127532"
                 }
             ]
         }
