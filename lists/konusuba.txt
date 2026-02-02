@@ -1,0 +1,95 @@
+Nombre: Series de Anime
+
+Nombre: Konosuba: God's Blessing on this Wonderful World!
+
+genero: Action & Adventure, Animación, Comedia y Sci-Fi & Fantasy
+
+descripción: Kazuma Satou es un chico de preparatoria otaku y hikikomori que no suele salir de casa, pero cuando lo hace, un fatídico (y ridículo) accidente acaba con su vida. En el otro mundo aparece una diosa ante él y le propone comenzar de nuevo su vida en un mundo de magia y espada, pero las condiciones son un tanto peculiares, así que acabará comenzando de cero como aventurero y acompañado de una diosa.
+
+anio: 2016
+
+iconPng: https://image.tmdb.org/t/p/original/flSXWTGYcyNpUTUxGMPWgTCzGNq.png
+
+icono: https://image.tmdb.org/t/p/original/dakQY8epFc3crOzFuF0IopOmux9.jpg
+
+logohorizontal: https://image.tmdb.org/t/p/original/oaTqv3iYwVcFJ1QLDhJmTZE2kLb.jpg
+
+temporadas
+nombre: temporada 1
+
+tmbdid: 65844
+
+01 ¡La diosa autoproclamada y la reencarnación en otro mundo!
+https://pomf2.lain.la/f/6sl0ainx.mkv
+02 ¡Una explosión de chuunibyou!
+https://pomf2.lain.la/f/sebugfvv.mkv
+03 ¡Con un tesoro en la mano derecha!
+https://pomf2.lain.la/f/jxd123a7.mkv
+04 ¡Magia explosiva contra un enemigo formidable!
+https://pomf2.lain.la/f/fkzv6oe9.mkv
+05 ¡El precio de esta espada maldita!
+https://pomf2.lain.la/f/7i0hq5da.mkv
+06 ¡El final de esta pelea sin sentido!
+https://pomf2.lain.la/f/56293qoe.mkv
+07 ¡Una segunda muerte en la estación gélida!
+https://pomf2.lain.la/f/8s43d3y0.mkv
+08 ¡Una mano caritativa para el grupo que no podrá sobrevivir al invierno!
+https://pomf2.lain.la/f/kti55ba5.mkv
+09 ¡Bendito sea este local maravilloso!
+https://pomf2.lain.la/f/1687p3sn.mkv
+10 ¡Una última llama para esta fortaleza absurda!
+https://pomf2.lain.la/f/d7g2304i.mkv
+11 ¡Bendita sea esta gargantilla maravillosa!
+https://pomf2.lain.la/f/dcaq977s.mkv
+
+nombre: Temporada 2
+
+01 ¡Líbrenme de esta injusticia judicial!
+https://pomf2.lain.la/f/5cmzxw31.mkv
+02 ¡Amistad para la demonio carmesí!
+https://pomf2.lain.la/f/y6idpxqh.mkv
+03 ¡Paz para el amo de este calabozo!
+https://pomf2.lain.la/f/488f5lx0.mkv
+04 ¡Un compromiso para esta hija de noble!
+https://pomf2.lain.la/f/rteb1v14.mkv
+05 Servidumbre para este caballero enmascarado!
+https://pomf2.lain.la/f/83pfgdil.mkv
+06 ¡Adiós a este mundo irritante!
+https://pomf2.lain.la/f/kzoe1qzn.mkv
+07 ¡Una invitación para esta cabeza hueca!
+https://pomf2.lain.la/f/w6hoebqs.mkv
+08 ¡De paseo por esta lamentable ciudad!
+https://pomf2.lain.la/f/lofmt1r7.mkv
+09 ¡Una diosa para esta corrupta ciudad de aguas termales!
+https://pomf2.lain.la/f/7zlq8qq.mkv
+10 ¡Bendito sea este equipo maravilloso!
+https://pomf2.lain.la/f/dyjsbou2.mkv
+11 ¡Benditas sean estas maravillosas obras de arte!
+https://pomf2.lain.la/f/bfwv9m27.mkv
+
+nombre: Temporada 3
+
+01 ¡Brindemos por este brillante futuro!
+https://pomf2.lain.la/f/n95ma7eq.mkv
+02 ¡Una sonrisa para esta niña que no se ríe!
+https://pomf2.lain.la/f/3twtiiat.mkv
+03 ¡Reeducando a esta niña tan lista!
+https://pomf2.lain.la/f/nyv1pu6p.mkv
+04 ¡Castigo divino para este apuesto ladrón!
+https://pomf2.lain.la/f/gtioxwbj.mkv
+05 ¡Malas influencias para esta princesa recluida!
+https://pomf2.lain.la/f/grs9n3ym.mkv
+06 ¡Adiós a esta vida de lujos!
+https://pomf2.lain.la/f/1s4rkfd5.mkv
+07 ¡Un respiro para este aventurero engreído!
+https://pomf2.lain.la/f/yh4fucs3.mkv
+08 ¡Descanso eterno para el señor de este lago!
+https://pomf2.lain.la/f/e9my1hh.mkv
+09 ¡Un sermón para esta fugitiva!
+https://pomf2.lain.la/f/rv7jtmu.mkv
+10 ¡Bendita sea esta novia egoísta!
+https://pomf2.lain.la/f/ov13yc02.mkv
+11 ¡Benditos sean estos días constantes!
+https://pomf2.lain.la/f/cclpjc6b.mkv
+
+

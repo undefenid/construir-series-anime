@@ -1,0 +1,46 @@
+Nombre: Series de Anime
+
+Nombre: Highschool of the Dead
+
+genero: Animación, Action & Adventure, Drama y Sci-Fi & Fantasy
+
+descripción: Un virus mortal transforma a la población mundial en muertos vivientes. Takashi y sus amigos buscan la manera de liberarse de los zombis.
+
+anio: 2010
+
+iconPng: https://image.tmdb.org/t/p/original/iAW17VXRePf56JFmV1aDOoI4ICH.png
+
+icono: https://image.tmdb.org/t/p/original/6CECfqJi60T9eIY5dFSqDswj9pD.jpg
+
+logohorizontal: https://image.tmdb.org/t/p/original/klvkMRyQreY0y2MzIIUWV5yueUg.jpg
+
+temporadas
+nombre: temporada 1
+
+tmbdid: 56998
+
+
+01 Primavera de los muertos.
+https://pomf2.lain.la/f/musu1uu8.mkv
+02 Escape de la muerte.
+https://pomf2.lain.la/f/zyzmod92.mkv
+03 Democracia bajo la muerte.
+https://pomf2.lain.la/f/fxpej9vi.mkv
+04 Corriendo entre los muertos.
+https://pomf2.lain.la/f/1hkmua1a.mkv
+05 Calles de la muerte.
+https://pomf2.lain.la/f/p3h53bbe.mkv
+06 En la muerte de la noche.
+https://pomf2.lain.la/f/oygo6zef.mkv
+07 Noche de los muertos y multidud de muertos.
+https://pomf2.lain.la/f/bck7ezmn.mkv
+08 El camino muerto a casa.
+https://pomf2.lain.la/f/wog8xwrm.mkv
+09  La espada y la muerte.
+https://pomf2.lain.la/f/4mnp5ztp.mkv
+10 Reglas en la casa de los muertos.
+https://pomf2.lain.la/f/ma1x8bni.mkv
+11 Creciente tormenta de muertos.
+https://pomf2.lain.la/f/2f5mxn5c.mkv
+12 El ataque de todos los muertos.
+https://pomf2.lain.la/f/ouddgz80.mkv

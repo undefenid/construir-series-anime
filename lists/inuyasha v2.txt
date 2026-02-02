@@ -1,0 +1,357 @@
+Nombre: Series de Anime
+
+Nombre: Inuyasha
+
+genero: Animación, Sci-Fi & Fantasy, Action & Adventure, Comedia, Misterio
+
+descripción: Kagome Higurashi es una joven moderna que vive con su familia en el antiguo santuario de Higure. Sin saberlo a Kagome, ella es la reencarnación de la sacerdotisa Kikyo y posee la "joya de cuatro almas" (la joya de Shikon). Un mal día, Kagome localiza un antiguo pozo cerca de su casa y es transportado abruptamente a través del pozo y en un Japón feudal, habitado por demonios. Allí, se encuentra con Inuyasha, hijo de un poderoso padre demoníaco y una madre humana, que está atrapada en un árbol por una flecha encantada.
+
+anio: 2000
+
+iconPng: https://image.tmdb.org/t/p/original/nwjy8l3YlOJr48YrtmgG6YTpK81.png
+
+icono: https://image.tmdb.org/t/p/original/mxiMX71ZUDYRYZYer4PVm8SnO7U.jpg
+
+logohorizontal: https://image.tmdb.org/t/p/original/mVE1ULmLaYhCkBQPt3JC5xZC6T6.jpg
+
+temporadas
+nombre: temporada 1
+
+tmbdid: 35610
+
+
+
+01 La joven que cruzó la barrera del tiempo
+https://pomf2.lain.la/f/6i2b9apj.mkv
+02 Seres en busca de la perla de Shikon
+https://pomf2.lain.la/f/vmg006u.mkv
+03 El regreso de Kagome
+https://pomf2.lain.la/f/45rfmigs.mkv
+04 Yura, el demonio de los cabellos
+https://pomf2.lain.la/f/y7mumbp.mkv
+05 El malvado Sesshoumaru
+https://pomf2.lain.la/f/9wb9870h.mkv
+06 La misteriosa espada Colmillo de Acero
+https://pomf2.lain.la/f/ke21pr35.mkv
+07 Sesshoumaru contra el Colmillo de Acero
+https://pomf2.lain.la/f/oq9fv2gz.mkv
+08 El sapo Tsukumo
+https://pomf2.lain.la/f/xf75nd9b.mkv
+09 El pequeño Shippo y los hermanos Relámpago
+https://pomf2.lain.la/f/coafsp9s.mkv
+10 La espada Relámpago contra el Colmillo de Acero
+https://pomf2.lain.la/f/3ykeoam.mkv
+11 La máscara maldita
+https://pomf2.lain.la/f/6i16nm5o.mkv
+12 Un espíritu perverso
+https://pomf2.lain.la/f/n99a3c18.mkv
+13 El misterio de la luna nueva
+https://pomf2.lain.la/f/92ospss9.mkv
+14 Los restos de Kikyou son robados
+https://pomf2.lain.la/f/u50si0cp.mkv
+15 Kikyou resucita
+https://pomf2.lain.la/f/utjxb4wc.mkv
+16 Miroku, un monje muy peculiar
+https://pomf2.lain.la/f/gsd0go2h.mkv
+17 Un pintor del infierno (resumen alterno disponible)
+https://pomf2.lain.la/f/y8s9noz.mkv
+18 Naraku y Sesshoumaru se unen
+https://pomf2.lain.la/f/5iie9x7.mkv
+19 Kagome regresa a su época
+https://pomf2.lain.la/f/3773n6bh.mkv
+20 El misterio de Onigumo
+https://pomf2.lain.la/f/gh8u6s3y.mkv
+21 El secreto de Naraku
+https://pomf2.lain.la/f/c6ismas0.mkv
+22 Las almas de Kikyou
+https://pomf2.lain.la/f/t9pkbwpl.mkv
+23 La voz de Kagome y el beso de Kikyou
+https://pomf2.lain.la/f/7cfmf11.mkv
+24 La exterminadora de monstruos
+https://pomf2.lain.la/f/wexizpg9.mkv
+25 El engaño de Naraku
+https://pomf2.lain.la/f/s6x1128.mkv
+26 El secreto de Shikón
+https://pomf2.lain.la/f/1s2jsz3.mkv
+27 El espíritu maligno del agua
+https://pomf2.lain.la/f/92kztr2v.mkv
+28 Miroku cae en una cruel trampa
+https://pomf2.lain.la/f/aokcer75.mkv
+29 El sufrimiento de Sango y la vida de Kohaku
+https://pomf2.lain.la/f/a2a18zs7.mkv
+30 El robo del colmillo de acero
+https://pomf2.lain.la/f/9v1yhg3i.mkv
+31 Un monstruo amigable
+https://pomf2.lain.la/f/apyge9h.mkv
+32 Inu Yasha y Kikyou quedan atrapados
+https://pomf2.lain.la/f/gfuxe09z.mkv
+33 Kikyou es secuestrada
+https://pomf2.lain.la/f/bevfo1.mkv
+34 Colmillo de Acero y Colmillo Sagrado
+https://pomf2.lain.la/f/z0azxxw2.mkv
+35 La espada elige a su verdadero dueño
+https://pomf2.lain.la/f/e3kcy9ri.mkv
+36 Kouga el veloz
+https://pomf2.lain.la/f/b9zry3qn.mkv
+37 El chico que se enamoró de Kagome
+https://pomf2.lain.la/f/5cefr7h3.mkv
+38 Un sentimiento compartido
+https://pomf2.lain.la/f/f3kbezfd.mkv
+39 Un combate arreglado
+https://pomf2.lain.la/f/h2ivvu29.mkv
+40 Kagura, el espíritu de los vientos
+https://pomf2.lain.la/f/nzjaymfg.mkv
+41 La danza de Kagura y el espejo de Kanna
+https://pomf2.lain.la/f/ijsywhlh.mkv
+42 El viento cortante es vencido
+https://pomf2.lain.la/f/o5hm5mm.mkv
+43 Colmillo de acero se rompe
+https://pomf2.lain.la/f/txz3gwk.mkv
+44 La espada maligna de Kaijimbou
+https://pomf2.lain.la/f/02li1bl2.mkv
+45 Sesshoumaru se apodera de Tokiyin
+https://pomf2.lain.la/f/e38r19.mkv
+46 Jurumaru y Kageromaru
+https://pomf2.lain.la/f/ezxzu4hy.mkv
+47 El corazón de Onigumo
+https://pomf2.lain.la/f/lm0h6lvw.mkv
+48 El lugar en donde nos conocimos
+https://pomf2.lain.la/f/i0c8ielr.mkv
+49 Kohaku pierde la memoria
+https://pomf2.lain.la/f/2frthtjh.mkv
+50 El rostro de Kohaku
+https://pomf2.lain.la/f/fj7qq44.mkv
+51 Inu Yasha pierde el control
+https://pomf2.lain.la/f/o08smipf.mkv
+52 El instinto de bestia no se detiene
+https://pomf2.lain.la/f/0kro7ri.mkv
+53 El enemigo de mi padre, el espíritu dragón
+https://pomf2.lain.la/f/6i69r7bc.mkv
+54 La técnica secreta de colmillo de acero, bakuryuha
+https://pomf2.lain.la/f/q4sp2a2.mkv
+55 El primer amor de Shippo
+https://pomf2.lain.la/f/4b2gbsmj.mkv
+56 La invitación misteriosa de una princesa
+https://pomf2.lain.la/f/3b78zll.mkv
+57 Una noche en un paraíso extraño - primera parte
+https://pomf2.lain.la/f/w6prua0c.mkv
+58 Una noche en un paraíso extraño - segunda parte
+https://pomf2.lain.la/f/j3ng5nyg.mkv
+59 Las niñas discípulas.
+https://pomf2.lain.la/f/eun1fv3l.mkv
+60 Tsubaki, la sacerdotisa mala
+https://pomf2.lain.la/f/k2bc6an.mkv
+61 Kikyo reaparece
+https://pomf2.lain.la/f/4vaaoqqx.mkv
+62 La cruel maldición de Tsubaki
+https://pomf2.lain.la/f/cr0rvf.mkv
+63 Unas aprendices inocentes
+https://pomf2.lain.la/f/6nk5zcxu.mkv
+64 El demonio de la pagoda
+https://pomf2.lain.la/f/j24m3co.mkv
+65 Adiós a mi hermosa juventud
+https://pomf2.lain.la/f/01y7lwhv.mkv
+66 La decisión de Kagura
+https://pomf2.lain.la/f/ixc0h62a.mkv
+67 El viento de la traición se desata
+https://pomf2.lain.la/f/h9hat6.mkv
+68 El desafío de Shippo
+https://pomf2.lain.la/f/z50eai6d.mkv
+69 El terrible hombre sin rostro
+https://pomf2.lain.la/f/bqemdw0t.mkv
+70 Los recuerdos de Onigumo son recuperados
+https://pomf2.lain.la/f/bfkpup03.mkv
+71 Un combate mortal
+https://pomf2.lain.la/f/32ipf0h.mkv
+72 El entrenamiento de Totosai
+https://pomf2.lain.la/f/hf1dspjf.mkv
+73 Los hombres murciélago
+https://pomf2.lain.la/f/rohd46rh.mkv
+74 Colmillo de acero destruye el campo de energía
+https://pomf2.lain.la/f/o929kxsi.mkv
+75 El complot de los gatos leopardo
+https://pomf2.lain.la/f/ladvza7z.mkv
+76 Inu Yasha y Sesshoumaru, un blanco fácil
+https://pomf2.lain.la/f/oqcz75bu.mkv
+77 Los gatos leopardo contra las dos espadas Colmillo
+https://pomf2.lain.la/f/2zo3sxec.mkv
+78 Solamente tú y yo
+https://pomf2.lain.la/f/4ga3l2f4.mkv
+79 Jaken intenta robar a colmillo de acero
+https://pomf2.lain.la/f/j9e1kqiq.mkv
+80 Lin (Rin) es secuestrada
+https://pomf2.lain.la/f/3o4tyce4.mkv
+81 Naraku desaparece
+https://pomf2.lain.la/f/h8xj4wgr.mkv
+82 Conexión de la época actual con la antigüa
+https://pomf2.lain.la/f/dvngq1sg.mkv
+83 La promesa debajo del Arcoiris Lunar
+https://pomf2.lain.la/f/mayxmuiq.mkv
+84 La novia de Kouga, el lobo veloz
+https://pomf2.lain.la/f/xpnkt00x.mkv
+85 La cabeza del ogro
+https://pomf2.lain.la/f/mq3tc6l.mkv
+86 El refugio del ogro
+https://pomf2.lain.la/f/69xz492m.mkv
+87 Kikyou y el viajero solitario
+https://pomf2.lain.la/f/c2tw3461.mkv
+88 Los tres guardianes del dios mono
+https://pomf2.lain.la/f/rdrioih.mkv
+89 Una competencia de remedios medicinales
+https://pomf2.lain.la/f/hu7e07yy.mkv
+90 La confesión de Souta
+https://pomf2.lain.la/f/ft0rqkjk.mkv
+91 Una Kirara maligna y un adivino sospechoso
+https://pomf2.lain.la/f/050yszha.mkv
+92 La ambición de los resucitados
+https://pomf2.lain.la/f/oxwl783.mkv
+93 Un misterioso monje aparece
+https://pomf2.lain.la/f/32usa8bc.mkv
+94 El creador de la perla de Shikon - primera parte
+https://pomf2.lain.la/f/zjy6jtun.mkv
+95 El creador de la perla de Shikon - segunda parte
+https://pomf2.lain.la/f/nck92ir0.mkv
+96 Jaken se envenena
+https://pomf2.lain.la/f/fu7aox1u.mkv
+97 Kirara no regresa
+https://pomf2.lain.la/f/6nc92eti.mkv
+98 Kagome y Kikyou quedan atrapadas
+https://pomf2.lain.la/f/tybg7xvb.mkv
+99 Kouga y Sesshoumaru, un enfrentamiento peligroso
+https://pomf2.lain.la/f/upkdbja4.mkv
+100 La batalla en el bosque de los lamentos
+https://pomf2.lain.la/f/1g1rd0h5.mkv
+101 El recuerdo de una tormenta
+https://pomf2.lain.la/f/c5ev0w4n.mkv
+102 El espíritu que atacó al clan lobo
+https://pomf2.lain.la/f/yyd4jai.mkv
+103 Los siete espíritus guerreros resucitan
+https://pomf2.lain.la/f/6u6ctepd.mkv
+104 El espíritu del veneno
+https://pomf2.lain.la/f/uz297yy1.mkv
+105 La extraña arma plegadiza de acero.
+https://pomf2.lain.la/f/vk8wyrn0.mkv
+106 Kagome, Miroku y Sango en peligro
+https://pomf2.lain.la/f/2resbt2w.mkv
+107 La lagrimas de inuyasha se demuestran por primera vez!
+https://pomf2.lain.la/f/kfxlh6r9.mkv
+108 El secreto de la luz pura
+https://pomf2.lain.la/f/gpvom70.mkv
+109 Cabeza para Mt Hakurei, escondido en la niebla
+https://pomf2.lain.la/f/4p3hetmf.mkv
+110 Bankotsu, el lider del Shichinintai
+https://pomf2.lain.la/f/jh7bpw1m.mkv
+111 Duelo! Banryu contra Kaze no kizu
+https://pomf2.lain.la/f/t4606gc6.mkv
+112 El escudo de la isla Hijiri que flota en la superficie del lago
+https://pomf2.lain.la/f/xav2nyx.mkv
+113 Los secretos de un santo Tokko y un Sokushin-butsu
+https://pomf2.lain.la/f/6c0fmh1h.mkv
+114 La solitaria batalla de Kouga
+https://pomf2.lain.la/f/az6zz7at.mkv
+115 El trago de la luz negra
+https://pomf2.lain.la/f/e0qcjbyd.mkv
+116 La cara verdadera de Suikotsu
+https://pomf2.lain.la/f/lj06ww3g.mkv
+117 Una persona desaparecida en el rio ardiente
+https://pomf2.lain.la/f/zith3o74.mkv
+118 El corazon de Hakurei
+https://pomf2.lain.la/f/wcufe1fh.mkv
+119 Un divino y malisioso Santo
+https://pomf2.lain.la/f/9cededb7.mkv
+120 Un adios para Jakotsu
+https://pomf2.lain.la/f/c62gyd82.mkv
+121 Batalla, El mas fuerte y ultimo Shichinin-Tai
+https://pomf2.lain.la/f/js47qbw9.mkv
+122 El combate final
+https://pomf2.lain.la/f/zs5csb1.mkv
+123 Naraku renace de la oscuridad
+https://pomf2.lain.la/f/zk2u083o.mkv
+124 Adios, Mi adorable Kikyou
+https://pomf2.lain.la/f/ebct67p3.mkv
+125 Oscuridad en el corazon de Aome
+https://pomf2.lain.la/f/uo534ws.mkv
+126 Cambia la Angustia en valor
+https://pomf2.lain.la/f/gph7dtb0.mkv
+127 No despiertes el mounstro en ti youkai
+https://pomf2.lain.la/f/xornre0.mkv
+128 El youkai y la pelea en el festival de la escuela
+https://pomf2.lain.la/f/5bxd6w79.mkv
+129 Cho Kyukai y la novia pillada
+https://pomf2.lain.la/f/vu3eutzj.mkv
+130 Shipo en la escuela de Lucha Arcanum "Kokoro no Kizu"
+https://pomf2.lain.la/f/bopcsc1z.mkv
+131 La pintura de Kanon
+https://pomf2.lain.la/f/6ny3m5f.mkv
+132 La confecin mas peligrosa de Miroku
+https://pomf2.lain.la/f/1gtzzi2g.mkv
+133 La mujer que amaba a Sesshomaru (1)
+https://pomf2.lain.la/f/lass5lr0.mkv
+134 La mujer que amaba a Sesshomaru (2)
+https://pomf2.lain.la/f/q8d12e8r.mkv
+135 El ultimo banquete de Miroku
+https://pomf2.lain.la/f/9mdk3658.mkv
+136 El extraño yukai invisible Aparese
+https://pomf2.lain.la/f/3bdbvmm0.mkv
+137 El nombre del antepasado es Kagome
+https://pomf2.lain.la/f/uzuocyke.mkv
+138 La Supervivencia de las dos personas en la islas de los demonios
+https://pomf2.lain.la/f/zhkk1397.mkv
+139 Un gran duelo en la cascada Sho´un
+https://pomf2.lain.la/f/xco21fm.mkv
+140 Sentimientos Eternos
+https://pomf2.lain.la/f/ildjx6c6.mkv
+141 EL caballo demonio, Entei
+https://pomf2.lain.la/f/r6oh2y7f.mkv
+142 Corre Entei y bloquea a Hakudoushi
+https://pomf2.lain.la/f/p3h75krn.mkv
+143 3000 ligas en busca del padre
+https://pomf2.lain.la/f/rn09dn7f.mkv
+144 Housenqui y el secreto final
+https://pomf2.lain.la/f/bokzx6ny.mkv
+145 Obstruciones estrañas en la puerta del otro mundo
+https://pomf2.lain.la/f/1grlaqi4.mkv
+146 EL salvaje pajaro, Abi
+https://pomf2.lain.la/f/fr4z3m3.mkv
+147 Una hermosa cancion antes de conocernos (1) Lista de Capitulos de Inuyasha Smile Mi favorito
+https://pomf2.lain.la/f/7c4jztpc.mkv
+148 Una hermosa cancion antes de conocernos (2)
+https://pomf2.lain.la/f/25vtcyi.mkv
+149 Un simple flecha Llamando al problema
+https://pomf2.lain.la/f/mhf9q1bu.mkv
+150 La luz que conduce al Santo
+https://pomf2.lain.la/f/ds9nu0.mkv
+151 La descicion instintiva de Aome
+https://pomf2.lain.la/f/yv8norsu.mkv
+152 Protector y Salvador
+https://pomf2.lain.la/f/qd4bqbxn.mkv
+153 El destino reune una cruel reunion
+https://pomf2.lain.la/f/nngxhbby.mkv
+154 Le demonio que viaja al otro tiempo
+https://pomf2.lain.la/f/bw3u6cd3.mkv
+155 El demonio que guarda el secreto de la Shikon
+https://pomf2.lain.la/f/w71nzl7n.mkv
+156 La batalla antes de la tumba- Sesshomaru vs InuYasha
+https://pomf2.lain.la/f/kxz1bw16.mkv
+157 A travez de Naraku
+https://pomf2.lain.la/f/p06lao4.mkv
+158 La estanpida incontable de los ratones demonio
+https://pomf2.lain.la/f/l299a02a.mkv
+159 La resolucion de Kohaku y el corazon de Sango
+https://pomf2.lain.la/f/0pan6vyl.mkv
+160 El violento demonio que trae felicidad
+https://pomf2.lain.la/f/wv601vd.mkv
+161 La vieja amistad de Miroku
+https://pomf2.lain.la/f/jc9vi13y.mkv
+162 Juntos con el Señor Sesshomaru para siempre
+https://pomf2.lain.la/f/hboanyw.mkv
+163 El secreto del jardin-Sango, Kirara y Kohaku
+https://pomf2.lain.la/f/l8uoks4.mkv
+164 El enemigo mas poderoso
+https://pomf2.lain.la/f/8ac7jm31.mkv
+165 La mejor pista para derrotar a Naraku
+https://pomf2.lain.la/f/ah9ennzc.mkv
+166 La pareja se une, usa el Fragmento de Shikon (1)
+https://pomf2.lain.la/f/mxxrev4q.mkv
+167 La pareja se une, usa el Fragmento de Shikon(2)
+https://pomf2.lain.la/f/edtw95u9.mkv
