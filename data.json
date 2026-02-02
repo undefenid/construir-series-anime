@@ -12597,6 +12597,1135 @@
                     ],
                     "total_seasons": 2,
                     "tmdb_id": "127532"
+                },
+                {
+                    "nombre": "Highschool of the Dead",
+                    "genero": "Animación, Action & Adventure, Drama y Sci-Fi & Fantasy",
+                    "descripcion": "Un virus mortal transforma a la población mundial en muertos vivientes. Takashi y sus amigos buscan la manera de liberarse de los zombis.",
+                    "anio": "2010",
+                    "iconPng": "https://image.tmdb.org/t/p/original/iAW17VXRePf56JFmV1aDOoI4ICH.png",
+                    "icono": "https://image.tmdb.org/t/p/original/6CECfqJi60T9eIY5dFSqDswj9pD.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/klvkMRyQreY0y2MzIIUWV5yueUg.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Primavera de los muertos.",
+                                    "url": "https://pomf2.lain.la/f/musu1uu8.mkv"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Escape de la muerte.",
+                                    "url": "https://pomf2.lain.la/f/zyzmod92.mkv"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Democracia bajo la muerte.",
+                                    "url": "https://pomf2.lain.la/f/fxpej9vi.mkv"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Corriendo entre los muertos.",
+                                    "url": "https://pomf2.lain.la/f/1hkmua1a.mkv"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Calles de la muerte.",
+                                    "url": "https://pomf2.lain.la/f/p3h53bbe.mkv"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "En la muerte de la noche.",
+                                    "url": "https://pomf2.lain.la/f/oygo6zef.mkv"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Noche de los muertos y multidud de muertos.",
+                                    "url": "https://pomf2.lain.la/f/bck7ezmn.mkv"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "El camino muerto a casa.",
+                                    "url": "https://pomf2.lain.la/f/wog8xwrm.mkv"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "La espada y la muerte.",
+                                    "url": "https://pomf2.lain.la/f/4mnp5ztp.mkv"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Reglas en la casa de los muertos.",
+                                    "url": "https://pomf2.lain.la/f/ma1x8bni.mkv"
+                                },
+                                {
+                                    "numero": 11,
+                                    "titulo": "Creciente tormenta de muertos.",
+                                    "url": "https://pomf2.lain.la/f/2f5mxn5c.mkv"
+                                },
+                                {
+                                    "numero": 12,
+                                    "titulo": "El ataque de todos los muertos.",
+                                    "url": "https://pomf2.lain.la/f/ouddgz80.mkv"
+                                }
+                            ]
+                        }
+                    ],
+                    "total_seasons": 1,
+                    "tmdb_id": "56998"
+                },
+                {
+                    "nombre": "Konosuba: God's Blessing on this Wonderful World!",
+                    "genero": "Action & Adventure, Animación, Comedia y Sci-Fi & Fantasy",
+                    "descripcion": "Kazuma Satou es un chico de preparatoria otaku y hikikomori que no suele salir de casa, pero cuando lo hace, un fatídico (y ridículo) accidente acaba con su vida. En el otro mundo aparece una diosa ante él y le propone comenzar de nuevo su vida en un mundo de magia y espada, pero las condiciones son un tanto peculiares, así que acabará comenzando de cero como aventurero y acompañado de una diosa.",
+                    "anio": "2016",
+                    "iconPng": "https://image.tmdb.org/t/p/original/flSXWTGYcyNpUTUxGMPWgTCzGNq.png",
+                    "icono": "https://image.tmdb.org/t/p/original/dakQY8epFc3crOzFuF0IopOmux9.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/oaTqv3iYwVcFJ1QLDhJmTZE2kLb.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "¡La diosa autoproclamada y la reencarnación en otro mundo!",
+                                    "url": "https://pomf2.lain.la/f/6sl0ainx.mkv"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "¡Una explosión de chuunibyou!",
+                                    "url": "https://pomf2.lain.la/f/sebugfvv.mkv"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "¡Con un tesoro en la mano derecha!",
+                                    "url": "https://pomf2.lain.la/f/jxd123a7.mkv"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "¡Magia explosiva contra un enemigo formidable!",
+                                    "url": "https://pomf2.lain.la/f/fkzv6oe9.mkv"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "¡El precio de esta espada maldita!",
+                                    "url": "https://pomf2.lain.la/f/7i0hq5da.mkv"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "¡El final de esta pelea sin sentido!",
+                                    "url": "https://pomf2.lain.la/f/56293qoe.mkv"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "¡Una segunda muerte en la estación gélida!",
+                                    "url": "https://pomf2.lain.la/f/8s43d3y0.mkv"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "¡Una mano caritativa para el grupo que no podrá sobrevivir al invierno!",
+                                    "url": "https://pomf2.lain.la/f/kti55ba5.mkv"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "¡Bendito sea este local maravilloso!",
+                                    "url": "https://pomf2.lain.la/f/1687p3sn.mkv"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "¡Una última llama para esta fortaleza absurda!",
+                                    "url": "https://pomf2.lain.la/f/d7g2304i.mkv"
+                                },
+                                {
+                                    "numero": 11,
+                                    "titulo": "¡Bendita sea esta gargantilla maravillosa!",
+                                    "url": "https://pomf2.lain.la/f/dcaq977s.mkv"
+                                }
+                            ]
+                        },
+                        {
+                            "nombre": "Temporada 2",
+                            "numero_temporada": 2,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "¡Líbrenme de esta injusticia judicial!",
+                                    "url": "https://pomf2.lain.la/f/5cmzxw31.mkv"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "¡Amistad para la demonio carmesí!",
+                                    "url": "https://pomf2.lain.la/f/y6idpxqh.mkv"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "¡Paz para el amo de este calabozo!",
+                                    "url": "https://pomf2.lain.la/f/488f5lx0.mkv"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "¡Un compromiso para esta hija de noble!",
+                                    "url": "https://pomf2.lain.la/f/rteb1v14.mkv"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Servidumbre para este caballero enmascarado!",
+                                    "url": "https://pomf2.lain.la/f/83pfgdil.mkv"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "¡Adiós a este mundo irritante!",
+                                    "url": "https://pomf2.lain.la/f/kzoe1qzn.mkv"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "¡Una invitación para esta cabeza hueca!",
+                                    "url": "https://pomf2.lain.la/f/w6hoebqs.mkv"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "¡De paseo por esta lamentable ciudad!",
+                                    "url": "https://pomf2.lain.la/f/lofmt1r7.mkv"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "¡Una diosa para esta corrupta ciudad de aguas termales!",
+                                    "url": "https://pomf2.lain.la/f/7zlq8qq.mkv"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "¡Bendito sea este equipo maravilloso!",
+                                    "url": "https://pomf2.lain.la/f/dyjsbou2.mkv"
+                                },
+                                {
+                                    "numero": 11,
+                                    "titulo": "¡Benditas sean estas maravillosas obras de arte!",
+                                    "url": "https://pomf2.lain.la/f/bfwv9m27.mkv"
+                                }
+                            ]
+                        },
+                        {
+                            "nombre": "Temporada 3",
+                            "numero_temporada": 3,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "¡Brindemos por este brillante futuro!",
+                                    "url": "https://pomf2.lain.la/f/n95ma7eq.mkv"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "¡Una sonrisa para esta niña que no se ríe!",
+                                    "url": "https://pomf2.lain.la/f/3twtiiat.mkv"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "¡Reeducando a esta niña tan lista!",
+                                    "url": "https://pomf2.lain.la/f/nyv1pu6p.mkv"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "¡Castigo divino para este apuesto ladrón!",
+                                    "url": "https://pomf2.lain.la/f/gtioxwbj.mkv"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "¡Malas influencias para esta princesa recluida!",
+                                    "url": "https://pomf2.lain.la/f/grs9n3ym.mkv"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "¡Adiós a esta vida de lujos!",
+                                    "url": "https://pomf2.lain.la/f/1s4rkfd5.mkv"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "¡Un respiro para este aventurero engreído!",
+                                    "url": "https://pomf2.lain.la/f/yh4fucs3.mkv"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "¡Descanso eterno para el señor de este lago!",
+                                    "url": "https://pomf2.lain.la/f/e9my1hh.mkv"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "¡Un sermón para esta fugitiva!",
+                                    "url": "https://pomf2.lain.la/f/rv7jtmu.mkv"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "¡Bendita sea esta novia egoísta!",
+                                    "url": "https://pomf2.lain.la/f/ov13yc02.mkv"
+                                },
+                                {
+                                    "numero": 11,
+                                    "titulo": "¡Benditos sean estos días constantes!",
+                                    "url": "https://pomf2.lain.la/f/cclpjc6b.mkv"
+                                }
+                            ]
+                        }
+                    ],
+                    "total_seasons": 3,
+                    "tmdb_id": "65844"
+                },
+                {
+                    "nombre": "Inuyasha",
+                    "genero": "Animación, Sci-Fi & Fantasy, Action & Adventure, Comedia, Misterio",
+                    "descripcion": "Kagome Higurashi es una joven moderna que vive con su familia en el antiguo santuario de Higure. Sin saberlo a Kagome, ella es la reencarnación de la sacerdotisa Kikyo y posee la \"joya de cuatro almas\" (la joya de Shikon). Un mal día, Kagome localiza un antiguo pozo cerca de su casa y es transportado abruptamente a través del pozo y en un Japón feudal, habitado por demonios. Allí, se encuentra con Inuyasha, hijo de un poderoso padre demoníaco y una madre humana, que está atrapada en un árbol por una flecha encantada.",
+                    "anio": "2000",
+                    "iconPng": "https://image.tmdb.org/t/p/original/nwjy8l3YlOJr48YrtmgG6YTpK81.png",
+                    "icono": "https://image.tmdb.org/t/p/original/mxiMX71ZUDYRYZYer4PVm8SnO7U.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/mVE1ULmLaYhCkBQPt3JC5xZC6T6.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "La joven que cruzó la barrera del tiempo",
+                                    "url": "https://pomf2.lain.la/f/6i2b9apj.mkv"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Seres en busca de la perla de Shikon",
+                                    "url": "https://pomf2.lain.la/f/vmg006u.mkv"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "El regreso de Kagome",
+                                    "url": "https://pomf2.lain.la/f/45rfmigs.mkv"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Yura, el demonio de los cabellos",
+                                    "url": "https://pomf2.lain.la/f/y7mumbp.mkv"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "El malvado Sesshoumaru",
+                                    "url": "https://pomf2.lain.la/f/9wb9870h.mkv"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "La misteriosa espada Colmillo de Acero",
+                                    "url": "https://pomf2.lain.la/f/ke21pr35.mkv"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Sesshoumaru contra el Colmillo de Acero",
+                                    "url": "https://pomf2.lain.la/f/oq9fv2gz.mkv"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "El sapo Tsukumo",
+                                    "url": "https://pomf2.lain.la/f/xf75nd9b.mkv"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "El pequeño Shippo y los hermanos Relámpago",
+                                    "url": "https://pomf2.lain.la/f/coafsp9s.mkv"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "La espada Relámpago contra el Colmillo de Acero",
+                                    "url": "https://pomf2.lain.la/f/3ykeoam.mkv"
+                                },
+                                {
+                                    "numero": 11,
+                                    "titulo": "La máscara maldita",
+                                    "url": "https://pomf2.lain.la/f/6i16nm5o.mkv"
+                                },
+                                {
+                                    "numero": 12,
+                                    "titulo": "Un espíritu perverso",
+                                    "url": "https://pomf2.lain.la/f/n99a3c18.mkv"
+                                },
+                                {
+                                    "numero": 13,
+                                    "titulo": "El misterio de la luna nueva",
+                                    "url": "https://pomf2.lain.la/f/92ospss9.mkv"
+                                },
+                                {
+                                    "numero": 14,
+                                    "titulo": "Los restos de Kikyou son robados",
+                                    "url": "https://pomf2.lain.la/f/u50si0cp.mkv"
+                                },
+                                {
+                                    "numero": 15,
+                                    "titulo": "Kikyou resucita",
+                                    "url": "https://pomf2.lain.la/f/utjxb4wc.mkv"
+                                },
+                                {
+                                    "numero": 16,
+                                    "titulo": "Miroku, un monje muy peculiar",
+                                    "url": "https://pomf2.lain.la/f/gsd0go2h.mkv"
+                                },
+                                {
+                                    "numero": 17,
+                                    "titulo": "Un pintor del infierno (resumen alterno disponible)",
+                                    "url": "https://pomf2.lain.la/f/y8s9noz.mkv"
+                                },
+                                {
+                                    "numero": 18,
+                                    "titulo": "Naraku y Sesshoumaru se unen",
+                                    "url": "https://pomf2.lain.la/f/5iie9x7.mkv"
+                                },
+                                {
+                                    "numero": 19,
+                                    "titulo": "Kagome regresa a su época",
+                                    "url": "https://pomf2.lain.la/f/3773n6bh.mkv"
+                                },
+                                {
+                                    "numero": 20,
+                                    "titulo": "El misterio de Onigumo",
+                                    "url": "https://pomf2.lain.la/f/gh8u6s3y.mkv"
+                                },
+                                {
+                                    "numero": 21,
+                                    "titulo": "El secreto de Naraku",
+                                    "url": "https://pomf2.lain.la/f/c6ismas0.mkv"
+                                },
+                                {
+                                    "numero": 22,
+                                    "titulo": "Las almas de Kikyou",
+                                    "url": "https://pomf2.lain.la/f/t9pkbwpl.mkv"
+                                },
+                                {
+                                    "numero": 23,
+                                    "titulo": "La voz de Kagome y el beso de Kikyou",
+                                    "url": "https://pomf2.lain.la/f/7cfmf11.mkv"
+                                },
+                                {
+                                    "numero": 24,
+                                    "titulo": "La exterminadora de monstruos",
+                                    "url": "https://pomf2.lain.la/f/wexizpg9.mkv"
+                                },
+                                {
+                                    "numero": 25,
+                                    "titulo": "El engaño de Naraku",
+                                    "url": "https://pomf2.lain.la/f/s6x1128.mkv"
+                                },
+                                {
+                                    "numero": 26,
+                                    "titulo": "El secreto de Shikón",
+                                    "url": "https://pomf2.lain.la/f/1s2jsz3.mkv"
+                                },
+                                {
+                                    "numero": 27,
+                                    "titulo": "El espíritu maligno del agua",
+                                    "url": "https://pomf2.lain.la/f/92kztr2v.mkv"
+                                },
+                                {
+                                    "numero": 28,
+                                    "titulo": "Miroku cae en una cruel trampa",
+                                    "url": "https://pomf2.lain.la/f/aokcer75.mkv"
+                                },
+                                {
+                                    "numero": 29,
+                                    "titulo": "El sufrimiento de Sango y la vida de Kohaku",
+                                    "url": "https://pomf2.lain.la/f/a2a18zs7.mkv"
+                                },
+                                {
+                                    "numero": 30,
+                                    "titulo": "El robo del colmillo de acero",
+                                    "url": "https://pomf2.lain.la/f/9v1yhg3i.mkv"
+                                },
+                                {
+                                    "numero": 31,
+                                    "titulo": "Un monstruo amigable",
+                                    "url": "https://pomf2.lain.la/f/apyge9h.mkv"
+                                },
+                                {
+                                    "numero": 32,
+                                    "titulo": "Inu Yasha y Kikyou quedan atrapados",
+                                    "url": "https://pomf2.lain.la/f/gfuxe09z.mkv"
+                                },
+                                {
+                                    "numero": 33,
+                                    "titulo": "Kikyou es secuestrada",
+                                    "url": "https://pomf2.lain.la/f/bevfo1.mkv"
+                                },
+                                {
+                                    "numero": 34,
+                                    "titulo": "Colmillo de Acero y Colmillo Sagrado",
+                                    "url": "https://pomf2.lain.la/f/z0azxxw2.mkv"
+                                },
+                                {
+                                    "numero": 35,
+                                    "titulo": "La espada elige a su verdadero dueño",
+                                    "url": "https://pomf2.lain.la/f/e3kcy9ri.mkv"
+                                },
+                                {
+                                    "numero": 36,
+                                    "titulo": "Kouga el veloz",
+                                    "url": "https://pomf2.lain.la/f/b9zry3qn.mkv"
+                                },
+                                {
+                                    "numero": 37,
+                                    "titulo": "El chico que se enamoró de Kagome",
+                                    "url": "https://pomf2.lain.la/f/5cefr7h3.mkv"
+                                },
+                                {
+                                    "numero": 38,
+                                    "titulo": "Un sentimiento compartido",
+                                    "url": "https://pomf2.lain.la/f/f3kbezfd.mkv"
+                                },
+                                {
+                                    "numero": 39,
+                                    "titulo": "Un combate arreglado",
+                                    "url": "https://pomf2.lain.la/f/h2ivvu29.mkv"
+                                },
+                                {
+                                    "numero": 40,
+                                    "titulo": "Kagura, el espíritu de los vientos",
+                                    "url": "https://pomf2.lain.la/f/nzjaymfg.mkv"
+                                },
+                                {
+                                    "numero": 41,
+                                    "titulo": "La danza de Kagura y el espejo de Kanna",
+                                    "url": "https://pomf2.lain.la/f/ijsywhlh.mkv"
+                                },
+                                {
+                                    "numero": 42,
+                                    "titulo": "El viento cortante es vencido",
+                                    "url": "https://pomf2.lain.la/f/o5hm5mm.mkv"
+                                },
+                                {
+                                    "numero": 43,
+                                    "titulo": "Colmillo de acero se rompe",
+                                    "url": "https://pomf2.lain.la/f/txz3gwk.mkv"
+                                },
+                                {
+                                    "numero": 44,
+                                    "titulo": "La espada maligna de Kaijimbou",
+                                    "url": "https://pomf2.lain.la/f/02li1bl2.mkv"
+                                },
+                                {
+                                    "numero": 45,
+                                    "titulo": "Sesshoumaru se apodera de Tokiyin",
+                                    "url": "https://pomf2.lain.la/f/e38r19.mkv"
+                                },
+                                {
+                                    "numero": 46,
+                                    "titulo": "Jurumaru y Kageromaru",
+                                    "url": "https://pomf2.lain.la/f/ezxzu4hy.mkv"
+                                },
+                                {
+                                    "numero": 47,
+                                    "titulo": "El corazón de Onigumo",
+                                    "url": "https://pomf2.lain.la/f/lm0h6lvw.mkv"
+                                },
+                                {
+                                    "numero": 48,
+                                    "titulo": "El lugar en donde nos conocimos",
+                                    "url": "https://pomf2.lain.la/f/i0c8ielr.mkv"
+                                },
+                                {
+                                    "numero": 49,
+                                    "titulo": "Kohaku pierde la memoria",
+                                    "url": "https://pomf2.lain.la/f/2frthtjh.mkv"
+                                },
+                                {
+                                    "numero": 50,
+                                    "titulo": "El rostro de Kohaku",
+                                    "url": "https://pomf2.lain.la/f/fj7qq44.mkv"
+                                },
+                                {
+                                    "numero": 51,
+                                    "titulo": "Inu Yasha pierde el control",
+                                    "url": "https://pomf2.lain.la/f/o08smipf.mkv"
+                                },
+                                {
+                                    "numero": 52,
+                                    "titulo": "El instinto de bestia no se detiene",
+                                    "url": "https://pomf2.lain.la/f/0kro7ri.mkv"
+                                },
+                                {
+                                    "numero": 53,
+                                    "titulo": "El enemigo de mi padre, el espíritu dragón",
+                                    "url": "https://pomf2.lain.la/f/6i69r7bc.mkv"
+                                },
+                                {
+                                    "numero": 54,
+                                    "titulo": "La técnica secreta de colmillo de acero, bakuryuha",
+                                    "url": "https://pomf2.lain.la/f/q4sp2a2.mkv"
+                                },
+                                {
+                                    "numero": 55,
+                                    "titulo": "El primer amor de Shippo",
+                                    "url": "https://pomf2.lain.la/f/4b2gbsmj.mkv"
+                                },
+                                {
+                                    "numero": 56,
+                                    "titulo": "La invitación misteriosa de una princesa",
+                                    "url": "https://pomf2.lain.la/f/3b78zll.mkv"
+                                },
+                                {
+                                    "numero": 57,
+                                    "titulo": "Una noche en un paraíso extraño - primera parte",
+                                    "url": "https://pomf2.lain.la/f/w6prua0c.mkv"
+                                },
+                                {
+                                    "numero": 58,
+                                    "titulo": "Una noche en un paraíso extraño - segunda parte",
+                                    "url": "https://pomf2.lain.la/f/j3ng5nyg.mkv"
+                                },
+                                {
+                                    "numero": 59,
+                                    "titulo": "Las niñas discípulas.",
+                                    "url": "https://pomf2.lain.la/f/eun1fv3l.mkv"
+                                },
+                                {
+                                    "numero": 60,
+                                    "titulo": "Tsubaki, la sacerdotisa mala",
+                                    "url": "https://pomf2.lain.la/f/k2bc6an.mkv"
+                                },
+                                {
+                                    "numero": 61,
+                                    "titulo": "Kikyo reaparece",
+                                    "url": "https://pomf2.lain.la/f/4vaaoqqx.mkv"
+                                },
+                                {
+                                    "numero": 62,
+                                    "titulo": "La cruel maldición de Tsubaki",
+                                    "url": "https://pomf2.lain.la/f/cr0rvf.mkv"
+                                },
+                                {
+                                    "numero": 63,
+                                    "titulo": "Unas aprendices inocentes",
+                                    "url": "https://pomf2.lain.la/f/6nk5zcxu.mkv"
+                                },
+                                {
+                                    "numero": 64,
+                                    "titulo": "El demonio de la pagoda",
+                                    "url": "https://pomf2.lain.la/f/j24m3co.mkv"
+                                },
+                                {
+                                    "numero": 65,
+                                    "titulo": "Adiós a mi hermosa juventud",
+                                    "url": "https://pomf2.lain.la/f/01y7lwhv.mkv"
+                                },
+                                {
+                                    "numero": 66,
+                                    "titulo": "La decisión de Kagura",
+                                    "url": "https://pomf2.lain.la/f/ixc0h62a.mkv"
+                                },
+                                {
+                                    "numero": 67,
+                                    "titulo": "El viento de la traición se desata",
+                                    "url": "https://pomf2.lain.la/f/h9hat6.mkv"
+                                },
+                                {
+                                    "numero": 68,
+                                    "titulo": "El desafío de Shippo",
+                                    "url": "https://pomf2.lain.la/f/z50eai6d.mkv"
+                                },
+                                {
+                                    "numero": 69,
+                                    "titulo": "El terrible hombre sin rostro",
+                                    "url": "https://pomf2.lain.la/f/bqemdw0t.mkv"
+                                },
+                                {
+                                    "numero": 70,
+                                    "titulo": "Los recuerdos de Onigumo son recuperados",
+                                    "url": "https://pomf2.lain.la/f/bfkpup03.mkv"
+                                },
+                                {
+                                    "numero": 71,
+                                    "titulo": "Un combate mortal",
+                                    "url": "https://pomf2.lain.la/f/32ipf0h.mkv"
+                                },
+                                {
+                                    "numero": 72,
+                                    "titulo": "El entrenamiento de Totosai",
+                                    "url": "https://pomf2.lain.la/f/hf1dspjf.mkv"
+                                },
+                                {
+                                    "numero": 73,
+                                    "titulo": "Los hombres murciélago",
+                                    "url": "https://pomf2.lain.la/f/rohd46rh.mkv"
+                                },
+                                {
+                                    "numero": 74,
+                                    "titulo": "Colmillo de acero destruye el campo de energía",
+                                    "url": "https://pomf2.lain.la/f/o929kxsi.mkv"
+                                },
+                                {
+                                    "numero": 75,
+                                    "titulo": "El complot de los gatos leopardo",
+                                    "url": "https://pomf2.lain.la/f/ladvza7z.mkv"
+                                },
+                                {
+                                    "numero": 76,
+                                    "titulo": "Inu Yasha y Sesshoumaru, un blanco fácil",
+                                    "url": "https://pomf2.lain.la/f/oqcz75bu.mkv"
+                                },
+                                {
+                                    "numero": 77,
+                                    "titulo": "Los gatos leopardo contra las dos espadas Colmillo",
+                                    "url": "https://pomf2.lain.la/f/2zo3sxec.mkv"
+                                },
+                                {
+                                    "numero": 78,
+                                    "titulo": "Solamente tú y yo",
+                                    "url": "https://pomf2.lain.la/f/4ga3l2f4.mkv"
+                                },
+                                {
+                                    "numero": 79,
+                                    "titulo": "Jaken intenta robar a colmillo de acero",
+                                    "url": "https://pomf2.lain.la/f/j9e1kqiq.mkv"
+                                },
+                                {
+                                    "numero": 80,
+                                    "titulo": "Lin (Rin) es secuestrada",
+                                    "url": "https://pomf2.lain.la/f/3o4tyce4.mkv"
+                                },
+                                {
+                                    "numero": 81,
+                                    "titulo": "Naraku desaparece",
+                                    "url": "https://pomf2.lain.la/f/h8xj4wgr.mkv"
+                                },
+                                {
+                                    "numero": 82,
+                                    "titulo": "Conexión de la época actual con la antigüa",
+                                    "url": "https://pomf2.lain.la/f/dvngq1sg.mkv"
+                                },
+                                {
+                                    "numero": 83,
+                                    "titulo": "La promesa debajo del Arcoiris Lunar",
+                                    "url": "https://pomf2.lain.la/f/mayxmuiq.mkv"
+                                },
+                                {
+                                    "numero": 84,
+                                    "titulo": "La novia de Kouga, el lobo veloz",
+                                    "url": "https://pomf2.lain.la/f/xpnkt00x.mkv"
+                                },
+                                {
+                                    "numero": 85,
+                                    "titulo": "La cabeza del ogro",
+                                    "url": "https://pomf2.lain.la/f/mq3tc6l.mkv"
+                                },
+                                {
+                                    "numero": 86,
+                                    "titulo": "El refugio del ogro",
+                                    "url": "https://pomf2.lain.la/f/69xz492m.mkv"
+                                },
+                                {
+                                    "numero": 87,
+                                    "titulo": "Kikyou y el viajero solitario",
+                                    "url": "https://pomf2.lain.la/f/c2tw3461.mkv"
+                                },
+                                {
+                                    "numero": 88,
+                                    "titulo": "Los tres guardianes del dios mono",
+                                    "url": "https://pomf2.lain.la/f/rdrioih.mkv"
+                                },
+                                {
+                                    "numero": 89,
+                                    "titulo": "Una competencia de remedios medicinales",
+                                    "url": "https://pomf2.lain.la/f/hu7e07yy.mkv"
+                                },
+                                {
+                                    "numero": 90,
+                                    "titulo": "La confesión de Souta",
+                                    "url": "https://pomf2.lain.la/f/ft0rqkjk.mkv"
+                                },
+                                {
+                                    "numero": 91,
+                                    "titulo": "Una Kirara maligna y un adivino sospechoso",
+                                    "url": "https://pomf2.lain.la/f/050yszha.mkv"
+                                },
+                                {
+                                    "numero": 92,
+                                    "titulo": "La ambición de los resucitados",
+                                    "url": "https://pomf2.lain.la/f/oxwl783.mkv"
+                                },
+                                {
+                                    "numero": 93,
+                                    "titulo": "Un misterioso monje aparece",
+                                    "url": "https://pomf2.lain.la/f/32usa8bc.mkv"
+                                },
+                                {
+                                    "numero": 94,
+                                    "titulo": "El creador de la perla de Shikon - primera parte",
+                                    "url": "https://pomf2.lain.la/f/zjy6jtun.mkv"
+                                },
+                                {
+                                    "numero": 95,
+                                    "titulo": "El creador de la perla de Shikon - segunda parte",
+                                    "url": "https://pomf2.lain.la/f/nck92ir0.mkv"
+                                },
+                                {
+                                    "numero": 96,
+                                    "titulo": "Jaken se envenena",
+                                    "url": "https://pomf2.lain.la/f/fu7aox1u.mkv"
+                                },
+                                {
+                                    "numero": 97,
+                                    "titulo": "Kirara no regresa",
+                                    "url": "https://pomf2.lain.la/f/6nc92eti.mkv"
+                                },
+                                {
+                                    "numero": 98,
+                                    "titulo": "Kagome y Kikyou quedan atrapadas",
+                                    "url": "https://pomf2.lain.la/f/tybg7xvb.mkv"
+                                },
+                                {
+                                    "numero": 99,
+                                    "titulo": "Kouga y Sesshoumaru, un enfrentamiento peligroso",
+                                    "url": "https://pomf2.lain.la/f/upkdbja4.mkv"
+                                },
+                                {
+                                    "numero": 100,
+                                    "titulo": "La batalla en el bosque de los lamentos",
+                                    "url": "https://pomf2.lain.la/f/1g1rd0h5.mkv"
+                                },
+                                {
+                                    "numero": 101,
+                                    "titulo": "El recuerdo de una tormenta",
+                                    "url": "https://pomf2.lain.la/f/c5ev0w4n.mkv"
+                                },
+                                {
+                                    "numero": 102,
+                                    "titulo": "El espíritu que atacó al clan lobo",
+                                    "url": "https://pomf2.lain.la/f/yyd4jai.mkv"
+                                },
+                                {
+                                    "numero": 103,
+                                    "titulo": "Los siete espíritus guerreros resucitan",
+                                    "url": "https://pomf2.lain.la/f/6u6ctepd.mkv"
+                                },
+                                {
+                                    "numero": 104,
+                                    "titulo": "El espíritu del veneno",
+                                    "url": "https://pomf2.lain.la/f/uz297yy1.mkv"
+                                },
+                                {
+                                    "numero": 105,
+                                    "titulo": "La extraña arma plegadiza de acero.",
+                                    "url": "https://pomf2.lain.la/f/vk8wyrn0.mkv"
+                                },
+                                {
+                                    "numero": 106,
+                                    "titulo": "Kagome, Miroku y Sango en peligro",
+                                    "url": "https://pomf2.lain.la/f/2resbt2w.mkv"
+                                },
+                                {
+                                    "numero": 107,
+                                    "titulo": "La lagrimas de inuyasha se demuestran por primera vez!",
+                                    "url": "https://pomf2.lain.la/f/kfxlh6r9.mkv"
+                                },
+                                {
+                                    "numero": 108,
+                                    "titulo": "El secreto de la luz pura",
+                                    "url": "https://pomf2.lain.la/f/gpvom70.mkv"
+                                },
+                                {
+                                    "numero": 109,
+                                    "titulo": "Cabeza para Mt Hakurei, escondido en la niebla",
+                                    "url": "https://pomf2.lain.la/f/4p3hetmf.mkv"
+                                },
+                                {
+                                    "numero": 110,
+                                    "titulo": "Bankotsu, el lider del Shichinintai",
+                                    "url": "https://pomf2.lain.la/f/jh7bpw1m.mkv"
+                                },
+                                {
+                                    "numero": 111,
+                                    "titulo": "Duelo! Banryu contra Kaze no kizu",
+                                    "url": "https://pomf2.lain.la/f/t4606gc6.mkv"
+                                },
+                                {
+                                    "numero": 112,
+                                    "titulo": "El escudo de la isla Hijiri que flota en la superficie del lago",
+                                    "url": "https://pomf2.lain.la/f/xav2nyx.mkv"
+                                },
+                                {
+                                    "numero": 113,
+                                    "titulo": "Los secretos de un santo Tokko y un Sokushin-butsu",
+                                    "url": "https://pomf2.lain.la/f/6c0fmh1h.mkv"
+                                },
+                                {
+                                    "numero": 114,
+                                    "titulo": "La solitaria batalla de Kouga",
+                                    "url": "https://pomf2.lain.la/f/az6zz7at.mkv"
+                                },
+                                {
+                                    "numero": 115,
+                                    "titulo": "El trago de la luz negra",
+                                    "url": "https://pomf2.lain.la/f/e0qcjbyd.mkv"
+                                },
+                                {
+                                    "numero": 116,
+                                    "titulo": "La cara verdadera de Suikotsu",
+                                    "url": "https://pomf2.lain.la/f/lj06ww3g.mkv"
+                                },
+                                {
+                                    "numero": 117,
+                                    "titulo": "Una persona desaparecida en el rio ardiente",
+                                    "url": "https://pomf2.lain.la/f/zith3o74.mkv"
+                                },
+                                {
+                                    "numero": 118,
+                                    "titulo": "El corazon de Hakurei",
+                                    "url": "https://pomf2.lain.la/f/wcufe1fh.mkv"
+                                },
+                                {
+                                    "numero": 119,
+                                    "titulo": "Un divino y malisioso Santo",
+                                    "url": "https://pomf2.lain.la/f/9cededb7.mkv"
+                                },
+                                {
+                                    "numero": 120,
+                                    "titulo": "Un adios para Jakotsu",
+                                    "url": "https://pomf2.lain.la/f/c62gyd82.mkv"
+                                },
+                                {
+                                    "numero": 121,
+                                    "titulo": "Batalla, El mas fuerte y ultimo Shichinin-Tai",
+                                    "url": "https://pomf2.lain.la/f/js47qbw9.mkv"
+                                },
+                                {
+                                    "numero": 122,
+                                    "titulo": "El combate final",
+                                    "url": "https://pomf2.lain.la/f/zs5csb1.mkv"
+                                },
+                                {
+                                    "numero": 123,
+                                    "titulo": "Naraku renace de la oscuridad",
+                                    "url": "https://pomf2.lain.la/f/zk2u083o.mkv"
+                                },
+                                {
+                                    "numero": 124,
+                                    "titulo": "Adios, Mi adorable Kikyou",
+                                    "url": "https://pomf2.lain.la/f/ebct67p3.mkv"
+                                },
+                                {
+                                    "numero": 125,
+                                    "titulo": "Oscuridad en el corazon de Aome",
+                                    "url": "https://pomf2.lain.la/f/uo534ws.mkv"
+                                },
+                                {
+                                    "numero": 126,
+                                    "titulo": "Cambia la Angustia en valor",
+                                    "url": "https://pomf2.lain.la/f/gph7dtb0.mkv"
+                                },
+                                {
+                                    "numero": 127,
+                                    "titulo": "No despiertes el mounstro en ti youkai",
+                                    "url": "https://pomf2.lain.la/f/xornre0.mkv"
+                                },
+                                {
+                                    "numero": 128,
+                                    "titulo": "El youkai y la pelea en el festival de la escuela",
+                                    "url": "https://pomf2.lain.la/f/5bxd6w79.mkv"
+                                },
+                                {
+                                    "numero": 129,
+                                    "titulo": "Cho Kyukai y la novia pillada",
+                                    "url": "https://pomf2.lain.la/f/vu3eutzj.mkv"
+                                },
+                                {
+                                    "numero": 130,
+                                    "titulo": "Shipo en la escuela de Lucha Arcanum \"Kokoro no Kizu\"",
+                                    "url": "https://pomf2.lain.la/f/bopcsc1z.mkv"
+                                },
+                                {
+                                    "numero": 131,
+                                    "titulo": "La pintura de Kanon",
+                                    "url": "https://pomf2.lain.la/f/6ny3m5f.mkv"
+                                },
+                                {
+                                    "numero": 132,
+                                    "titulo": "La confecin mas peligrosa de Miroku",
+                                    "url": "https://pomf2.lain.la/f/1gtzzi2g.mkv"
+                                },
+                                {
+                                    "numero": 133,
+                                    "titulo": "La mujer que amaba a Sesshomaru (1)",
+                                    "url": "https://pomf2.lain.la/f/lass5lr0.mkv"
+                                },
+                                {
+                                    "numero": 134,
+                                    "titulo": "La mujer que amaba a Sesshomaru (2)",
+                                    "url": "https://pomf2.lain.la/f/q8d12e8r.mkv"
+                                },
+                                {
+                                    "numero": 135,
+                                    "titulo": "El ultimo banquete de Miroku",
+                                    "url": "https://pomf2.lain.la/f/9mdk3658.mkv"
+                                },
+                                {
+                                    "numero": 136,
+                                    "titulo": "El extraño yukai invisible Aparese",
+                                    "url": "https://pomf2.lain.la/f/3bdbvmm0.mkv"
+                                },
+                                {
+                                    "numero": 137,
+                                    "titulo": "El nombre del antepasado es Kagome",
+                                    "url": "https://pomf2.lain.la/f/uzuocyke.mkv"
+                                },
+                                {
+                                    "numero": 138,
+                                    "titulo": "La Supervivencia de las dos personas en la islas de los demonios",
+                                    "url": "https://pomf2.lain.la/f/zhkk1397.mkv"
+                                },
+                                {
+                                    "numero": 139,
+                                    "titulo": "Un gran duelo en la cascada Sho´un",
+                                    "url": "https://pomf2.lain.la/f/xco21fm.mkv"
+                                },
+                                {
+                                    "numero": 140,
+                                    "titulo": "Sentimientos Eternos",
+                                    "url": "https://pomf2.lain.la/f/ildjx6c6.mkv"
+                                },
+                                {
+                                    "numero": 141,
+                                    "titulo": "EL caballo demonio, Entei",
+                                    "url": "https://pomf2.lain.la/f/r6oh2y7f.mkv"
+                                },
+                                {
+                                    "numero": 142,
+                                    "titulo": "Corre Entei y bloquea a Hakudoushi",
+                                    "url": "https://pomf2.lain.la/f/p3h75krn.mkv"
+                                },
+                                {
+                                    "numero": 143,
+                                    "titulo": "3000 ligas en busca del padre",
+                                    "url": "https://pomf2.lain.la/f/rn09dn7f.mkv"
+                                },
+                                {
+                                    "numero": 144,
+                                    "titulo": "Housenqui y el secreto final",
+                                    "url": "https://pomf2.lain.la/f/bokzx6ny.mkv"
+                                },
+                                {
+                                    "numero": 145,
+                                    "titulo": "Obstruciones estrañas en la puerta del otro mundo",
+                                    "url": "https://pomf2.lain.la/f/1grlaqi4.mkv"
+                                },
+                                {
+                                    "numero": 146,
+                                    "titulo": "EL salvaje pajaro, Abi",
+                                    "url": "https://pomf2.lain.la/f/fr4z3m3.mkv"
+                                },
+                                {
+                                    "numero": 147,
+                                    "titulo": "Una hermosa cancion antes de conocernos (1) Lista de Capitulos de Inuyasha Smile Mi favorito",
+                                    "url": "https://pomf2.lain.la/f/7c4jztpc.mkv"
+                                },
+                                {
+                                    "numero": 148,
+                                    "titulo": "Una hermosa cancion antes de conocernos (2)",
+                                    "url": "https://pomf2.lain.la/f/25vtcyi.mkv"
+                                },
+                                {
+                                    "numero": 149,
+                                    "titulo": "Un simple flecha Llamando al problema",
+                                    "url": "https://pomf2.lain.la/f/mhf9q1bu.mkv"
+                                },
+                                {
+                                    "numero": 150,
+                                    "titulo": "La luz que conduce al Santo",
+                                    "url": "https://pomf2.lain.la/f/ds9nu0.mkv"
+                                },
+                                {
+                                    "numero": 151,
+                                    "titulo": "La descicion instintiva de Aome",
+                                    "url": "https://pomf2.lain.la/f/yv8norsu.mkv"
+                                },
+                                {
+                                    "numero": 152,
+                                    "titulo": "Protector y Salvador",
+                                    "url": "https://pomf2.lain.la/f/qd4bqbxn.mkv"
+                                },
+                                {
+                                    "numero": 153,
+                                    "titulo": "El destino reune una cruel reunion",
+                                    "url": "https://pomf2.lain.la/f/nngxhbby.mkv"
+                                },
+                                {
+                                    "numero": 154,
+                                    "titulo": "Le demonio que viaja al otro tiempo",
+                                    "url": "https://pomf2.lain.la/f/bw3u6cd3.mkv"
+                                },
+                                {
+                                    "numero": 155,
+                                    "titulo": "El demonio que guarda el secreto de la Shikon",
+                                    "url": "https://pomf2.lain.la/f/w71nzl7n.mkv"
+                                },
+                                {
+                                    "numero": 156,
+                                    "titulo": "La batalla antes de la tumba- Sesshomaru vs InuYasha",
+                                    "url": "https://pomf2.lain.la/f/kxz1bw16.mkv"
+                                },
+                                {
+                                    "numero": 157,
+                                    "titulo": "A travez de Naraku",
+                                    "url": "https://pomf2.lain.la/f/p06lao4.mkv"
+                                },
+                                {
+                                    "numero": 158,
+                                    "titulo": "La estanpida incontable de los ratones demonio",
+                                    "url": "https://pomf2.lain.la/f/l299a02a.mkv"
+                                },
+                                {
+                                    "numero": 159,
+                                    "titulo": "La resolucion de Kohaku y el corazon de Sango",
+                                    "url": "https://pomf2.lain.la/f/0pan6vyl.mkv"
+                                },
+                                {
+                                    "numero": 160,
+                                    "titulo": "El violento demonio que trae felicidad",
+                                    "url": "https://pomf2.lain.la/f/wv601vd.mkv"
+                                },
+                                {
+                                    "numero": 161,
+                                    "titulo": "La vieja amistad de Miroku",
+                                    "url": "https://pomf2.lain.la/f/jc9vi13y.mkv"
+                                },
+                                {
+                                    "numero": 162,
+                                    "titulo": "Juntos con el Señor Sesshomaru para siempre",
+                                    "url": "https://pomf2.lain.la/f/hboanyw.mkv"
+                                },
+                                {
+                                    "numero": 163,
+                                    "titulo": "El secreto del jardin-Sango, Kirara y Kohaku",
+                                    "url": "https://pomf2.lain.la/f/l8uoks4.mkv"
+                                },
+                                {
+                                    "numero": 164,
+                                    "titulo": "El enemigo mas poderoso",
+                                    "url": "https://pomf2.lain.la/f/8ac7jm31.mkv"
+                                },
+                                {
+                                    "numero": 165,
+                                    "titulo": "La mejor pista para derrotar a Naraku",
+                                    "url": "https://pomf2.lain.la/f/ah9ennzc.mkv"
+                                },
+                                {
+                                    "numero": 166,
+                                    "titulo": "La pareja se une, usa el Fragmento de Shikon (1)",
+                                    "url": "https://pomf2.lain.la/f/mxxrev4q.mkv"
+                                },
+                                {
+                                    "numero": 167,
+                                    "titulo": "La pareja se une, usa el Fragmento de Shikon(2)",
+                                    "url": "https://pomf2.lain.la/f/edtw95u9.mkv"
+                                }
+                            ]
+                        }
+                    ],
+                    "total_seasons": 1,
+                    "tmdb_id": "35610"
                 }
             ]
         }
